@@ -1,0 +1,42 @@
+name: Sincronizar propiedades Tokko
+
+on:
+  schedule:
+    # Cada 3 horas entre 08:00 y 20:00 hora Argentina (UTC-3)
+    - cron: '0 11,14,17,20,23 * * *'
+  workflow_dispatch:   # permite ejecutarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Sincronizar propiedades
+        env:
+          TOKKO_API_KEY: ${{ secrets.TOKKO_API_KEY }}
+        run: python sync_tokko.py
+
+      - name: Commit si hay cambios
+        run: |
+          git config user.name "jb-bot"
+          git config user.email "bot@juarezbeltran.com.ar"
+          git add propiedades.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios en propiedades."
+          else
+            git commit -m "Actualización de propiedades $(date -u +'%Y-%m-%d %H:%M')"
+            git push
+          fi
