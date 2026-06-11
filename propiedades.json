@@ -1,6 +1,6 @@
 {
- "generado": "2026-06-11T00:12:32.492030+00:00",
- "total": 188,
+ "generado": "2026-06-11T14:34:08.447269+00:00",
+ "total": 189,
  "propiedades": [
   {
    "id": 471897,
@@ -3291,6 +3291,84 @@
    "destacada": true,
    "creada": "2023-09-27T14:14:31",
    "actualizada": "2026-04-27T17:55:41"
+  },
+  {
+   "id": 5621076,
+   "referencia": "JAP5621076",
+   "titulo": "Departamento en  Alquiler - Alberdi - 2 Dorm",
+   "descripcion": "                2 DORMITORIOS | LUMINOSO \nUBICACIÓN:  9 de Julio 985 a mts de avenida Colon. A dos cuadras de cañada. \n\nPROPIEDAD/CARACTERISITICAS: Departamento de 2 dormitorios frente con Balcón, cocina separada.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nPara más información, consultar aquí:\nCÓRDOBA – San Lorenzo 25. 3° Piso– Nva. Cba – TEL: +54 3514214400 / WSP +54 9 3513470043 – jbeltran@juarezbeltran.com.ar\n\n\n\r\n\r\n            ",
+   "operacion": "Alquiler",
+   "precio": 800000,
+   "moneda": "ARS",
+   "muestra_precio": true,
+   "tipo": "Departamento",
+   "direccion": "9 de Julio 985 - 2 Dorm - Alquiler",
+   "barrio": "Alberdi",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Alberdi",
+   "ambientes": 0,
+   "dormitorios": 2,
+   "banos": 1,
+   "cocheras": 0,
+   "sup_cubierta": "65.00",
+   "sup_total": "72.00",
+   "antiguedad": 40,
+   "apto_credito": null,
+   "lat": "-31.4110611",
+   "lng": "-64.1969735",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/water_pics/2219598324438905285143859585545974714586650079917942301678927314308046043598.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/2219598324438905285143859585545974714586650079917942301678927314308046043598_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/5585069653732424631203160650533712293157838266426138941064082554977131360120.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/5585069653732424631203160650533712293157838266426138941064082554977131360120_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/70452942701766785271316404069566417966893979647564906326311585824887426963608.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/70452942701766785271316404069566417966893979647564906326311585824887426963608_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/23946195862533511993892692534860555994908055912713704495678769102374053162137.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/23946195862533511993892692534860555994908055912713704495678769102374053162137_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/73218967435850666800562858114254489154926769978323391842588878276286356930303.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/73218967435850666800562858114254489154926769978323391842588878276286356930303_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/58497767735312421245496928292370928862773935006729182381137567736108021604351.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/58497767735312421245496928292370928862773935006729182381137567736108021604351_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/106500827548461905991359328206978826366753749654707807403925491575605967529536.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/106500827548461905991359328206978826366753749654707807403925491575605967529536_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/3216213896639358632797384441227414755643683508356766453241856285704807149477.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3216213896639358632797384441227414755643683508356766453241856285704807149477_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/39174562219716851533578346454835904444327870111429885525621366637663479707858.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/39174562219716851533578346454835904444327870111429885525621366637663479707858_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/85886384749678520775394166286642159439632471739604090682827617477333301249131.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/85886384749678520775394166286642159439632471739604090682827617477333301249131_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/27470292495188217608634104202576327706683119245556883828683252317803987693214.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/27470292495188217608634104202576327706683119245556883828683252317803987693214_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/39161699756111754686567946470954477018202432398630696743841068519603082941565.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/39161699756111754686567946470954477018202432398630696743841068519603082941565_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2023-11-02T17:57:42",
+   "actualizada": "2026-06-11T14:32:44"
   },
   {
    "id": 5898388,
@@ -24480,7 +24558,7 @@
   {
    "id": 8162398,
    "referencia": "JHO8162398",
-   "titulo": "Venta - Casa de 3 dormitorios en Villa Allende - Terrazas de Villa Allende",
+   "titulo": "Venta - Casa de 3 dormitorios APTA CREDITO en Villa Allende - Terrazas de Villa Allende",
    "descripcion": "JUAREZ BELTRAN VILLA ALLENDE - Vende\n\nUBICACIÓN: Terrazas de Villa Allende\nPROPIEDAD/CARACTERÍSTICAS: Muy linda casa de 3 dormitorios en un barrio tranquilo de Villa Allende, a metros de la guardia, lo que le proporciona total seguridad. La misma cuenta con calefacción por tiro balanceado, pisos de cerámico, aberturas de aluminio, placares con interiores, cochera para 2 autos, asador, y se desarrolla en 2 plantas: \nPlanta Baja: Living - Comedor con hogarCocina integradaLavadero y tenderToiletteSalida a galeriaGaleria con asadorPatioPileta\nPlanta Alta:Hall de distribución3 dormitorios con placares, el principal en suite con salida a gran balcón terrazaBaño completo con antebaño\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramentereferencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación delpropietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Bernardo González Beretta. Tel: 3512033761.\n                \r\n\r\n            ",
    "operacion": "Venta",
    "precio": 197000,
@@ -24621,7 +24699,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-06-09T18:37:58",
-   "actualizada": "2026-06-09T20:44:44"
+   "actualizada": "2026-06-11T14:16:37"
   },
   {
    "id": 8165711,
