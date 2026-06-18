@@ -1,6 +1,6 @@
 {
- "generado": "2026-06-18T00:13:44.553454+00:00",
- "total": 191,
+ "generado": "2026-06-18T14:08:22.410899+00:00",
+ "total": 192,
  "propiedades": [
   {
    "id": 471897,
@@ -25125,9 +25125,9 @@
    "id": 8352738,
    "referencia": "JAP8352738",
    "titulo": "Depto de 1 dormitorio en ALQUILER - B° Cofico",
-   "descripcion": "1 DORMITORIO - VISTA FRENTE - LUMINOSO\n\nUbicación: Lavalleja 1617 - B° Cofico. A solo media cuadra de Jeronimo luis de Cabrera y  Fragueiro, uno de los principales corredores comerciales de la zona.\n\nCaracterísticas:\n* Cocina semi integrada con muebles bajo mesada, artefacto de cocina, calefón, bacha separada estilo lavadero.\n* Living comedor amplio y luminoso con calefactor a gas.\n* Baño completo con ducha.\n* Dormitorio con persiana y placard empotrado.\n\n--&gt; Importante! cocheras disponibles. $60.000 con ajuste bimestral.\n\nRequisitos:\nA) Dos recibos de sueldo iguales o superiores a $1.150.000 + garantía propietaria.\nB) Tres recibos de sueldo iguales o superiores a $1.150.000.\nC) Seguro de caución operado por Locativa.\n\n\nContrato: \nContrato a celebrarse por 24 meses (2 años), con ajuste trimestral bajo el Índice del IPC - BCRA.\n\n\nHabla con propiedad, habla con Juarez Beltrán. JUAREZ BELTRAN S.A.\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba\nHorarios de atención de lunes a viernes de 09.00 a 17.00hs\n\n\nContacto:\nFijo: 351 4214400\nWhatsapp (solo mensajes): 3513470043\nMail: jbeltran@juarezbeltran.com.ar\n                \r\n\r\n            ",
+   "descripcion": "                1 DORMITORIO - VISTA FRENTE - LUMINOSO\n\nUbicación: Lavalleja 1617 - B° Cofico. A solo media cuadra de Jeronimo luis de Cabrera y  Fragueiro, uno de los principales corredores comerciales de la zona.\n\nCaracterísticas:\n* Cocina semi integrada con muebles bajo mesada, artefacto de cocina, calefón, bacha separada estilo lavadero.\n* Living comedor amplio y luminoso con calefactor a gas.\n* Baño completo con ducha.\n* Dormitorio con persiana y placard empotrado.\n\n--&gt; Importante! cocheras disponibles. $60.000 con ajuste bimestral.\n\nRequisitos:\nA) Dos recibos de sueldo iguales o superiores a $1.200.000 + garantía propietaria.\nB) Tres recibos de sueldo iguales o superiores a $1.200.000.\nC) Seguro de caución operado por Locativa.\n\n\nContrato: \nContrato a celebrarse por 24 meses (2 años), con ajuste trimestral bajo el Índice del IPC - BCRA.\n\n\nHabla con propiedad, habla con Juarez Beltrán. JUAREZ BELTRAN S.A.\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba\nHorarios de atención de lunes a viernes de 09.00 a 17.00hs\n\n\nContacto:\nFijo: 351 4214400\nWhatsapp (solo mensajes): 3513470043\nMail: jbeltran@juarezbeltran.com.ar\n                \n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
-   "precio": 550000,
+   "precio": 580000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -25217,7 +25217,109 @@
    "video": null,
    "destacada": false,
    "creada": "2026-06-17T13:36:18",
-   "actualizada": "2026-06-17T13:44:49"
+   "actualizada": "2026-06-18T12:17:10"
+  },
+  {
+   "id": 8357828,
+   "referencia": "JLA8357828",
+   "titulo": "Terreno en VENTA",
+   "descripcion": "                                                TERRENO DE 962 m2 - DOBLE ENTRADA - CALLE FRAY MOCHO Y JUAN CRUZ VARELA\n\n\nImportante lote con salida a dos calles, ubicado a tan solo dos cuadras de Av. Rafael Núñez, en una de las zonas de mayor crecimiento y demanda de la ciudad.\n\nSu estratégica ubicación lo sitúa a pasos del polo gastronómico y comercial, rodeado de servicios, propuestas de entretenimiento y con excelentes accesos.\nIdeal para emprendimientos residenciales, comerciales o de usos mixtos, aprovechando el potencial que brinda su doble frente.\nEl terreno cuenta con una vivienda construida en el centro del lote, la cual se considera a demoler, permitiendo proyectar un desarrollo integral desde cero.\n\n\nConsultanos para más información y conocer el potencial de este inmueble.\n\n\nHabla con propiedad, habla con Juarez Beltran. | JUAREZ BELTRAN SA\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba \nHorarios de atencion: Lunes a viernes de 09.00 a 17.00hs \nContacto:\nFijo: 351 4214400 | Whatsapp (solo mensajes) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n\n\n            \n\n            \r\n\r\n            ",
+   "operacion": "Venta",
+   "precio": 200000,
+   "moneda": "USD",
+   "muestra_precio": true,
+   "tipo": "Terreno",
+   "direccion": "Fray Mocho al 2400",
+   "barrio": "Parque Corema",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Parque Corema",
+   "ambientes": 0,
+   "dormitorios": 0,
+   "banos": 0,
+   "cocheras": 0,
+   "sup_cubierta": "0.00",
+   "sup_total": "0.00",
+   "antiguedad": 0,
+   "apto_credito": null,
+   "lat": "-31.3675282",
+   "lng": "-64.2293293",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_18465044622047439970458994166751257025725158380023150392268810336861955260353.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_18465044622047439970458994166751257025725158380023150392268810336861955260353_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_4844860920505664587514477176704137775536998956037913876103952476793044287085.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_4844860920505664587514477176704137775536998956037913876103952476793044287085_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_42126818659478179213576832750279974728067375894739363854518128425840367616199.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_42126818659478179213576832750279974728067375894739363854518128425840367616199_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_81531510151798410036567282848910807525057737648290626879495231112486356046946.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_81531510151798410036567282848910807525057737648290626879495231112486356046946_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_104464578107954307883553571100596366252480859099084575788519093396211738395779.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_104464578107954307883553571100596366252480859099084575788519093396211738395779_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_55951153213092138798432544056221154174618954274127562283280483355949440345783.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_55951153213092138798432544056221154174618954274127562283280483355949440345783_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_114460029385490864787390621998719104156953999719471571413781506765199274721800.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_114460029385490864787390621998719104156953999719471571413781506765199274721800_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_74270289927989370573935232938599933468303701087375113666561299539357890066431.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_74270289927989370573935232938599933468303701087375113666561299539357890066431_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_80389505005919042258572475590333940811664327230081733862334524373670883411701.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_80389505005919042258572475590333940811664327230081733862334524373670883411701_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_43227744112241462422225816166717711089151098633681974579409473601379999548600.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_43227744112241462422225816166717711089151098633681974579409473601379999548600_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_17693203879813369791757998867129635672946669601915066290415760484937828651544.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_17693203879813369791757998867129635672946669601915066290415760484937828651544_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_18246471985776271163145181257293986400011653485709477771566466203786881841410.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_18246471985776271163145181257293986400011653485709477771566466203786881841410_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_16986156249879290202426041912739404071276433256671614834421732341898787528942.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_16986156249879290202426041912739404071276433256671614834421732341898787528942_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_19424421814707601717295112372612414167037163045167968510204861237268582449214.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_19424421814707601717295112372612414167037163045167968510204861237268582449214_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_25857942089272990168366183286047367673031304398298402463949303171568995264891.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_25857942089272990168366183286047367673031304398298402463949303171568995264891_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_10046525906530861592861673849189778522673330733319910528438529726086229161661.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_10046525906530861592861673849189778522673330733319910528438529726086229161661_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_40969940086848493472137367504432233017791231974267400352775546778447132063586.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_40969940086848493472137367504432233017791231974267400352775546778447132063586_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8357828_100957338241010769513251015459138226897243886574631229458454106861702579486359.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8357828_100957338241010769513251015459138226897243886574631229458454106861702579486359_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2026-06-18T12:27:50",
+   "actualizada": "2026-06-18T13:41:22"
   }
  ]
 }
