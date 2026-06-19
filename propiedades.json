@@ -1,5 +1,5 @@
 {
- "generado": "2026-06-19T13:59:53.960143+00:00",
+ "generado": "2026-06-19T16:35:35.494928+00:00",
  "total": 192,
  "propiedades": [
   {
@@ -3526,7 +3526,7 @@
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Terreno",
-   "direccion": "loteo en La Carolina.,La Carolina entre Antártida y Florida",
+   "direccion": "La Carolina a metros de Valle Escondido , entre Antártida y Florida",
    "barrio": "La Carolina",
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | La Carolina",
    "ambientes": 0,
@@ -3596,7 +3596,7 @@
    "video": null,
    "destacada": false,
    "creada": "2024-02-19T20:12:46",
-   "actualizada": "2026-05-08T13:50:16"
+   "actualizada": "2026-06-19T14:09:56"
   },
   {
    "id": 5969911,
@@ -6466,7 +6466,7 @@
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Terreno",
-   "direccion": "Campo Chico,O higgins 7500",
+   "direccion": "Av. O'Higgins - CAMPO CHICO",
    "barrio": "Cordoba Capital",
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital ",
    "ambientes": 0,
@@ -6496,7 +6496,7 @@
    "video": null,
    "destacada": false,
    "creada": "2025-05-23T13:05:15",
-   "actualizada": "2026-03-13T12:54:49"
+   "actualizada": "2026-06-19T14:06:35"
   },
   {
    "id": 7031016,
