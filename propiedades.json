@@ -1,5 +1,5 @@
 {
- "generado": "2026-06-22T15:49:41.252149+00:00",
+ "generado": "2026-06-22T20:07:39.267509+00:00",
  "total": 193,
  "propiedades": [
   {
@@ -20649,7 +20649,7 @@
    "titulo": "VENTA – LOTE EN VIARAVA",
    "descripcion": "JUAREZ BELTRAN VILLA ALLENDE – VENDE\nHermoso lote esquina de 580m2 con orientacion este, en el barrio privado VIARAVA. El lote se encuentra a menos de 300 metros del ingreso controlado  y frente a espacios verdes. Es un terreno plano, sin pendiente que optimiza la construcción.\nEl barrio cuenta con servicios subterráneos, calles pavimentadas, seguridad 24hs.\nSu acceso y cercanía a principales centros como el aeropuerto, shopping, colegios, universidades y centro de atención medica lo convierte en el lugar ideal para vivir.\nSe vende por cesión de boleto. posesión en agosto 2026.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\n\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Mariana Magliano. Tel: 3516164296. mmagliano@juarezbeltran.com.ar\n                \r\n            ",
    "operacion": "Venta",
-   "precio": 120000,
+   "precio": 117000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Terreno",
@@ -20743,7 +20743,7 @@
    "video": "https://www.youtube.com/embed/rQd6CxN9MNY",
    "destacada": true,
    "creada": "2026-05-13T16:49:51",
-   "actualizada": "2026-05-13T17:30:38"
+   "actualizada": "2026-06-22T19:29:50"
   },
   {
    "id": 8042344,
@@ -25174,8 +25174,8 @@
    "muestra_precio": true,
    "tipo": "Departamento",
    "direccion": "Venta departamento Casonas del Golf – 2 dormitorios en suite-1 toilette- 2 cocheras",
-   "barrio": "Villa Allende",
-   "ubicacion_completa": "Argentina | Cordoba | Colon | Villa Allende",
+   "barrio": "Casonas del Golf",
+   "ubicacion_completa": "Argentina | Cordoba | Colon | Villa Allende | Casonas del Golf",
    "ambientes": 3,
    "dormitorios": 2,
    "banos": 2,
@@ -25271,7 +25271,7 @@
    "video": null,
    "destacada": true,
    "creada": "2026-06-19T22:17:48",
-   "actualizada": "2026-06-19T23:00:29"
+   "actualizada": "2026-06-22T19:59:12"
   },
   {
    "id": 8371630,
