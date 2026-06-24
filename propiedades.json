@@ -1,6 +1,6 @@
 {
- "generado": "2026-06-23T23:53:28.965008+00:00",
- "total": 190,
+ "generado": "2026-06-24T13:17:48.196811+00:00",
+ "total": 191,
  "propiedades": [
   {
    "id": 471897,
@@ -1081,6 +1081,76 @@
    "destacada": true,
    "creada": "2019-09-16T19:44:58",
    "actualizada": "2026-06-01T16:54:03"
+  },
+  {
+   "id": 2224813,
+   "referencia": "JAP2224813",
+   "titulo": "Departamento - Nueva Cordoba",
+   "descripcion": "DEPTO 1 DOR - EXCELENTE UBICACIÓN - DISPONIBLE A PARTIR DE JULIO 2026\nUbicación: Buenos Aires 971 casi esquina Estrada - Piso 9 \"B\"\nCaracterísticas:\nIngresamos por puerta hacia el estar principal con cocina integrada y muebles bajo mesada. A continuación por puerta ventana corrediza accedemos al Balcón. Cuenta con ante-baño vanitory  y baño completo con ducha.  Por puerta ingresamos al  dormitorio con placard empotrado e interiores.\nLa construcción es muy buena con aberturas de primera calidad en aluminio, pisos de porcelanato, griferia FV y terminaciones de calidad.\n\n\nRequisitos:\n1) Dos recibos de sueldo iguales o superiores de $1.400.000 + garantía propietaria\n2) Tres recibos de sueldo iguales o superiores de $1.400.000\n3) Seguro de caucion operado por Locativa\n\n\nContrato:\nContrato a celebrarse por 18 meses con aumento trimestral bajo el indice de IPC.\n\n\nHabla con propiedad, habla con Juarez Beltran.\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba\nHorarios de atención de Lunes a Viernes de 09.00 a 17.00 hs.\n\n\nContacto:\nFijo: (351) 4214400 | Whatsapp: (+54 9) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n",
+   "operacion": "Venta",
+   "precio": 750000,
+   "moneda": "ARS",
+   "muestra_precio": false,
+   "tipo": "Departamento",
+   "direccion": "Buenos Aires al 900",
+   "barrio": "Nueva Cordoba",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Nueva Cordoba",
+   "ambientes": 2,
+   "dormitorios": 1,
+   "banos": 1,
+   "cocheras": 0,
+   "sup_cubierta": "41.00",
+   "sup_total": "0.00",
+   "antiguedad": 0,
+   "apto_credito": null,
+   "lat": "-31.4275847",
+   "lng": "-64.1872949",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/2224813_86897824719759991849690525719670926731232703133049515660179040043663035982046.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/2224813_86897824719759991849690525719670926731232703133049515660179040043663035982046_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/2224813_105954320736827823962340719584903437843001154317728516353885550620497169620624.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/2224813_105954320736827823962340719584903437843001154317728516353885550620497169620624_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/2224813_93869911759917195622946907679451312597874806249988887245200497808552822381707.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/2224813_93869911759917195622946907679451312597874806249988887245200497808552822381707_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/97414619213734887408482782028447259574719844081842075053436082084627799155788.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/97414619213734887408482782028447259574719844081842075053436082084627799155788_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/105489151766450774220845276918496165735570500531450098752654757381968100253404.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/105489151766450774220845276918496165735570500531450098752654757381968100253404_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/58153718082700300791417633759723383102384476496911729024945890807540590698442.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/58153718082700300791417633759723383102384476496911729024945890807540590698442_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/111579105891636957541491714301393074254001324929327253246070095998285324435515.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/111579105891636957541491714301393074254001324929327253246070095998285324435515_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/88559659961195358708232212500216328450152382758808268590550159408330976904104.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/88559659961195358708232212500216328450152382758808268590550159408330976904104_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/56488094108111406819825392268575215580389778574725976790648670683893043952598.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/56488094108111406819825392268575215580389778574725976790648670683893043952598_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/57588632038510159404998859252378450954904406352422489655314205447121372662177.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/57588632038510159404998859252378450954904406352422489655314205447121372662177_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2019-10-23T17:21:52",
+   "actualizada": "2026-06-24T13:07:22"
   },
   {
    "id": 2290910,
@@ -11431,7 +11501,7 @@
    "id": 7720930,
    "referencia": "JAP7720930",
    "titulo": "Depto en alquiler | Balcon al frente | 1 dor",
-   "descripcion": "                                Alquiler 1 Dormitorio con Balcón al Frente | 7mo y 9no piso | Arturo M. Bas 393 | JUAREZ BELTRAN S.A.\nDESCRIPCIÓN: Excelente departamento de 1 dormitorio ubicado en un punto estratégico de la ciudad (Arturo M. Bas 393) edificio Maria Reina XVI, a metros de Bv. San Juan y zona Tribunales.\nLa unidad (Piso 11º \"C\") se destaca por su disposición al frente y luminosidad.\nCaracterísticas principales:-Sector Social: Living comedor cómodo con cocina integrada, optimizando el espacio y la circulación.-Exterior: Salida a balcón al frente, ideal para ventilación y luz natural.-Dormitorio: Cuenta con placard empotrado con interiores completos.-Baño: Completo, moderno, con ducha y mampara de vidrio.\nUna opción funcional, moderna y en una ubicación inmejorable. ¡Consultanos para coordinar una visita!\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nJUAREZ BELTRAN S.A. | San Lorenzo 25 - 3° piso - B° Nueva Cordoba - Lunes a Viernes de 09.00 a 17.00 hs | Tel (solo llamadas) 351 4214400 - Tel (solo whatsapp) 3513470043\n                \n            \n            \r\n            ",
+   "descripcion": "1 Dormitorio con Balcón al Frente | Excelente ubicación | 5to piso disponible a partir de Julio - 7mo disponible \nDESCRIPCIÓN: Excelente departamento de 1 dormitorio ubicado en un punto estratégico de la ciudad (Arturo M. Bas 393) edificio Maria Reina XVI, a metros de Bv. San Juan y zona Tribunales.\nLa unidad se destaca por su disposición al frente y luminosidad.\nCaracterísticas principales:-Sector Social: Living comedor cómodo con cocina integrada, optimizando el espacio y la circulación.-Exterior: Salida a balcón al frente, ideal para ventilación y luz natural.-Dormitorio: Cuenta con placard empotrado con interiores completos.-Baño: Completo, moderno, con ducha y mampara de vidrio.\nUna opción funcional, moderna y en una ubicación inmejorable. ¡Consultanos para coordinar una visita!\nRequisitos:\n1) Dos recibos de sueldo iguales o superiores de $1.250.000 + garantía propietaria2) Tres recibos de sueldo iguales o superiores de $1.250.0003) Seguro de caucion operado por Locativa\n\nContrato:Contrato a celebrarse por 18 meses con aumento trimestral bajo el indice de IPC.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHabla con propiedad, habla con Juarez Beltran. San Lorenzo 25 - 3° piso - B° Nueva Cordoba Horarios de atención: Lunes a Viernes de 09.00 a 17.00 hs \nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n                \n            \n            \n            \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 645000,
    "moneda": "ARS",
@@ -11452,16 +11522,16 @@
    "lng": "-64.1937818",
    "fotos": [
     {
+     "url": "https://static.tokkobroker.com/w_pics/7720930_34961501415583251929670808918424936813424636693646966379977661429920499154936.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7720930_34961501415583251929670808918424936813424636693646966379977661429920499154936_thumb.jpg"
+    },
+    {
      "url": "https://static.tokkobroker.com/w_pics/7720930_93678314625482620546115501133895311682039193271160520066957352739933083588827.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7720930_93678314625482620546115501133895311682039193271160520066957352739933083588827_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7720930_17824956356320084584633339715715685458693985797758797841413698677683247699554.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7720930_17824956356320084584633339715715685458693985797758797841413698677683247699554_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7720930_34961501415583251929670808918424936813424636693646966379977661429920499154936.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7720930_34961501415583251929670808918424936813424636693646966379977661429920499154936_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7720930_527279889003791093565983930414595499926939092573177584537705454926381890782.jpg",
@@ -11535,7 +11605,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-01-26T15:00:05",
-   "actualizada": "2026-04-30T13:42:50"
+   "actualizada": "2026-06-24T13:15:14"
   },
   {
    "id": 7721846,
@@ -22035,7 +22105,7 @@
    "id": 8146506,
    "referencia": "JAP8146506",
    "titulo": "Deptos a ESTRENAR en alquiler",
-   "descripcion": "                                                                DEPTOS A ESTRENAR | MARIA REINA XVIII | 1 DORMITORIO | LA ESQUINA MÁS EMBLEMÁTICA DEL BARRIO\nUbicación: Esquina de Buenos Aires y Estrada. Edificio Maria Reina XVIII.\nLas imágenes corresponden a depto 4° \"B\".\n\n\nCaracterísticas:\nCocina integrada con muebles bajo mesada, caldera, doble bacha con monocomando, espacio para lavarropas carga frontal y heladera.\nLiving comedor luminoso con salida a balcón frente.\nHabitación luminosa y amplia con placard empotrado e interiores.\nBaño con antebaño y ducha.\n\n\nUnidades disponibles a partir de JULIO 2026 - Todas cuentan con 1 dormitorio.\nPRIMER PISO\nUnidad \"A\" - con terraza - $950.000 + expensas\nUnidad \"B\" - balcon - $870.000 + expensas\nUnidad \"C\" - balcon - $820.000 + expensas\nCUARTO PISO \nUnidad \"B\" - balcon - $850.000 + expensas --&gt; RESERVADO\nSEXTO PISO\nUnidad \"A\" - balcon - $850.000 + expensas\nUnidad \"B\" - balcon - $870.000 + expensas --&gt; RESERVADO\nUnidad \"C\" - balcon - $820.000 + expensas\n\n\nJuarez Beltran S.A.\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba | Horarios de atención de lunes a viernes de 09.00 a 17.00hs\nTel fijo: 4214400 | Whatsapp: 3513470043\n\n\n            \n\n            \n\n            \r\n\r\n            ",
+   "descripcion": "                                                                                DEPTOS A ESTRENAR | MARIA REINA XVIII | 1 DORMITORIO | LA ESQUINA MÁS EMBLEMÁTICA DEL BARRIO\nUbicación: Esquina de Buenos Aires y Estrada. Edificio Maria Reina XVIII.\nCaracterísticas:\nCocina integrada con muebles bajo mesada, caldera, doble bacha con monocomando, espacio para lavarropas carga frontal y heladera.\nLiving comedor luminoso con salida a balcón frente.\nHabitación luminosa y amplia con placard empotrado e interiores.\nBaño con antebaño y ducha.\n\n\nUnidades disponibles a partir de JULIO 2026 - Todas cuentan con 1 dormitorio.\nPRIMER PISO\nUnidad \"A\" - con terraza - $950.000 + expensas\nUnidad \"B\" - balcon - $870.000 + expensas\nUnidad \"C\" - balcon - $820.000 + expensas\nCUARTO PISO \nUnidad \"B\" - balcon - $850.000 + expensas --&gt; RESERVADO\nSEXTO PISO\nUnidad \"A\" - balcon - $850.000 + expensas\nUnidad \"B\" - balcon - $870.000 + expensas --&gt; RESERVADO\nUnidad \"C\" - balcon - $820.000 + expensas\n\n\nRequisitos:\n1) Dos recibos de sueldo iguales o superiores de $1.500.000 + garantía propietaria2) Tres recibos de sueldo iguales o superiores de $1.500.0003) Seguro de caucion operado por Locativa\n\nContrato:Contrato a celebrarse por 18 meses con aumento trimestral bajo el indice de IPC.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\n\nHabla con propiedad, habla con Juarez Beltran.\nSan Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n\n\n            \n\n            \n\n            \n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 850000,
    "moneda": "ARS",
@@ -22299,7 +22369,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-06-04T14:24:18",
-   "actualizada": "2026-06-16T16:59:53"
+   "actualizada": "2026-06-24T13:15:09"
   },
   {
    "id": 8148692,
