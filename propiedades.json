@@ -1,5 +1,5 @@
 {
- "generado": "2026-06-25T00:06:02.282518+00:00",
+ "generado": "2026-06-25T13:14:04.507081+00:00",
  "total": 190,
  "propiedades": [
   {
@@ -12126,14 +12126,14 @@
   {
    "id": 7764246,
    "referencia": "JLO7764246",
-   "titulo": "Local comercial / Oficina en ALQUILER | 240 m2",
+   "titulo": "240 m2 Local comercial en ALQUILER | Bº General Paz",
    "descripcion": "GENERAL PAZ | 122 M2 CUBIERTOS - 247 M² TOTALES CON PATIOS\nDESCRIPCIÓN: Ubicado en el corazón de Barrio General Paz (Sarmiento 1150), una zona consolidada como polo gastronómico y corporativo de la ciudad.\nLa Propiedad: Se trata de un inmueble de características únicas por su relación entre superficie cubierta y descubierta, ideal para rubros que valoran el aire libre y la funcionalidad.Superficies: 247.5 m² Totales | 121.5 m² Cubiertos.Distribución: Planta amplia y versátil.Exterior Exclusivo: Cuenta con 2 patios de luz que aportan ventilación cruzada, perfectos para expansión comercial.Servicios: A diferencia de un local estándar, posee cocina completa y 2 baños completos, lo que facilita la habilitación para diversos rubros (Gastronomía, Instituciones, Consultorios, Oficinas).\nUna oportunidad para instalar tu marca en un entorno que invita a quedarse. Consultanos condiciones.\nJUAREZ BELTRAN S.A. | San Lorenzo 25 - 3° piso - B° Nueva Córdoba | Tel (solo llamadas) 351 4214400 | Tel 3512393704                \n            \r\n            ",
    "operacion": "Alquiler",
    "precio": 1800000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Local",
-   "direccion": "Sarmiento al 1100",
+   "direccion": "Sarmiento al 1150",
    "barrio": "General Paz",
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | General Paz",
    "ambientes": 6,
@@ -12141,15 +12141,15 @@
    "banos": 2,
    "cocheras": 0,
    "sup_cubierta": "121.50",
-   "sup_total": "245.00",
+   "sup_total": "121.50",
    "antiguedad": 10,
    "apto_credito": null,
    "lat": "-31.4112638",
    "lng": "-64.1688824",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/7764246_84759660653246029535301002911390679456469328622949902311572947899040022377017.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7764246_84759660653246029535301002911390679456469328622949902311572947899040022377017_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/7764246_8859155296553590546549474585066122988511780988191435032377097221188056334289.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7764246_8859155296553590546549474585066122988511780988191435032377097221188056334289_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7764246_11290167068076682538955731768674783185844679219585169874195215149488347740062.jpg",
@@ -12196,16 +12196,16 @@
      "thumb": "https://static.tokkobroker.com/thumbs/7764246_84699285932751428751808462214924990372477103790841147230300911187457440790636_thumb.jpg"
     },
     {
+     "url": "https://static.tokkobroker.com/w_pics/7764246_84759660653246029535301002911390679456469328622949902311572947899040022377017.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7764246_84759660653246029535301002911390679456469328622949902311572947899040022377017_thumb.jpg"
+    },
+    {
      "url": "https://static.tokkobroker.com/w_pics/7764246_111559191250350238771330759642694548101588589044130801912269350754247570392838.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7764246_111559191250350238771330759642694548101588589044130801912269350754247570392838_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7764246_1419229518413163406042497869485994818562425604344852335583286991402042641251.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7764246_1419229518413163406042497869485994818562425604344852335583286991402042641251_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7764246_8859155296553590546549474585066122988511780988191435032377097221188056334289.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7764246_8859155296553590546549474585066122988511780988191435032377097221188056334289_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7764246_78605733396447996768052747711634404412850339487085152979625218100913754878623.jpg",
@@ -12231,7 +12231,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-02-06T18:43:27",
-   "actualizada": "2026-05-18T17:41:56"
+   "actualizada": "2026-06-25T12:58:46"
   },
   {
    "id": 7773436,
