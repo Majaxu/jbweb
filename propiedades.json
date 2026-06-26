@@ -1,5 +1,5 @@
 {
- "generado": "2026-06-26T16:12:20.458528+00:00",
+ "generado": "2026-06-26T18:27:54.457922+00:00",
  "total": 195,
  "propiedades": [
   {
@@ -10463,7 +10463,7 @@
    "video": null,
    "destacada": true,
    "creada": "2025-12-16T16:48:40",
-   "actualizada": "2026-06-16T21:38:25"
+   "actualizada": "2026-06-26T16:18:12"
   },
   {
    "id": 7632000,
@@ -13651,7 +13651,7 @@
    "id": 7866451,
    "referencia": "JAP7866451",
    "titulo": "Departamento - Milenica Rodríguez del Busto.",
-   "descripcion": "                Mira el video! Milenica Rodríguez del Busto. Amenities. Piso diez. Luminoso. 4 dormitorios. Dos cocheras. Posesión inmediata. Orientación Norte. Escritura.\nComplejo cerrado con seguridad 24 horas y amenities ubicado en Rodríguez del Busto al 3405. Colindante a Dinosaurio Mall. Barrio Alto Verde.\nCaracterísticas principales:- Sup. Cub. Propia: 207m2- Piso 10.- Living comedor con salida al balcón.- Cuatro dormitorios.- Tres baños completos.- Dos vestidores.- Cocina separada con ventilación natural y lugar de guardado. - Asador.- Balcón. - Torre 2- Dos cocheras en subsuelo.\nPosesión inmediata.Excelentes vistas, iluminación y ventilación natural.Escritura e impuestos al día. Listo para ser transferido.\nConsultá y coordiná una visita para conocerlo!\r\n            ",
+   "descripcion": "                                Mira el video! Milenica Rodríguez del Busto. Amenities. Piso diez. Luminoso. 4 dormitorios. Dos cocheras. Posesión inmediata. Orientación Norte. Escritura.\nComplejo cerrado con seguridad 24 horas y amenities ubicado en Rodríguez del Busto al 3405. Colindante a Dinosaurio Mall. Barrio Alto Verde.\nCaracterísticas principales:- Sup. Cub. Propia: 163m2- Piso 10.- Living comedor con salida al balcón.- Cuatro dormitorios.- Tres baños completos.- Dos vestidores.- Cocina separada con ventilación natural y lugar de guardado. - Asador.- Balcón. - Torre 2- Dos cocheras cubiertas en subsuelo de 23m2 cada una. Muy cercanas al ascensor.\nPosesión inmediata.Excelentes vistas, iluminación y ventilación natural.Escritura e impuestos al día. Listo para ser transferido.\nConsultá y coordiná una visita para conocerlo!            \r\n\r\n            ",
    "operacion": "Venta",
    "precio": 450000,
    "moneda": "USD",
@@ -13664,16 +13664,16 @@
    "dormitorios": 3,
    "banos": 3,
    "cocheras": 2,
-   "sup_cubierta": "207.00",
-   "sup_total": "212.00",
+   "sup_cubierta": "163.00",
+   "sup_total": "214.00",
    "antiguedad": 20,
    "apto_credito": null,
    "lat": "-31.369725",
    "lng": "-64.2215558",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/7866451_36463329151906167993464334949153273523029363214460389786708711680887697377330.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7866451_36463329151906167993464334949153273523029363214460389786708711680887697377330_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/7866451_107111523503450340393956447542532496308276179274013613853234686249697618130511.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7866451_107111523503450340393956447542532496308276179274013613853234686249697618130511_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7866451_4132443544647640364681721005931338318250699589204712336635616350249984807605.jpg",
@@ -13724,8 +13724,8 @@
      "thumb": "https://static.tokkobroker.com/thumbs/7866451_61268097605246900940494308343028146277153587166354842255259568798852250282306_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/7866451_107111523503450340393956447542532496308276179274013613853234686249697618130511.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7866451_107111523503450340393956447542532496308276179274013613853234686249697618130511_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/7866451_36463329151906167993464334949153273523029363214460389786708711680887697377330.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7866451_36463329151906167993464334949153273523029363214460389786708711680887697377330_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7866451_38652878298736301255201791245665146075304364333461487593969059761201717269677.jpg",
@@ -13903,7 +13903,7 @@
    "video": "https://www.youtube.com/embed/gwE1L-jA_xQ",
    "destacada": false,
    "creada": "2026-03-16T20:20:50",
-   "actualizada": "2026-05-04T12:54:07"
+   "actualizada": "2026-06-26T17:58:55"
   },
   {
    "id": 7879364,
@@ -25389,7 +25389,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-06-25T13:39:01",
-   "actualizada": "2026-06-25T14:00:46"
+   "actualizada": "2026-06-26T16:32:24"
   },
   {
    "id": 8407640,
