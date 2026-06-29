@@ -1,6 +1,6 @@
 {
- "generado": "2026-06-29T14:45:08.081542+00:00",
- "total": 193,
+ "generado": "2026-06-29T19:02:30.171259+00:00",
+ "total": 194,
  "propiedades": [
   {
    "id": 471897,
@@ -24197,7 +24197,7 @@
    "titulo": "VENTA - Departamento excepcional tres dormitorios -Casonas del Golf -Casona Uno Augusta",
    "descripcion": "                EXCLUSIVO DEPARTAMENTO DE CATEGORÍA EN VENTA | CASONAS DE GOLF – VILLA ALLENDE\nPresentamos una excelente oportunidad de inversión y calidad de vida en uno de los complejos residenciales más prestigiosos de Villa Allende.\nUbicado en planta baja de la Primer Torre de Casonas de Golf, Augusta este distinguido departamento se destaca por sus amplios ambientes, excelentes terminaciones y una imponente vista panorámica hacia las sierras, que aporta luminosidad, amplitud y una inigualable sensación de tranquilidad.\nLa propiedad cuenta con un elegante living-comedor de generosas dimensiones, con salida directa a un amplio balcón aterrazado, logrando una perfecta integración entre los espacios interiores y exteriores.\nLa cocina se encuentra completamente separada y equipada con mobiliario de primera calidad, alacenas y bajo mesada con amplios espacios de guardado, combinando funcionalidad y diseño.\nDispone de tres dormitorios de cómodas dimensiones, todos con placares completos e interiores terminados. El dormitorio principal se desarrolla en suite, con un amplio vestidor y salida directa al balcón, permitiendo disfrutar de las excepcionales vistas y de una excelente ventilación natural. La unidad se complementa con dos baños completos de diseño moderno y excelentes terminaciones.\nEntre sus características de confort y categoría se destacan:\n• Calefacción central por radiadores con caldera individual.• Aires acondicionados instalados en todos los ambientes.• Persianas eléctricas.• Amplios espacios de guardado.• Excelente calidad constructiva y terminaciones premium.\nEl gran balcón cuenta con pérgola y parrilla individual, convirtiéndose en un espacio ideal para disfrutar reuniones y momentos al aire libre con una vista privilegiada a las sierras.\nLa propiedad incluye dos cocheras cubiertas, aportando comodidad y seguridad.\nAmenities del Complejo\nCasonas de Golf ofrece un entorno exclusivo rodeado de espacios verdes y vistas abiertas, con excelentes accesos y una completa infraestructura de servicios:\n• Seguridad y control de acceso.• Piscina.• Gimnasio equipado.• SUM (Salón de Usos Múltiples).• Cocheras de cortesía.• Amplios espacios verdes parquizados.\nUna propiedad ideal para quienes buscan confort, diseño, seguridad y una ubicación privilegiada en el corazón de Villa Allende.\nCONSULTANOS PARA COORDINAR UNA VISITA.\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información aquí contenida es meramente referencial y no constituye oferta contractual. Los datos y características del inmueble deberán ser corroborados y confirmados por los propietarios al momento de la consulta.\n                \n\n            \r\n\r\n            ",
    "operacion": "Venta",
-   "precio": 400000,
+   "precio": 390000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -24447,7 +24447,7 @@
    "video": "https://www.youtube.com/embed/EyPdZKdL1mU",
    "destacada": false,
    "creada": "2026-06-17T22:47:44",
-   "actualizada": "2026-06-24T14:18:31"
+   "actualizada": "2026-06-29T18:10:51"
   },
   {
    "id": 8357828,
@@ -25386,6 +25386,116 @@
    "destacada": false,
    "creada": "2026-06-25T23:11:47",
    "actualizada": "2026-06-26T16:01:47"
+  },
+  {
+   "id": 8410322,
+   "referencia": "JAP8410322",
+   "titulo": "ALQUILER - Departamento excepcional de 2 dormitorios TORRES DEL RIO",
+   "descripcion": "                                Departamento  en plena Costanera, en complejo TORRES DEL RIO sobre la Av Santa Fe al 600, con amenitis.\nEl departamento se encuentra en 5 piso con una hermosa vista. Su ubicación y rápido acceso permite una llegada rápida a la comodidad de tu hogar.\nEs un departamento de excelente calidad constructiva y con detalles de categoría.\nCuenta con dos dormitorios, uno amplio y el segundo mas pequeño que podría ser utilizado como escritorio, cuenta con un espacio común de mucha luz y calidez con salida a un hermoso balcón.\nCocina separada equipada con muebles bajo mesada y alacenas; con artefacto de cocina con horno y campana. Desde la misma se accede a la sala común.\nEl dormitorio tiene un confortable placar y una gran ventana que lo hace luminoso.\nEl complejo cuenta con un SUM, con asador.\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramentereferencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación delpropietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Clyde E. Herreros Tel: 3513792881 – cherreros@juarezbeltran.com.ar\n\n                \n\n            \n\n            \r\n\r\n            ",
+   "operacion": "Alquiler",
+   "precio": 790000,
+   "moneda": "ARS",
+   "muestra_precio": true,
+   "tipo": "Departamento",
+   "direccion": "ALQUILER dpto 2 dormitorios TORRES DEL RIO  Av. Costanera y Av. Santa Fe - Torre 2 al 600",
+   "barrio": "Providencia",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Providencia",
+   "ambientes": 3,
+   "dormitorios": 2,
+   "banos": 1,
+   "cocheras": 0,
+   "sup_cubierta": "0.00",
+   "sup_total": "0.00",
+   "antiguedad": 10,
+   "apto_credito": null,
+   "lat": "-31.4024799",
+   "lng": "-64.1982445",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_110853974220550766167676341415155045216382789637059035093908559914926224535472.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_110853974220550766167676341415155045216382789637059035093908559914926224535472_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_71178126436777513376157704435724230653596988005125086161207857193122995375859.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_71178126436777513376157704435724230653596988005125086161207857193122995375859_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_315921391192603196838036064387425347298474171199726049172674518657181032404.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_315921391192603196838036064387425347298474171199726049172674518657181032404_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_85494152343606662501444832419321606230457234407189571469839384724323061456657.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_85494152343606662501444832419321606230457234407189571469839384724323061456657_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_4800507246132541863783887551336642699972455148594776034813310742810212451015.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_4800507246132541863783887551336642699972455148594776034813310742810212451015_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_869852319350415819602796900591454692162720095960357338335879758628342621384.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_869852319350415819602796900591454692162720095960357338335879758628342621384_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_82134545058530226063789762463489435044458564769822490382498451826883181790170.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_82134545058530226063789762463489435044458564769822490382498451826883181790170_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_23160176536120439760407014726340466658004705330786604948073688090256259932002.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_23160176536120439760407014726340466658004705330786604948073688090256259932002_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_25239315239444665945872480218576346451598351058974663016588353346292174771318.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_25239315239444665945872480218576346451598351058974663016588353346292174771318_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_6958426976696761218767001146877081299011749221256160680901652086678077718043.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_6958426976696761218767001146877081299011749221256160680901652086678077718043_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_7337476504402218505219706063437285301540804918673343856317290641599433108777.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_7337476504402218505219706063437285301540804918673343856317290641599433108777_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_111978220949698839783267941795075791599434360490270765945196792599834095142064.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_111978220949698839783267941795075791599434360490270765945196792599834095142064_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_59758808140778290325512200864736978649367955944084780578204964404559410333425.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_59758808140778290325512200864736978649367955944084780578204964404559410333425_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_93055079305421216685348367228950212180408491949035900809566693977454972176609.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_93055079305421216685348367228950212180408491949035900809566693977454972176609_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_68039378505225168546471162121022962704145684976077997934332826836497975665419.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_68039378505225168546471162121022962704145684976077997934332826836497975665419_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_70547546758945265654814337761815158071716372166609271312586600891882418494160.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_70547546758945265654814337761815158071716372166609271312586600891882418494160_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_70567174279156362624037374557084518583736809655412637728300564171255177204184.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_70567174279156362624037374557084518583736809655412637728300564171255177204184_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_106611866721969553775517162924232768675632990503025955920012473232847824616651.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_106611866721969553775517162924232768675632990503025955920012473232847824616651_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_41556117019930561904813840876421189958923310134272213900961401057235718575356.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_41556117019930561904813840876421189958923310134272213900961401057235718575356_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8410322_60096570616535632142162084166256194840958009303559651494562416897814885665894.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8410322_60096570616535632142162084166256194840958009303559651494562416897814885665894_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2026-06-26T16:08:22",
+   "actualizada": "2026-06-29T18:09:29"
   }
  ]
 }
