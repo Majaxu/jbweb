@@ -1,5 +1,5 @@
 {
- "generado": "2026-06-30T16:22:00.435048+00:00",
+ "generado": "2026-06-30T18:54:17.031168+00:00",
  "total": 193,
  "propiedades": [
   {
@@ -2715,12 +2715,12 @@
    "lng": "-64.1685241",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/5209074_22619723210932016379548972162549296886819990026779690451554642810111911692104.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/5209074_22619723210932016379548972162549296886819990026779690451554642810111911692104_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/water_pics/51912244632496449195187368780151763224875733763913644498125882277673573470043.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/51912244632496449195187368780151763224875733763913644498125882277673573470043_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/5209074_22619723210932016379548972162549296886819990026779690451554642810111911692104.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/5209074_22619723210932016379548972162549296886819990026779690451554642810111911692104_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/water_pics/8284061581100472752344666868468521344891208234469310578830397192824633784663.jpg",
@@ -2866,7 +2866,7 @@
    "video": null,
    "destacada": true,
    "creada": "2023-07-28T14:11:40",
-   "actualizada": "2026-05-08T13:43:58"
+   "actualizada": "2026-06-30T17:40:51"
   },
   {
    "id": 5517497,
@@ -6276,7 +6276,7 @@
    "titulo": "Terreno en Venta O Higgins 7500 ",
    "descripcion": "            Juarez Beltran ofrece en venta este lote ubicado en barrio Campo Chico ,en zona Sur de Córdoba Capital.El mismo se encuentra a la altura de Av O Higgins 7500.Es un lote de 360m2,para hacer 1 escritura,sus medidas de 13x28 aprox .Su orientacion es OESTE-ESTE, Apto duplex\nMzna 26 lote 4\nComunicate con 3513749133\n\r\n        ",
    "operacion": "Venta",
-   "precio": 87000,
+   "precio": 79000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Terreno",
@@ -6310,7 +6310,7 @@
    "video": null,
    "destacada": false,
    "creada": "2025-05-23T13:05:15",
-   "actualizada": "2026-06-19T14:06:35"
+   "actualizada": "2026-06-30T16:55:12"
   },
   {
    "id": 7031016,
@@ -19094,12 +19094,16 @@
    "lng": "-64.1859565",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/8031990_11848580451730103930649555518864098610101206045125166682574678306698832377981.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8031990_11848580451730103930649555518864098610101206045125166682574678306698832377981_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/8031990_39147842098767952522928160090953360824512150179443851384792771746082939181984.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8031990_39147842098767952522928160090953360824512150179443851384792771746082939181984_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8031990_33288312456536449487294414259083866737079542527241085551767637743885987121592.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8031990_33288312456536449487294414259083866737079542527241085551767637743885987121592_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8031990_11848580451730103930649555518864098610101206045125166682574678306698832377981.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8031990_11848580451730103930649555518864098610101206045125166682574678306698832377981_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8031990_94769639835551802560886927929739163404134868100135087674465982443300377514728.jpg",
@@ -19226,10 +19230,6 @@
      "thumb": "https://static.tokkobroker.com/thumbs/8031990_114226235960942726553684945339890947176634786672220985896431525909128530411317_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/8031990_39147842098767952522928160090953360824512150179443851384792771746082939181984.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8031990_39147842098767952522928160090953360824512150179443851384792771746082939181984_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/8031990_25147511388616749316220196793910171356699530088239145822345480114071999000603.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8031990_25147511388616749316220196793910171356699530088239145822345480114071999000603_thumb.jpg"
     },
@@ -19269,7 +19269,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-05-12T14:51:00",
-   "actualizada": "2026-06-19T12:45:42"
+   "actualizada": "2026-06-30T17:40:41"
   },
   {
    "id": 8032747,
