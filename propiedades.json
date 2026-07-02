@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-02T16:02:57.251579+00:00",
- "total": 193,
+ "generado": "2026-07-02T18:23:51.972820+00:00",
+ "total": 194,
  "propiedades": [
   {
    "id": 471897,
@@ -6613,6 +6613,124 @@
    "destacada": false,
    "creada": "2025-07-07T14:34:45",
    "actualizada": "2026-05-06T01:37:16"
+  },
+  {
+   "id": 7147044,
+   "referencia": "JLO7147044",
+   "titulo": "Locales comerciales en venta - San Jose de Calasanz 288, Mendiolaza",
+   "descripcion": "                JUAREZ BELTRAN VILLA ALLENDE - VENDE\n\n\nOPORTUNIDAD PARA INVERSOR, CON RENTA ACTUAL EN TORNO AL 7,5% ANUAL EN DÓLARES\n\n\nUBICACION: San Jose de Calasanz 335, Mendiolaza.\n\n\nPROPIEDAD/CARACTERISTICAS: Se trata de dos excelentes locales comerciales ubicados a 100 metros del acceso a Estancia Q2, sobre la ruta vieja de Mendiolaza. Los mismos están distribuidos uno en planta baja y otro en planta alta. Ambos son de muy similares características y dimensiones y cuentan cada uno con un gran salón principal mas dos baños. Tienen accesos independientes, el de planta alta por una escalera externa, y el de planta baja cuenta con rampa para personas con movilidad reducida. Al frente tienen estacionamiento vehicular. Tienen una gran superficie vidriada, lo que les da mucha luz natural.\nEL PRECIO PUBLICADO ES POR LOS 2 LOCALES JUNTOS, NO SE VENDEN POR SEPARADO.\nActualmente se encuentran alquilados con contrato hasta mediados de 2028.\n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente\nreferencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del\npropietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\n\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Bernardo González Beretta. Tel: 3512033761.\n\n\n\n\n\r\n\r\n            ",
+   "operacion": "Venta",
+   "precio": 190000,
+   "moneda": "USD",
+   "muestra_precio": true,
+   "tipo": "Local",
+   "direccion": "Locales comerciales en venta - San Jose de Calasanz 335, Mendiolaza",
+   "barrio": "Mendiolaza",
+   "ubicacion_completa": "Argentina | Cordoba | Colon | Mendiolaza",
+   "ambientes": 6,
+   "dormitorios": 0,
+   "banos": 4,
+   "cocheras": 3,
+   "sup_cubierta": "240.00",
+   "sup_total": "240.00",
+   "antiguedad": 1,
+   "apto_credito": null,
+   "lat": "-31.272959886",
+   "lng": "-64.3035348583",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_79718992223263229212126735147851582034990130222281600167559444736265401503332.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_79718992223263229212126735147851582034990130222281600167559444736265401503332_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_96164306159560152802532040328417381528976138020325694884837252335208969314490.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_96164306159560152802532040328417381528976138020325694884837252335208969314490_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_78242763174748247791534087037683752635562094328529433615025071755744356239114.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_78242763174748247791534087037683752635562094328529433615025071755744356239114_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_20515475562984089693637586277288317152064138820744664611417098372097220850014.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_20515475562984089693637586277288317152064138820744664611417098372097220850014_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_6791548255128800744102545054599491278287593345741446160288361275148101410499.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_6791548255128800744102545054599491278287593345741446160288361275148101410499_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_90450374357537301226792406321661209037335165823968591497844432735542362781371.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_90450374357537301226792406321661209037335165823968591497844432735542362781371_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_44745184677515118568430539270624535724845096386526660830638783314538111024291.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_44745184677515118568430539270624535724845096386526660830638783314538111024291_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_31780499942008646730488194110428116273230639038327393518505461076118127612379.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_31780499942008646730488194110428116273230639038327393518505461076118127612379_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_73640417614102838033668605296403024712420909548170124075237132990110885735131.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_73640417614102838033668605296403024712420909548170124075237132990110885735131_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_94564256875794977081185512148009229075106552703283431106849945951836435930484.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_94564256875794977081185512148009229075106552703283431106849945951836435930484_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_24000648174366925232996108620911056012403823798784205430670207778654183986617.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_24000648174366925232996108620911056012403823798784205430670207778654183986617_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_114045172347521320051053705610772933843904994239097917032637710504881950483349.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_114045172347521320051053705610772933843904994239097917032637710504881950483349_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_22037132797048200021411477602668433310383582561469188191022137253917262398800.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_22037132797048200021411477602668433310383582561469188191022137253917262398800_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_23932834375862912517168129715901411715329522547606479014538008010127828678816.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_23932834375862912517168129715901411715329522547606479014538008010127828678816_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_77089090560541422321782825850880507752795328791780782160052886323218272006919.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_77089090560541422321782825850880507752795328791780782160052886323218272006919_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_107985290419556583664931779909216802595369252438090707295525886307415396872087.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_107985290419556583664931779909216802595369252438090707295525886307415396872087_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_18759200320435754211935031077919982220873433701783597643981567642293382265043.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_18759200320435754211935031077919982220873433701783597643981567642293382265043_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_37302672573971966927311516237534859322017303745679438285992242307545036895607.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_37302672573971966927311516237534859322017303745679438285992242307545036895607_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_6983152801262332247612710380981915777941445280273455931013214835421208044183.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_6983152801262332247612710380981915777941445280273455931013214835421208044183_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_103395567851742040470956244795480366262574337238623917001636753957632886815069.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_103395567851742040470956244795480366262574337238623917001636753957632886815069_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_15411520447146329921296926491273757103352899585440077040759936783969142587208.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_15411520447146329921296926491273757103352899585440077040759936783969142587208_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7147044_55500220230600200787321555809866998589796791917316871471508474388734591825410.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7147044_55500220230600200787321555809866998589796791917316871471508474388734591825410_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": true,
+   "creada": "2025-07-14T20:47:49",
+   "actualizada": "2026-07-02T17:20:11"
   },
   {
    "id": 7189025,
