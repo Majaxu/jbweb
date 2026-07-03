@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-03T15:51:04.759668+00:00",
- "total": 194,
+ "generado": "2026-07-03T18:09:34.190517+00:00",
+ "total": 195,
  "propiedades": [
   {
    "id": 471897,
@@ -1543,6 +1543,184 @@
    "destacada": true,
    "creada": "2020-09-17T18:16:04",
    "actualizada": "2026-06-18T18:51:00"
+  },
+  {
+   "id": 3796255,
+   "referencia": "JHO3796255",
+   "titulo": "Casa en alquiler en Verandas - Siete Soles - 3 dormitorios   cochera",
+   "descripcion": "Imponente Casa de Diseño - 3 dormitorios - Frente a Espacio Verde en Verandas, Siete Soles \nPresentamos una propiedad exclusiva en alquiler que combina arquitectura contemporánea, calidez y una ubicación privilegiada dentro de Verandas de Siete Soles. Emplazada directamente frente a un amplio espacio verde, esta casa ofrece una combinación inigualable de privacidad, luminosidad y contacto con la naturaleza, ideal para disfrutar de una rutina familiar tranquila y segura.\nLa vivienda se destaca por la excelente calidad de sus materiales, sus detalles de autor y una distribución inteligente en dos plantas:\nPlanta Baja:Ingreso de gran jerarquía a través de una imponente puerta de diseño con terminación en óxido.Gran espacio social (living-comedor) que recibe una excelente luz natural gracias a sus amplios ventanales.Toilette de recepción vanguardista, diseñado con una sofisticada bacha de piedra y vanitory de madera a medida.Cocina independiente de concepto funcional, completamente equipada con modernos muebles sobre y bajo mesada, comunicada de forma práctica con el área de lavadero y tender cubierto.Pisos de porcelanato de alta gama en toda la planta baja, garantizando durabilidad y fácil mantenimiento.\nPlanta Alta:Master Suite excepcional: El dormitorio principal cuenta con dimensiones generosas, un exclusivo vestidor pasante y baño en suite zonificado.2 Dormitorios secundarios amplios, equipados con sus respectivos vestidores e interiores completos de carpintería premium.Baño principal zonificado con ducha, ideal para optimizar el uso simultáneo de la rutina familiar.Pisos de madera flotante en todos los dormitorios, aportando máxima calidez y confort térmico.\nInfraestructura y Detalles Técnicos:Aberturas de aluminio con DVH (Doble Vidrio Hermético) en toda la propiedad, asegurando un aislamiento térmico y acústico eficiente.Cochera techada para 2 vehículos con portón automático de acceso rápido.Gran jardín parquizado de excelentes dimensiones, que se conecta de manera fluida con la cochera y el sector de asador, ideal para reuniones y eventos al aire libre.\nVivir en Siete Soles es elegir seguridad integral las 24 horas, accesos rápidos por autopista y un entorno residencial consolidado de categoría superior.\nModalidad de Contrato: Contrato por 24 meses con actualizaciones trimestrales según el índice ICL emitido por el BCRA.\nRequisitos:1) 2 recibos de sueldo iguales o mayores a $2.500.000 + garantía propietaria2) 3 recibos de sueldo iguales o mayores a $2.500.0003) Seguro de caución operado por Locativa\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHabla con propiedad, habla con Juarez Beltran.San Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n\n",
+   "operacion": "Alquiler",
+   "precio": 3200000,
+   "moneda": "ARS",
+   "muestra_precio": true,
+   "tipo": "Casa",
+   "direccion": "Verandas 7 Soles L21 Mza70",
+   "barrio": "Siete Soles",
+   "ubicacion_completa": "Argentina | Cordoba | Santa Maria | Malagueño | Siete Soles",
+   "ambientes": 7,
+   "dormitorios": 3,
+   "banos": 2,
+   "cocheras": 2,
+   "sup_cubierta": "200.00",
+   "sup_total": "200.00",
+   "antiguedad": 6,
+   "apto_credito": null,
+   "lat": "-31.4470084",
+   "lng": "-64.3125513",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/water_pics/112301422243743390972106481822655254065880614598440117503159161940498629016511.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/112301422243743390972106481822655254065880614598440117503159161940498629016511_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_87090854702324855931740791028884471676242814672381638319146640140529053055869.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_87090854702324855931740791028884471676242814672381638319146640140529053055869_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_77933712157793674729118923981895786602379762957983809757291893949527831305317.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_77933712157793674729118923981895786602379762957983809757291893949527831305317_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_67558005886005742293705958089155972898407730975804334437830512394881822820748.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_67558005886005742293705958089155972898407730975804334437830512394881822820748_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_37386569401431394428222309080196947837920695822499832661964381900668141629260.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_37386569401431394428222309080196947837920695822499832661964381900668141629260_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_7978664283724721671356605304939076600293734505730183576345457643352191896912.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_7978664283724721671356605304939076600293734505730183576345457643352191896912_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_10630658506167842510837574464437895591228422835077814039234651386149667189871.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_10630658506167842510837574464437895591228422835077814039234651386149667189871_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_106726629171929802561250588250580455305915173518270039167170916000298380130124.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_106726629171929802561250588250580455305915173518270039167170916000298380130124_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_55130570333588251782151079217439960800062797461958184434669187351554203527329.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_55130570333588251782151079217439960800062797461958184434669187351554203527329_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_111120631998693909664282915101378429427567932523639544643118287885234486595734.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_111120631998693909664282915101378429427567932523639544643118287885234486595734_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_33990517314647253195956092828668042586209899534035590522598224062533186309853.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_33990517314647253195956092828668042586209899534035590522598224062533186309853_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_9449561674644285260626415819490275359859279275088283874266351737692857253615.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_9449561674644285260626415819490275359859279275088283874266351737692857253615_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_20026026307324206311256144418195237442721390751463545178788603525577984659715.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_20026026307324206311256144418195237442721390751463545178788603525577984659715_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_98725343470437135257696278421469801590463376233199090943914460486609958769075.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_98725343470437135257696278421469801590463376233199090943914460486609958769075_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_14798711959631445595879082199691849192919309023590451658371049248481408057215.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_14798711959631445595879082199691849192919309023590451658371049248481408057215_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_108606690515537008153437571814178024029900864426836292319348276432455730195873.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_108606690515537008153437571814178024029900864426836292319348276432455730195873_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_88421190773438636891075450992971646644650893365275664783736512015431400489528.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_88421190773438636891075450992971646644650893365275664783736512015431400489528_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_14413855428391164525308554312870141813599160795248867441472475092163498543972.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_14413855428391164525308554312870141813599160795248867441472475092163498543972_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_12777308000749545879226890050788977618712401016942472131332030279229813912565.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_12777308000749545879226890050788977618712401016942472131332030279229813912565_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_107192824133671682885642835648298698037312024585072742091959794250414763767744.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_107192824133671682885642835648298698037312024585072742091959794250414763767744_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_90464929411847696529931530696018359745930765824710076673699719688773355082284.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_90464929411847696529931530696018359745930765824710076673699719688773355082284_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_26462253040201016907793875849589514722457878997485699694768740592099746104717.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_26462253040201016907793875849589514722457878997485699694768740592099746104717_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_106663042605776376819631549556534253660624888920730276600132859640666690025639.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_106663042605776376819631549556534253660624888920730276600132859640666690025639_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_112011380618972569276017610228029016745657947479323123736046749967288810520484.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_112011380618972569276017610228029016745657947479323123736046749967288810520484_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_16325445800843348661764074321431624950622331461936434251204346825976596017671.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_16325445800843348661764074321431624950622331461936434251204346825976596017671_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_114733302604436007365508170433024444640232927551660947459533823874731444769883.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_114733302604436007365508170433024444640232927551660947459533823874731444769883_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_93183470813117469849179770364460954658459828548580507982417603990642808926275.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_93183470813117469849179770364460954658459828548580507982417603990642808926275_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_95746895993953791366299511878992357065998674678676792267330584415079025781864.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_95746895993953791366299511878992357065998674678676792267330584415079025781864_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_8004650747526968039484027468270188722994854220862646524575418427679185995648.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_8004650747526968039484027468270188722994854220862646524575418427679185995648_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_88757317376751018660578322738757214176881423944545452181930530010609466185135.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_88757317376751018660578322738757214176881423944545452181930530010609466185135_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_95979457988704812597719163900558144911481945708956902748373964308052289481943.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_95979457988704812597719163900558144911481945708956902748373964308052289481943_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_21980140414707993001111625156333673393805884525393886958866259923271067661617.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_21980140414707993001111625156333673393805884525393886958866259923271067661617_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_35085626651987201179594004233640547344843481805105632178822719296586221138978.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_35085626651987201179594004233640547344843481805105632178822719296586221138978_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_106367383410161852156625751284774310395635926466716289778803827624119917525676.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_106367383410161852156625751284774310395635926466716289778803827624119917525676_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_115016643331607563168829372880218336553458747210536533656389311723209300308775.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_115016643331607563168829372880218336553458747210536533656389311723209300308775_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_25855738816476550436614460030579046324236573055088074366129136908389015878873.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_25855738816476550436614460030579046324236573055088074366129136908389015878873_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_51031078141621822952512398151304477399505213165558543366881971918072527693247.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_51031078141621822952512398151304477399505213165558543366881971918072527693247_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2021-06-14T16:23:50",
+   "actualizada": "2026-07-03T18:02:15"
   },
   {
    "id": 4263226,
@@ -4446,7 +4624,7 @@
    "titulo": "Venta - Casa de cuatro dormitorios con cochera y pileta - Country La Paloma - Villa Allende",
    "descripcion": "                                    JUAREZ BELTRAN VILLA ALLENDE - VENDE \n\n\nPROPIEDAD/CARACTERISTICAS: Excelente propiedad en Country La Paloma.            \n        \nLa misma tiene 1590 m2 de terreno, 338m2 cubiertos, se distribuye en dos plantas y cuenta con las siguientes características:\nPlanta baja:\n-Hall de ingreso.-Cocina integrada.-Toilette social.-Living con hogar.-Comedor.-Cochera/Quincho con asador y baño.-Galería.-Lavadero.-Gran jardín posterior con pileta.-Pasillo de distribución de los dormitorios.-Suite principal con amplio vestidor.-Tres dormitorios con placares.-Baño completo zonificado.\nPlanta alta:\n-Escritorio con salida a terraza hacia el frente.-Altillo para guardado.\n\n-Posee materiales y detalles de calidad como pisos de cerámico en el sector social y entablonados en los dormitorios y pasillo, muy buena luz natural, ambientes cálidos, aberturas de madera pintadas en blanco en muy buen estado y calefacción central por radiadores en todos los ambientes.\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.Para más información, consultar aquí:\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Mariana Magliano. Tel: 3516164296 – mmagliano@juarezbeltran.com.ar        \n        \n\r\n        ",
    "operacion": "Venta",
-   "precio": 415000,
+   "precio": 398000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Casa",
@@ -4608,7 +4786,7 @@
    "video": null,
    "destacada": true,
    "creada": "2024-09-26T13:18:14",
-   "actualizada": "2026-03-09T15:44:02"
+   "actualizada": "2026-07-03T16:32:11"
   },
   {
    "id": 6478510,
