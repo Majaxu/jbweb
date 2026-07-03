@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-03T00:02:07.530451+00:00",
- "total": 194,
+ "generado": "2026-07-03T12:54:31.181447+00:00",
+ "total": 193,
  "propiedades": [
   {
    "id": 471897,
@@ -8732,7 +8732,7 @@
    "titulo": "Departamento en venta Complejo Fontanas del Sur",
    "descripcion": "Juarez Beltran asesores inmobiliarios ofrece a la venta un departamento de un dormitorio con balcón , orientación sur, muy luminoso. Cuenta con un living comedor amplio, cocina separada con muebles bajo y sobre mesada, baño completo y dormitorio grande con placard, El  balcón  tiene  salida desde el dormitorio y el living comedor, Los pisos son de porcelanato, La calefacción es central, caldera dual. La cochera es subterránea.\nEl complejo Fontanas del Sur cuenta con SUM,  cancha de tenis, seguridad, gym y pileta.\n\n\n",
    "operacion": "Venta",
-   "precio": 110000,
+   "precio": 120000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -8818,7 +8818,7 @@
    "video": null,
    "destacada": true,
    "creada": "2025-09-24T15:41:17",
-   "actualizada": "2026-04-09T12:46:10"
+   "actualizada": "2026-07-03T12:50:42"
   },
   {
    "id": 7393365,
@@ -16866,116 +16866,6 @@
    "actualizada": "2026-06-09T18:38:41"
   },
   {
-   "id": 7992197,
-   "referencia": "JPH7992197",
-   "titulo": "DUPLEX  EN MANSOS DEL SUR - 3 dormitorios",
-   "descripcion": "                DUPLEX EN VENTA  EN MANSOS DEL SUR\n\n\nCuenta con una excelente distribución en dos plantas:\n\nPlanta Baja:\t\n•\tAmplio estar-comedor\t•\tCocina independiente con lavadero integrado, espacio para lavarropas y lavavajillas\t•\tCocina totalmente equipada con horno, anafe y extractor\t•\tToilette\t•\tTender\t•\tGalería con asador, bacha y bajo mesadas con puertas de chapa para guardado\nPlanta Alta:\t\n•\tTres dormitorios, el principal con baño en suite\t•\tBaño completo adicional\n\nDetalles de calidad:\t\n•\tAberturas de aluminio anodizado con DVH y mosquiteros en todas las ventanas\t•\tCalefacción por piso radiante con caldera dual BAXI ya instalada\t•\tGriferías FV\t•\tSanitarios FERRUM\t•\tBacha de cocina y lavadero JOHNSON de acero inoxidable\t•\tMesadas de PURASTONE en cocina y baños\t•\tEquipamiento completo: placares en dormitorios, vestidor, vanitorys en todos los baños\t•\tPlacares para ropa blanca en planta alta y placares de guardado adicionales en planta baja\t•\tArtefactos de iluminación instalados en todos los ambientes\t•\tPreinstalación para aire acondicionado en dormitorio principal y estar-comedor\nUna propuesta moderna, funcional y con materiales de primera calidad. Ideal para quienes buscan comodidad y estilo.\nCONSULTANOS!!! \nJUAREZ BELTRAN GUILLERMINA MACIASAv. Richieri 3276 - 1er piso - B° Jardín Espinosa | Lunes a Viernes de 09.00 a 16.00hs\n3513515315 / 3513471395\n\n\n\n\n\n\n\n\n\r\n            ",
-   "operacion": "Venta",
-   "precio": 250000,
-   "moneda": "USD",
-   "muestra_precio": true,
-   "tipo": "PH",
-   "direccion": "Bernardo O'Higgins 6100 , MANSOS DEL SUR",
-   "barrio": "Cordoba Capital",
-   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital ",
-   "ambientes": 4,
-   "dormitorios": 3,
-   "banos": 3,
-   "cocheras": 2,
-   "sup_cubierta": "191.00",
-   "sup_total": "0.00",
-   "antiguedad": 0,
-   "apto_credito": null,
-   "lat": "-31.4846731",
-   "lng": "-64.1705547",
-   "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_10097550375471277738314030337607468890523763252570492526566085996839234127096.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_10097550375471277738314030337607468890523763252570492526566085996839234127096_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_80517131335802042990505705423662192801108152652667742564967726219933127450191.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_80517131335802042990505705423662192801108152652667742564967726219933127450191_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_11792275237288380998545494010677073835071607871539751083111884349439612151222.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_11792275237288380998545494010677073835071607871539751083111884349439612151222_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_24545366809944146287892813234829225506770712667024914623560765752416175484740.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_24545366809944146287892813234829225506770712667024914623560765752416175484740_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_111108219358232297686995858636542154452456570186613948060373375369277946586729.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_111108219358232297686995858636542154452456570186613948060373375369277946586729_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_20396077739378867502565956269127851813913404715930399130154943601720968848901.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_20396077739378867502565956269127851813913404715930399130154943601720968848901_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_106711158215733208444244434202362357598105512717374985105614216688826473457784.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_106711158215733208444244434202362357598105512717374985105614216688826473457784_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_35296706201640873088601743440606754616391520177870330907651029986951140495843.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_35296706201640873088601743440606754616391520177870330907651029986951140495843_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_88758806469761903028614858816214873436094954653367262429984100298954302599967.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_88758806469761903028614858816214873436094954653367262429984100298954302599967_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_43430587117206116912779408021840537410690541851307706428463118190033936447499.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_43430587117206116912779408021840537410690541851307706428463118190033936447499_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_115756006927688307156296716624461457025037614721204978858001454461112874875750.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_115756006927688307156296716624461457025037614721204978858001454461112874875750_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_10455241818333121154094298244828260275011865399697602346236065557867768674312.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_10455241818333121154094298244828260275011865399697602346236065557867768674312_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_50945549365064658177762313143827583334831865909546708667223190912157172032780.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_50945549365064658177762313143827583334831865909546708667223190912157172032780_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_55829175832256114115162755195971175380708470394161927751439534027799075359926.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_55829175832256114115162755195971175380708470394161927751439534027799075359926_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_5265578287119607190475081711889788765933241646188492212700974773258263415564.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_5265578287119607190475081711889788765933241646188492212700974773258263415564_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_52422588940123561966091640239254866845493068022860104343835658154845993139691.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_52422588940123561966091640239254866845493068022860104343835658154845993139691_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_96428891813044000096926682223981039241729425069785238260583536580596224104614.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_96428891813044000096926682223981039241729425069785238260583536580596224104614_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_98586695445039773475664601308069278281815882843522183955984771704633436355689.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_98586695445039773475664601308069278281815882843522183955984771704633436355689_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_77022319506062383245882505048219938637770431610608495785143218434270771560103.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_77022319506062383245882505048219938637770431610608495785143218434270771560103_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7992197_96544497169193047355861718916330025175100630905646360674148861021454576563749.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7992197_96544497169193047355861718916330025175100630905646360674148861021454576563749_thumb.jpg"
-    }
-   ],
-   "video": null,
-   "destacada": false,
-   "creada": "2026-04-28T17:24:14",
-   "actualizada": "2026-06-19T12:37:52"
-  },
-  {
    "id": 7994827,
    "referencia": "JAP7994827",
    "titulo": "Depto 1 dor en alquiler | OPERA LUXURY CONDOMINIUM",
@@ -24539,7 +24429,7 @@
    "titulo": "Local de 55m2 en alquiler - A dos cuadras de Plaza Alta Córdoba",
    "descripcion": "LOCAL COMERCIAL DE 55M2 A SOLO DOS CUADRAS DE PLAZA ALTA CÓRDOBA SOBRE MARIANO FRAGUEIRO\n\n\nUbicación: Mariano Fragueiro 2284 - B° Alta Córdoba\n\n\nCaracterísticas: \nLocal distribuido en una planta de 55m2, cuenta con vidriera al frente, armarios empotrados y un baño.\n\n\nRequisitos:\n- Contrato por 2 años con actualización trimestral por IPC. (Opcional 3 años)\n- 3 garantías (recibos de sueldo superiores a $ 1.100.000 antiguedad min 1 año y/o garantía propietaria) aparte de la demostración de ingresos por parte del inquilino.\n- Honorarios inmobiliarios 5% sobre el monto total del contrato.\n- Impuesto municipal, impuesto de rentas y servicios a cargo del inquilino.\n\nHabla con propiedad, habla con Juarez Beltran.San Lorenzo 258 - 3er piso - B° Nueva Córdoba.Horarios de atencion, de lunes a viernes de 09.00 a 17.00hs.\nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n\n\n\n\n\n\n\n",
    "operacion": "Alquiler",
-   "precio": 750000,
+   "precio": 850000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Local",
@@ -24601,7 +24491,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-06-25T13:16:44",
-   "actualizada": "2026-06-25T13:25:10"
+   "actualizada": "2026-07-03T12:52:34"
   },
   {
    "id": 8406068,
