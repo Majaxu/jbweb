@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-06T14:22:18.521946+00:00",
+ "generado": "2026-07-06T18:52:22.717263+00:00",
  "total": 199,
  "propiedades": [
   {
@@ -3897,68 +3897,6 @@
    "destacada": false,
    "creada": "2024-02-19T20:12:46",
    "actualizada": "2026-07-01T18:18:03"
-  },
-  {
-   "id": 5969911,
-   "referencia": "JLO5969911",
-   "titulo": "Local en Barrio Centro Villa Allende - Av. Mariani esquina Tablada",
-   "descripcion": "                JUÁREZ BELTRÁN VILLA ALLENDE - VENDE: Ideal inversores. \n\n\nUBICACIÓN: P. Mariani esquina Tablada, complejo Roca\n\nPROPIEDAD/CARACTERÍSTICAS: Local con renta actual de +7% en planta baja en el Complejo Comercial Roca, sito en Av. Mariani esquina Tablada, en pleno centro de Villa Allende. Cuenta con pisos de madera flotante de excelente calidad y un baño.\n\n\nEstá alquilado hasta fines de abril de 2028.\n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nPara más información, consultar aquí:\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Bernardo González Beretta: CEL: 3512033761.\n\n\n\r\n            ",
-   "operacion": "Venta",
-   "precio": 100000,
-   "moneda": "USD",
-   "muestra_precio": true,
-   "tipo": "Local",
-   "direccion": "Venta - Local de 65 m2 en complejo Roca - Mariani y Tablada, Villa Allende",
-   "barrio": "Barrio Centro",
-   "ubicacion_completa": "Argentina | Cordoba | Colon | Villa Allende | Barrio Centro",
-   "ambientes": 2,
-   "dormitorios": 0,
-   "banos": 1,
-   "cocheras": 0,
-   "sup_cubierta": "65.00",
-   "sup_total": "65.00",
-   "antiguedad": 20,
-   "apto_credito": null,
-   "lat": "-31.2903048",
-   "lng": "-64.296449",
-   "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/water_pics/66740109745548361910719550522390510018257270303926508135046307018447890150613.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/66740109745548361910719550522390510018257270303926508135046307018447890150613_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/43397208972125283069000986678106708007720327139787249654821281027588226333529.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/43397208972125283069000986678106708007720327139787249654821281027588226333529_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/92049591053392009233230377148179629806101579690079283466083509020456092432919.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/92049591053392009233230377148179629806101579690079283466083509020456092432919_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/99681372476429890739140243399337966611073614662917106231029263570670694829173.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/99681372476429890739140243399337966611073614662917106231029263570670694829173_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/61072886872797078665170612925279573799516856392988582576280200157973048008366.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/61072886872797078665170612925279573799516856392988582576280200157973048008366_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/17931132959325069113638676483258261388623806507505220180840112540069116787119.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/17931132959325069113638676483258261388623806507505220180840112540069116787119_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/23660574917700489004789077455772206132801390422196411396801440715983392159573.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/23660574917700489004789077455772206132801390422196411396801440715983392159573_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/92501645586530800503827158410398723564671582148053744161805507648904827556596.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/92501645586530800503827158410398723564671582148053744161805507648904827556596_thumb.jpg"
-    }
-   ],
-   "video": null,
-   "destacada": true,
-   "creada": "2024-03-13T15:34:54",
-   "actualizada": "2026-06-09T21:05:10"
   },
   {
    "id": 5987978,
@@ -12838,6 +12776,10 @@
    "lng": "-64.1916468",
    "fotos": [
     {
+     "url": "https://static.tokkobroker.com/w_pics/7779555_64887130455970773780296017814363999365607158310289497693078370355578458068313.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7779555_64887130455970773780296017814363999365607158310289497693078370355578458068313_thumb.jpg"
+    },
+    {
      "url": "https://static.tokkobroker.com/w_pics/7779555_18781708572391288760485913505985173108796203272725630985405203457106057233719.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7779555_18781708572391288760485913505985173108796203272725630985405203457106057233719_thumb.jpg"
     },
@@ -12872,10 +12814,6 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/7779555_114138533125596342238230749928818967302857997225854554926853080112737618185157.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7779555_114138533125596342238230749928818967302857997225854554926853080112737618185157_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7779555_64887130455970773780296017814363999365607158310289497693078370355578458068313.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7779555_64887130455970773780296017814363999365607158310289497693078370355578458068313_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7779555_1077202167564301870945240024141493239659272657057986849410551484260078385676.jpg",
@@ -12977,7 +12915,7 @@
    "video": "https://www.youtube.com/embed/M18_2tbqCxU",
    "destacada": false,
    "creada": "2026-02-12T15:54:38",
-   "actualizada": "2026-06-16T17:00:09"
+   "actualizada": "2026-07-06T14:45:37"
   },
   {
    "id": 7806014,
@@ -17013,7 +16951,7 @@
    "titulo": "VENTA- Departamento 1 dormitorio- Casonas del Golf Villa Allende",
    "descripcion": "JUAREZ BELTRAN VILLA ALLENDE – VENDE\n\nIncreíble departamento de un dormitorio en la Torre Augusta de Casonas de Golf. \nEl departamento se encuentra en el segundo piso con vistas a las sierras. \nPosee un living comedor desde el cual se puede disfrutar de las vistas abiertas. \nLa cocina, integrada con el lavadero, cuenta con generosos muebles bajo mesada y alacenas.\nEl dormitorio posee un placard empotrado. \nDesde el living y el dormitorio se puede acceder al balcón aterrazado con parrilla individual. Posee toldos en excelente estado.\nTodos los ambientes cuentan con aire acondicionado individual y la calefacción es con radiadores y caldera. Los pisos son de madera. \nCada espacio ha sido aprovechado con muebles de gran uso y versatilidad.\nLa unidad viene con una cochera cubierta, baulera y espacio para tender.\nEl complejo cuenta con un excelente acceso; vistas abiertas, amplios espacios verdes y un conjunto de amenities que brindan todo lo necesario para vivir en comodidad.\nNo te pierdas la oportunidad de conocer esta unidad y vivir en un entorno natural disfrutando de una vista privilegiada.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Mariana Magliano. Tel: 3516164296.\n                \r\n            \n",
    "operacion": "Venta",
-   "precio": 155000,
+   "precio": 150000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -17119,7 +17057,7 @@
    "video": "https://www.youtube.com/embed/EvCFcaHgMT0?feature=share",
    "destacada": true,
    "creada": "2026-04-23T20:34:41",
-   "actualizada": "2026-06-29T14:44:08"
+   "actualizada": "2026-07-06T16:06:47"
   },
   {
    "id": 7984663,
@@ -17369,7 +17307,7 @@
    "id": 7994827,
    "referencia": "JAP7994827",
    "titulo": "Depto 1 dor en alquiler | OPERA LUXURY CONDOMINIUM",
-   "descripcion": "                \n1 DORMITORIO | LUMINOSO | BALCÓN | OPERA LUXURY CONDOMINIUM\n\nLa unidad se encuentra ubicada en un piso 11 (unidades C Y D), ofrece una vista panorámica inigualable y luminosidad absoluta.\n\nCaracterísticas:\n\n*Dormitorio: Con placard empotrado e interiores y ventanal de gran tamaño.\n\n*Living-Comedor: Amplio espacio con salida al balcón.\n\n\n\n*Balcón: Ideal para disfrutar de los atardeceres con vista a las sierras o la ciudad.\n\n\n\n*Calidad Constructiva: Aberturas de aluminio de alta gama, pisos de porcelanato y calefacción central.\n\n\n\n\n\nEl complejo garantiza seguridad las 24hs, control de acceso monitoreado, piscina descubierta, gimnasio, espacios verdes y SUM.\n\nExpensas incluyen impuestos.\n\n\n\nImportante:\n\nLa presente publicación no es una oferta vinculante en los términos del Art 7 y 8 de Ley de Defensa al Consumidor Ley N 24.240, y se encuentra sujetos a la confirmación del propietario. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nContrato por 2 años (24 meses), con actualizacion cuatrimestral segun indice IPC emitido por el BCRA.\n\n\n\nJUAREZ BELTRAN S.A. San Lorenzo 25 - 3°piso - B° Nueva Córdoba | Horario de atención, lunes a viernes de 09.00 a 17.00hs | +54 351 4214400 (solo llamadas) | +54 9 3513470043 (solo mensajes whatsapp)\n\n\r\n\r\n            ",
+   "descripcion": "                                \n1 DORMITORIO | LUMINOSO | BALCÓN | OPERA LUXURY CONDOMINIUM\n\nLa unidad se encuentra ubicada en un piso 11 (unidades C Y D), ofrece una vista panorámica inigualable y luminosidad absoluta.\n\nCaracterísticas:\n*Dormitorio: Con placard empotrado e interiores y ventanal de gran tamaño.\n*Living-Comedor: Amplio espacio con salida al balcón.\n*Balcón: Ideal para disfrutar de los atardeceres con vista a las sierras o la ciudad.\n*Calidad Constructiva: Aberturas de aluminio de alta gama, pisos de porcelanato y calefacción central.\nEl complejo garantiza seguridad las 24hs, control de acceso monitoreado, piscina descubierta, gimnasio, espacios verdes y SUM.\n\n\nExpensas: $161.200 + Rentas $35.000 + Municipalidad: $20.000 + Agua: $20.000\n\n\n\nImportante: La presente publicación no es una oferta vinculante en los términos del Art 7 y 8 de Ley de Defensa al Consumidor Ley N 24.240, y se encuentra sujetos a la confirmación del propietario. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nContrato por 2 años (24 meses), con actualización cuatrimestral según índice IPC emitido por el BCRA.\n\nJUAREZ BELTRAN S.A. San Lorenzo 25 - 3°piso - B° Nueva Córdoba | Horario de atención, lunes a viernes de 09.00 a 17.00hs | +54 351 4214400 (solo llamadas) | +54 9 3513470043 (solo mensajes whatsapp)\n\n\n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 650000,
    "moneda": "ARS",
@@ -17389,6 +17327,10 @@
    "lat": "-31.3934178",
    "lng": "-64.2227494",
    "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7994827_82981992453145957219797674884365471868752528207972433090763244259389951024933.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7994827_82981992453145957219797674884365471868752528207972433090763244259389951024933_thumb.jpg"
+    },
     {
      "url": "https://static.tokkobroker.com/w_pics/7994827_115715625023667541875512193661219760923857295338074201269881270698200951201053.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7994827_115715625023667541875512193661219760923857295338074201269881270698200951201053_thumb.jpg"
@@ -17426,10 +17368,6 @@
      "thumb": "https://static.tokkobroker.com/thumbs/7994827_7530982492769543668785232829386721553466572877779473911692520484583279030979_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/7994827_82981992453145957219797674884365471868752528207972433090763244259389951024933.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7994827_82981992453145957219797674884365471868752528207972433090763244259389951024933_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/7994827_7370539929845968338711710067797885961439338379673997710394748520445848432540.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7994827_7370539929845968338711710067797885961439338379673997710394748520445848432540_thumb.jpg"
     },
@@ -17465,7 +17403,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-04-29T14:10:17",
-   "actualizada": "2026-06-11T16:46:36"
+   "actualizada": "2026-07-06T15:37:49"
   },
   {
    "id": 7994845,
@@ -25563,7 +25501,7 @@
    "id": 8420352,
    "referencia": "JAP8420352",
    "titulo": "ALQUILER Departamento de categoria, 1 dormitorio CIUDAD GAMA",
-   "descripcion": "                                DEPARTAMENTO DE 1 DORMITORIO, EXCELENTE CATEGORIA !! EN EL SEXTO PISO \nALQUILER COMPLEJO CIUDAD GAMA - AV COLON 5034 \nCERCANO A CPC AV COLÓN, JARDÍN BOTÁNICO, TROPEZÓN, ESTADIO MARIO ALBERTO KEMPES.\nCOMPLEJO DE EDIFICIOS NUEVOS, CON AMENITIES. DEPARTAMENTO DE 1 DORMITORIO CON BALCON.\n\nCARACTERÍSTICAS:\n- LIVING/COMEDOR CON SALIDA A BALCÓN- BALCÓN CON ASADOR- COCINA SEPARADA EQUIPADA, CON EXTRACTOR- DORMITORIO AMPLIO CON PLACARD- A/A INSTALADO- CONEXION P/ LAVARROPAS\n\nEl complejo cuenta con un SUM, con asador.Con estacionamiento de cortesía, y cocheras en el subsuelo para los inquilinos que las alquila Gama directamente.\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramentereferencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación delpropietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Clyde E. Herreros Tel: 3513792881 – cherreros@juarezbeltran.com.ar\n                \n\n            \n\n            \r\n\r\n            ",
+   "descripcion": "                                                DEPARTAMENTO DE 1 DORMITORIO, EXCELENTE CATEGORIA !! EN EL SEXTO PISO \nALQUILER COMPLEJO CIUDAD GAMA - AV COLON 5034 \nCERCANO A CPC AV COLÓN, JARDÍN BOTÁNICO, TROPEZÓN, ESTADIO MARIO ALBERTO KEMPES.\nCOMPLEJO DE EDIFICIOS NUEVOS, CON AMENITIES. DEPARTAMENTO DE 1 DORMITORIO CON BALCON.\n\nCARACTERÍSTICAS:\n- LIVING/COMEDOR CON SALIDA A BALCÓN- BALCÓN CON ASADOR- COCINA SEMI INTERADA- DORMITORIO AMPLIO CON PLACARD- A/A INSTALADO- CONEXION P/ LAVARROPAS\n\nEl complejo cuenta con un SUM, con asador.Con estacionamiento de cortesía, y cocheras en el subsuelo para los inquilinos que las alquila Gama directamente.\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramentereferencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación delpropietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Clyde E. Herreros Tel: 3513792881 – cherreros@juarezbeltran.com.ar\n                \n\n            \n\n            \n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 590000,
    "moneda": "ARS",
@@ -25687,7 +25625,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-06-29T16:52:09",
-   "actualizada": "2026-06-30T19:58:14"
+   "actualizada": "2026-07-06T15:06:06"
   },
   {
    "id": 8429961,
@@ -26362,6 +26300,88 @@
    "destacada": true,
    "creada": "2026-07-03T15:33:09",
    "actualizada": "2026-07-03T15:44:05"
+  },
+  {
+   "id": 8439601,
+   "referencia": "JLO8439601",
+   "titulo": "Local Comercial 180m2",
+   "descripcion": "                LOCAL COMERCIAL 180 M2 | AMPLIO FRENTE | SIN EXPENSAS\nUbicación: Av. Colón 3276 - B° Alberdi.\nCaracterísticas:\nLocal comercial amplio y luminoso de 120m2 cubiertos, 60m2 descubiertos.\nAmplio frente/vidriera.\n2 baños tipo toilette.\n\n\nImpuestos a cargo del inquilino:\nMunicipalidad: $19500\nRentas: $11200\nAguas: $21000\n\n\nModalidad de Contrato: Contrato con actualizaciones trimestrales según el índice ICL emitido por el BCRA.\n\nRequisitos:1) 2 recibos de sueldo iguales o mayores a $1.500.000 + garantía propietaria2) 3 recibos de sueldo iguales o mayores a $1.500.0003) Seguro de caución operado por Locativa\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHabla con propiedad, habla con Juarez Beltran.San Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n\n\n\n\n\r\n\r\n            ",
+   "operacion": "Alquiler",
+   "precio": 1200000,
+   "moneda": "ARS",
+   "muestra_precio": true,
+   "tipo": "Local",
+   "direccion": "Av Colon al 3200",
+   "barrio": "Alberdi",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Alberdi",
+   "ambientes": 1,
+   "dormitorios": 0,
+   "banos": 2,
+   "cocheras": 0,
+   "sup_cubierta": "120.00",
+   "sup_total": "0.00",
+   "antiguedad": 10,
+   "apto_credito": null,
+   "lat": "-31.4012608",
+   "lng": "-64.2235949",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_98484630596371933360509461903066432536973098785728811930605228956019671584077.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_98484630596371933360509461903066432536973098785728811930605228956019671584077_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_59334207427466002815474387979766040994351015896848673498763634219846530563186.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_59334207427466002815474387979766040994351015896848673498763634219846530563186_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_46584131775489184954162625485937049235270410327721626250583868575277635817927.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_46584131775489184954162625485937049235270410327721626250583868575277635817927_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_9499651015606861072252218473130712801477845817897333563844915323037898979924.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_9499651015606861072252218473130712801477845817897333563844915323037898979924_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_79266318014141238316661925021451109930149156844476099162171756151301506876646.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_79266318014141238316661925021451109930149156844476099162171756151301506876646_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_112366020892696240884737971734315598229726271403905572030963619822987467125905.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_112366020892696240884737971734315598229726271403905572030963619822987467125905_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_103991329865963396889134671065143936712315385911036292058230615252757147556227.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_103991329865963396889134671065143936712315385911036292058230615252757147556227_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_57866746003137253454296536177274940358092396902986777833616647526335892396244.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_57866746003137253454296536177274940358092396902986777833616647526335892396244_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_84608015828251661123321464699458605740705915838712769601729439278681643211566.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_84608015828251661123321464699458605740705915838712769601729439278681643211566_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_62569766883111646042311109306221999327430477662534632871949919134032633022278.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_62569766883111646042311109306221999327430477662534632871949919134032633022278_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_77985318175336284289495308494950407880450611092081206236839789802339960408274.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_77985318175336284289495308494950407880450611092081206236839789802339960408274_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_38533218775225421486716269121799483725481906959947338752405694292485019537330.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_38533218775225421486716269121799483725481906959947338752405694292485019537330_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8439601_63166650129764935544427052819611248351899100624386541103291945207056154360863.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8439601_63166650129764935544427052819611248351899100624386541103291945207056154360863_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2026-07-06T14:29:16",
+   "actualizada": "2026-07-06T14:35:03"
   }
  ]
 }
