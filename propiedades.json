@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-07T13:16:10.263060+00:00",
- "total": 201,
+ "generado": "2026-07-07T16:26:54.245346+00:00",
+ "total": 199,
  "propiedades": [
   {
    "id": 471897,
@@ -992,7 +992,7 @@
    "id": 483779,
    "referencia": "JAP483779",
    "titulo": "Depto en ALQUILER - 1 DOR - Balcon contrafrente",
-   "descripcion": "DEPTO 1 DOR - COCINA INTEGRADA - BALCON CONTRAFRENTE\n\nUBICACIÓN: Angelo de Peredo Nº 161, entre Obispo Trejo y Velez Sarfield. - 3º Piso - Bº Nueva Cordoba.\n\nPROPIEDAD/CARACTERISITICAS: Se trata de Departamento de  1 dormitorio en un 3º piso contrafrente  con balcón . Cuenta con cocina integrada al living comedor, muebles bajo mesada de madera, luminoso, pisos de cerámicos, baño completo y dormitorio con placard. \n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nPara más información, consultar aquí:\nCÓRDOBA – San Lorenzo 25. 3° Piso– Nva. Cba – TEL: +54 3514214400 (solo llamadas) - TEL +54 3513470043 (solo whatsapp)– jbeltran@juarezbeltran.com.ar\n        \n        \n            \r\n            ",
+   "descripcion": "                DEPTO 1 DOR - COCINA INTEGRADA - BALCON CONTRAFRENTE\n\nUBICACIÓN: Angelo de Peredo Nº 161, entre Obispo Trejo y Velez Sarfield. - 4º Piso - Bº Nueva Cordoba.\n\nPROPIEDAD/CARACTERISITICAS: Se trata de Departamento de  1 dormitorio en un 4º piso contrafrente  con balcón . Cuenta con cocina integrada al living comedor, muebles bajo mesada de madera, luminoso, pisos de cerámicos, baño completo y dormitorio con placard. \n\nModalidad de Contrato: Contrato por 18 meses con actualizaciones trimestrales según el índice ICL emitido por el BCRA.\nRequisitos:1) 2 recibos de sueldo iguales o mayores a $1.100.000 + garantía propietaria2) 3 recibos de sueldo iguales o mayores a $1.100.0003) Seguro de caución operado por Locativa\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHabla con propiedad, habla con Juarez Beltran.San Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n            \n            \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 590000,
    "moneda": "ARS",
@@ -1132,7 +1132,7 @@
    "video": null,
    "destacada": true,
    "creada": "2017-08-08T13:57:34",
-   "actualizada": "2026-07-07T13:15:15"
+   "actualizada": "2026-07-07T13:18:23"
   },
   {
    "id": 691815,
@@ -1650,7 +1650,7 @@
    "moneda": "ARS",
    "muestra_precio": false,
    "tipo": "Departamento",
-   "direccion": "Buenos Aires al 900",
+   "direccion": "Buenos Aires al 900 - Maria Reina XII",
    "barrio": "Nueva Cordoba",
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Nueva Cordoba",
    "ambientes": 2,
@@ -1708,7 +1708,7 @@
    "video": null,
    "destacada": false,
    "creada": "2019-10-23T17:21:52",
-   "actualizada": "2026-07-07T13:07:39"
+   "actualizada": "2026-07-07T13:44:09"
   },
   {
    "id": 2290910,
@@ -1899,12 +1899,16 @@
    "lng": "-64.1817041",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/water_pics/51590152398202803285260983938734802230346649497072500778360506687255941040982.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/51590152398202803285260983938734802230346649497072500778360506687255941040982_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/2837023_109363382374273483956233807020492296256793464311962233074076884989763043187390.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/2837023_109363382374273483956233807020492296256793464311962233074076884989763043187390_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/water_pics/4912957341076795391430720152816566213294311188928420698336930535118229060833.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/4912957341076795391430720152816566213294311188928420698336930535118229060833_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/51590152398202803285260983938734802230346649497072500778360506687255941040982.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/51590152398202803285260983938734802230346649497072500778360506687255941040982_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/2837023_48056753377176059106549898699989383050679603196640766460249285678211656286172.jpg",
@@ -1913,10 +1917,6 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/2837023_84885810510696852158667121416700411484378005384291062400407139064587214834440.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/2837023_84885810510696852158667121416700411484378005384291062400407139064587214834440_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/2837023_109363382374273483956233807020492296256793464311962233074076884989763043187390.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/2837023_109363382374273483956233807020492296256793464311962233074076884989763043187390_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/2837023_57275084428584657439933046905947201509338837037850904523918924169823992738262.jpg",
@@ -1974,7 +1974,7 @@
    "video": null,
    "destacada": true,
    "creada": "2020-09-17T18:16:04",
-   "actualizada": "2026-06-18T18:51:00"
+   "actualizada": "2026-07-07T14:31:27"
   },
   {
    "id": 3796255,
@@ -3748,10 +3748,10 @@
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
-   "direccion": "9 de Julio 985 - 2 Dorm - Alquiler",
+   "direccion": "9 de Julio 985",
    "barrio": "Alberdi",
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Alberdi",
-   "ambientes": 0,
+   "ambientes": 3,
    "dormitorios": 2,
    "banos": 1,
    "cocheras": 0,
@@ -3814,7 +3814,7 @@
    "video": null,
    "destacada": false,
    "creada": "2023-11-02T17:57:42",
-   "actualizada": "2026-06-25T14:49:19"
+   "actualizada": "2026-07-07T13:37:35"
   },
   {
    "id": 5829497,
@@ -5582,7 +5582,7 @@
    "titulo": "Departamento de 2 dormitorios en alquiler - Barrio Alberdi - Duarte Quiros 1000",
    "descripcion": "SEMI PISO. 2 DORMITORIOS. COCINA SEPARADA. LUMINOSO.\n        UBICACIÓN: BARRIO ALBERDI - CALLE DUARTE QUIRÓS 999 -\nPROPIEDAD/CARACTERÍSTICAS:\nSe trata de un departamento de 2 dormitorios con cocina separada, salida de agua para lavarropas y calefón. El depto es muy luminoso y cuenta con calefacción. El baño es completo con ducha y cada dormitorio cuenta con placard empotrado. \nImportante: Se encuentran disponible los pisos 2 y 3.\nConexión a lavarropas: SIServicios a cargo del inquilino: Luz y gas\nImpuestos a cargo del propietario: Municipalidad y rentas.\nAmenities: NO \nMODALIDAD DE CONTRATO: Contrato por 2 años con actualizaciones cada 4 meses según el índice ICL emitido por el BCRA.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nPara más información, consultar aquí:\nNUEVA CÓRDOBA – San Lorenzo 25. 3° Piso– Nva. Cba – TEL: +54 3513 3470043 jbeltran@juarezbeltran.com.ar\n\n\n\n\n\n\n\n\n\n\n\n\n            \n            \r\n            ",
    "operacion": "Alquiler",
-   "precio": 640000,
+   "precio": 600000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -5600,10 +5600,6 @@
    "lat": "-31.4154945",
    "lng": "-64.1987072",
    "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/6521451_35328144797204170787493136614683236225289856456790926902403373898815447070911.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/6521451_35328144797204170787493136614683236225289856456790926902403373898815447070911_thumb.jpg"
-    },
     {
      "url": "https://static.tokkobroker.com/w_pics/6521451_64730014547766768749337332941468329862798832766824709815498893087240942178371.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/6521451_64730014547766768749337332941468329862798832766824709815498893087240942178371_thumb.jpg"
@@ -5689,6 +5685,10 @@
      "thumb": "https://static.tokkobroker.com/thumbs/6521451_39592730544707668970027486750627251726535194909552001715376029112595188749937_thumb.jpg"
     },
     {
+     "url": "https://static.tokkobroker.com/w_pics/6521451_35328144797204170787493136614683236225289856456790926902403373898815447070911.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/6521451_35328144797204170787493136614683236225289856456790926902403373898815447070911_thumb.jpg"
+    },
+    {
      "url": "https://static.tokkobroker.com/w_pics/6521451_4469297416638590116621554105006802213402207445907926725532596851742879053627.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/6521451_4469297416638590116621554105006802213402207445907926725532596851742879053627_thumb.jpg"
     },
@@ -5724,7 +5724,7 @@
    "video": null,
    "destacada": true,
    "creada": "2024-10-25T13:44:32",
-   "actualizada": "2026-04-28T13:11:58"
+   "actualizada": "2026-07-07T14:30:17"
   },
   {
    "id": 6572509,
@@ -6127,6 +6127,10 @@
    "lng": "-64.1874851",
    "fotos": [
     {
+     "url": "https://static.tokkobroker.com/w_pics/6738370_2263690625961231219714944552891682252743926580766474530672164651555234222138.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/6738370_2263690625961231219714944552891682252743926580766474530672164651555234222138_thumb.jpg"
+    },
+    {
      "url": "https://static.tokkobroker.com/w_pics/6738370_38650670775340842554198160844474087964107419276924488759943136486758579657913.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/6738370_38650670775340842554198160844474087964107419276924488759943136486758579657913_thumb.jpg"
     },
@@ -6137,10 +6141,6 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/6738370_18511382619161038429352011253871260717833800968823857188838132608654814828828.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/6738370_18511382619161038429352011253871260717833800968823857188838132608654814828828_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/6738370_2263690625961231219714944552891682252743926580766474530672164651555234222138.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/6738370_2263690625961231219714944552891682252743926580766474530672164651555234222138_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/6738370_42412470020816491379901653171806288069483182629235527635996430233308892790902.jpg",
@@ -6234,7 +6234,7 @@
    "video": "https://www.youtube.com/embed/aFp5t8qAmRk",
    "destacada": false,
    "creada": "2025-01-28T15:35:58",
-   "actualizada": "2026-07-03T18:13:13"
+   "actualizada": "2026-07-07T14:29:50"
   },
   {
    "id": 6822201,
@@ -11337,7 +11337,7 @@
    "titulo": "Amplio depto en ALQUILER - Av. Colon 1881 - 1 dormitorio",
    "descripcion": "ALQUILER | 1 DORMITORIO | AV. COLÓN 1881 (ALBERDI) - JUAREZ BELTRAN S.A.\nUBICACIÓN: Departamento situado en Av. Colón 1881, Barrio Alberdi. Una zona de excelente conectividad, con líneas de colectivo en la puerta hacia toda la ciudad y cercanía a centros de salud, comercios y espacios verdes.\nCARACTERÍSTICAS (Torre 2 - 7º Piso): Unidad interna (contrafrente) que garantiza tranquilidad y aislamiento de ruidos de la avenida:-Sector Social: Living comedor de dimensiones generosas, ideal para sectorizar estar y mesa diaria.-Cocina: Integrada al ambiente principal, optimizando el espacio. Cuenta con muebles bajo mesada.-Dormitorio: Cómodo, con pisos alfombrados que aportan calidez acústica y térmica. Posee placard empotrado con interiores.-Baño: Completo con ducha.\nEL EDIFICIO: Complejo de torres con acceso seguro y ascensores.\nIdeal para estudiantes o personas solas que busquen practicidad. \nComercializa: Juárez Beltrán S.A. | San Lorenzo 25 - 3er piso B° Nueva Córdoba | Tel (solo llamadas) +54 9 3514214400 - Wsp (solo mensajes de whatsapp) +54 9 3513470043.\n                \r\n            ",
    "operacion": "Alquiler",
-   "precio": 480000,
+   "precio": 450000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -11467,7 +11467,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-01-16T13:16:04",
-   "actualizada": "2026-06-11T16:02:30"
+   "actualizada": "2026-07-07T14:29:08"
   },
   {
    "id": 7689442,
@@ -11701,7 +11701,7 @@
    "id": 7720930,
    "referencia": "JAP7720930",
    "titulo": "Depto en alquiler | Balcon al frente | 1 dor",
-   "descripcion": "1 Dormitorio con Balcón al Frente | Excelente ubicación | 5to piso disponible a partir de Julio - 7mo disponible \nDESCRIPCIÓN: Excelente departamento de 1 dormitorio ubicado en un punto estratégico de la ciudad (Arturo M. Bas 393) edificio Maria Reina XVI, a metros de Bv. San Juan y zona Tribunales.\nLa unidad se destaca por su disposición al frente y luminosidad.\nCaracterísticas principales:-Sector Social: Living comedor cómodo con cocina integrada, optimizando el espacio y la circulación.-Exterior: Salida a balcón al frente, ideal para ventilación y luz natural.-Dormitorio: Cuenta con placard empotrado con interiores completos.-Baño: Completo, moderno, con ducha y mampara de vidrio.\nUna opción funcional, moderna y en una ubicación inmejorable. ¡Consultanos para coordinar una visita!\nRequisitos:\n1) Dos recibos de sueldo iguales o superiores de $1.250.000 + garantía propietaria2) Tres recibos de sueldo iguales o superiores de $1.250.0003) Seguro de caucion operado por Locativa\n\nContrato:Contrato a celebrarse por 18 meses con aumento trimestral bajo el indice de IPC.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHabla con propiedad, habla con Juarez Beltran. San Lorenzo 25 - 3° piso - B° Nueva Cordoba Horarios de atención: Lunes a Viernes de 09.00 a 17.00 hs \nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n                \n            \n            \n            \r\n\r\n            ",
+   "descripcion": "                1 Dormitorio con Balcón al Frente | Excelente ubicación | 5to piso disponible a partir de JulioDESCRIPCIÓN: Excelente departamento de 1 dormitorio ubicado en un punto estratégico de la ciudad (Arturo M. Bas 393) edificio Maria Reina XVI, a metros de Bv. San Juan y zona Tribunales.\nLa unidad se destaca por su disposición al frente y luminosidad.\nCaracterísticas principales:-Sector Social: Living comedor cómodo con cocina integrada, optimizando el espacio y la circulación.-Exterior: Salida a balcón al frente, ideal para ventilación y luz natural.-Dormitorio: Cuenta con placard empotrado con interiores completos.-Baño: Completo, moderno, con ducha y mampara de vidrio.\nUna opción funcional, moderna y en una ubicación inmejorable. ¡Consultanos para coordinar una visita!\nRequisitos:\n1) Dos recibos de sueldo iguales o superiores de $1.250.000 + garantía propietaria2) Tres recibos de sueldo iguales o superiores de $1.250.0003) Seguro de caucion operado por Locativa\n\nContrato:Contrato a celebrarse por 18 meses con aumento trimestral bajo el indice de IPC.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHabla con propiedad, habla con Juarez Beltran. San Lorenzo 25 - 3° piso - B° Nueva Cordoba Horarios de atención: Lunes a Viernes de 09.00 a 17.00 hs \nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n                \n            \n            \n            \n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 645000,
    "moneda": "ARS",
@@ -11722,16 +11722,16 @@
    "lng": "-64.1937818",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/7720930_34961501415583251929670808918424936813424636693646966379977661429920499154936.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7720930_34961501415583251929670808918424936813424636693646966379977661429920499154936_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/7720930_17824956356320084584633339715715685458693985797758797841413698677683247699554.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7720930_17824956356320084584633339715715685458693985797758797841413698677683247699554_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7720930_93678314625482620546115501133895311682039193271160520066957352739933083588827.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7720930_93678314625482620546115501133895311682039193271160520066957352739933083588827_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/7720930_17824956356320084584633339715715685458693985797758797841413698677683247699554.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7720930_17824956356320084584633339715715685458693985797758797841413698677683247699554_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/7720930_34961501415583251929670808918424936813424636693646966379977661429920499154936.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7720930_34961501415583251929670808918424936813424636693646966379977661429920499154936_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7720930_527279889003791093565983930414595499926939092573177584537705454926381890782.jpg",
@@ -11805,7 +11805,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-01-26T15:00:05",
-   "actualizada": "2026-06-24T13:15:14"
+   "actualizada": "2026-07-07T14:28:38"
   },
   {
    "id": 7721846,
@@ -12307,9 +12307,9 @@
    "id": 7759548,
    "referencia": "JAP7759548",
    "titulo": "Depto 2 dor en alquiler - Torres de Alvear II",
-   "descripcion": "JUAREZ BELTRAN S.A. - ALQUILER DEPTO 2 DOR - TORRES DE ALVEAR II\n\n\nDESCRIPCIÓN: \nUbicado en Gral. Alvear 221, a pasos de Av. Olmos y con excelente conectividad hacia toda la ciudad. Unidad situada en un Piso 6 (Torres de Alvear II), lo que garantiza tranquilidad y luz.\n\nDistribución:Sector Social: Living comedor cómodo.Cocina: Independiente (separada del estar), de estilo clásico, con ventilación natural.Dormitorios: Cuenta con 2 dormitorios, ambos con placard empotrado y salida a un balcón externo.Baño: Completo con ducha.\nUna opción práctica y funcional en pleno centro. ¡Consultanos para coordinar una visita!\nSan Lorenzo 25 - 3° piso - B° Nueva Córdoba | Lunes a Viernes 09.00 a 17.00 hs | Tel (solo llamadas) +54 9 4214400 - Tel (solo whatsapp) +54 9 3513470043\n",
+   "descripcion": "                DEPTO 2 DORMITORIOS - BALCON AL FRENTE - COCINA SEPARADA - LUMINOSO\n\n\nDESCRIPCIÓN: \nUbicado en Gral. Alvear 221, a pasos de Av. Olmos y con excelente conectividad hacia toda la ciudad. Unidad situada en un Piso 6 (Torres de Alvear II), lo que garantiza tranquilidad y luz.\n\nDistribución:Sector Social: Living comedor cómodo.Cocina: Independiente (separada del estar), de estilo clásico, con ventilación natural.Dormitorios: Cuenta con 2 dormitorios, ambos con placard empotrado y salida a un balcón externo.Baño: Completo con ducha.\nUna opción práctica y funcional en pleno centro. ¡Consultanos para coordinar una visita!\nModalidad de Contrato: Contrato por 24 meses con actualizaciones trimestrales según el índice ICL emitido por el BCRA.\nRequisitos:1) 2 recibos de sueldo iguales o mayores a $1.000.000 + garantía propietaria2) 3 recibos de sueldo iguales o mayores a $1.000.0003) Seguro de caución operado por Locativa\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHabla con propiedad, habla con Juarez Beltran.San Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n\n\r\n\r\n            ",
    "operacion": "Alquiler",
-   "precio": 620000,
+   "precio": 590000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -12415,7 +12415,7 @@
    "video": "https://www.youtube.com/embed/x2uWMW7JYTQ",
    "destacada": false,
    "creada": "2026-02-05T15:05:39",
-   "actualizada": "2026-06-11T16:03:53"
+   "actualizada": "2026-07-07T14:27:14"
   },
   {
    "id": 7764246,
@@ -13796,136 +13796,6 @@
    "actualizada": "2026-06-16T22:05:32"
   },
   {
-   "id": 7865344,
-   "referencia": "JAP7865344",
-   "titulo": "Depto 2 dor con amenities - OPERA PARK ",
-   "descripcion": "DEPTO 2 DOR Y AMENITIES - OPERA PARK - A ESTRENAR EN PISO 7 Y 9\nUBICACIÓN: Manuel Quitana 1050 - Opera Park - B° Las Rosas\nCARACTERÍSTICAS:\n-Amplio living comedor con salida a balcón con vista a parque del complejo.\n-Cocina separada con muebles bajo mesada, alacena, lavadero zonificado y termotanque.\n-2 baños completos con duchas.\n-2 dormitorios, ambos con placard empotrado (con sus respectivos interiores), uno de ellos en suite.\nCONSULTE POR COCHERAS DISPONIBLES ($50.000 MAS EXPENSAS)\n*Complejo con seguridad 24hs, SUM, pileta, espacios verdes.\n*La unidad es muy luminosa.\n*Contrato por 2 años (24 meses), con actualizacion cuatrimestral segun indice ICL emitido por el BCRA.\n\n\nJUAREZ BELTRAN S.A. San Lorenzo 25 - 3°piso - B° Nueva Córdoba | Horario de atención, lunes a viernes de 09.00 a 17.00hs\n+54 351 4214400 (solo llamadas) | +54 9 3513470043 (solo mensajes whatsapp)\n                \n            \n            \r\n            ",
-   "operacion": "Alquiler",
-   "precio": 1200000,
-   "moneda": "ARS",
-   "muestra_precio": true,
-   "tipo": "Departamento",
-   "direccion": "Manuel Quintana  al 1000",
-   "barrio": "Las Rosas",
-   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Las Rosas",
-   "ambientes": 4,
-   "dormitorios": 2,
-   "banos": 2,
-   "cocheras": 0,
-   "sup_cubierta": "90.00",
-   "sup_total": "90.00",
-   "antiguedad": 0,
-   "apto_credito": null,
-   "lat": "-31.3925068",
-   "lng": "-64.2258548",
-   "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_73211451618536416539440246935197330630759708736718913740874710015135298753844.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_73211451618536416539440246935197330630759708736718913740874710015135298753844_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_28839786147343462992769803104248834083437430056372607490380176044145504876199.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_28839786147343462992769803104248834083437430056372607490380176044145504876199_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_109286611878170561937058697870529876452613923347668482101078207611592413481875.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_109286611878170561937058697870529876452613923347668482101078207611592413481875_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_100796618908127391072438820060664664090387728200185199623690207779889701086736.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_100796618908127391072438820060664664090387728200185199623690207779889701086736_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_83801839294700228672443961337401138530709725611247716524861419214966241087533.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_83801839294700228672443961337401138530709725611247716524861419214966241087533_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_7037974975878531951844193345330809796628948504371233883848146629133911492519.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_7037974975878531951844193345330809796628948504371233883848146629133911492519_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_28017544750143518278113597585855526419339749921205002209704448355930017823073.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_28017544750143518278113597585855526419339749921205002209704448355930017823073_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_89605170927826269945485342045501064825230511159192900541824763104961808059708.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_89605170927826269945485342045501064825230511159192900541824763104961808059708_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_102570956303361067692553523544830525227485540997639250014673043693924669078845.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_102570956303361067692553523544830525227485540997639250014673043693924669078845_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_46004869715545031434993363420903287587094093164719195957972127568377708366234.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_46004869715545031434993363420903287587094093164719195957972127568377708366234_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_109298711372095711503278076322932310517847805231306994561558443402576174592291.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_109298711372095711503278076322932310517847805231306994561558443402576174592291_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_42150564817815641403577578134189024869336231726419187782585762833934475905155.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_42150564817815641403577578134189024869336231726419187782585762833934475905155_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_51488661477313612978852381637261530063148673341643741533459190682512642517354.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_51488661477313612978852381637261530063148673341643741533459190682512642517354_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_64917783368026930174797110809518402207291666047204459244326997339677740031068.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_64917783368026930174797110809518402207291666047204459244326997339677740031068_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_26969601849942476178473411814941224328814363975528056361381062875546711302426.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_26969601849942476178473411814941224328814363975528056361381062875546711302426_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_101902314290489648528559560522940385129678846295170605502087634546799614586173.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_101902314290489648528559560522940385129678846295170605502087634546799614586173_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_10810230461058007649897973487114482621158220762811804362590632745089549630088.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_10810230461058007649897973487114482621158220762811804362590632745089549630088_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_96877846760466061521387056232292115776690559322195966991204713954928368432564.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_96877846760466061521387056232292115776690559322195966991204713954928368432564_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_35001932048692753980258690081966306727372247117965378544939907072746938741331.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_35001932048692753980258690081966306727372247117965378544939907072746938741331_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_8944108597258104123626929100072149729248058375093256745950308278560088286943.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_8944108597258104123626929100072149729248058375093256745950308278560088286943_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_83966030197035049629364602100929981883475354658674410750881103852225875907124.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_83966030197035049629364602100929981883475354658674410750881103852225875907124_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_4111089672177978007333727619969470009248022122756179822537604368996352154022.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_4111089672177978007333727619969470009248022122756179822537604368996352154022_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_47205233791773751366007741340547872889224806990827980458297710281267334832743.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_47205233791773751366007741340547872889224806990827980458297710281267334832743_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_98956640731960670865164381090900959576480620008341827695017191880743126186761.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_98956640731960670865164381090900959576480620008341827695017191880743126186761_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7865344_34130034542514653853916146551483073804363862260774838356342049000682953835492.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7865344_34130034542514653853916146551483073804363862260774838356342049000682953835492_thumb.jpg"
-    }
-   ],
-   "video": null,
-   "destacada": false,
-   "creada": "2026-03-16T16:28:40",
-   "actualizada": "2026-05-12T18:06:16"
-  },
-  {
    "id": 7866451,
    "referencia": "JAP7866451",
    "titulo": "Departamento - Milenica Rodríguez del Busto.",
@@ -14187,7 +14057,7 @@
    "id": 7879364,
    "referencia": "JAP7879364",
    "titulo": "Depto 3 dormitorios | B° Cofico",
-   "descripcion": "                3 DORMITORIOS | BALCON | COCHERA DISPONIBLE | EXCELENTE UBICACIÓN\nIMPORTANTE: Contamos con los pisos 2 (detalles cocina gris) y 6 (detalles cocina amarillo) \"A\" disponibles, comparten características.\nLuminoso departamento de 3 dormitorios, ubicado en una de las zonas más buscadas de la ciudad, a metros de Jerónimo Luis de Cabrera, con fácil acceso a arterias principales, comercios, cafeterías y espacios verdes.\nLa propiedad cuenta con:Amplio living comedor con salida al balcón y excelente ingreso de luz natural.Cocina semi integrada equipada con muebles bajo mesada, termotanque y cocina.Tres dormitorios con placares empotrados y ventilación natural (una de las hab, no cuenta con armario).Baño completo con ducha.Armario en pasillo de distribucion.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\n\nREQUISITOS de alquiler:Opción A - (1) garante con garantía propietaria y (2) garantes con recibos de sueldo iguales o mayores a $1.200.000Opción B - (3) garantes con recibos de sueldo iguales o mayores a $1.200.000Opción C - Contratar el seguro de caución de Locativa (www.locativa.com.ar)  \nEl contrato es por 24 meses (2 años) con actualización cuatrimestral según el índice ICL.La reserva se realiza con el valor del primer mes de alquiler, los honorarios son del 5% del total del contrato + IVA\n\n\nJUAREZ BELTRAN S.A.\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba | Horarios de atención de 09.00 a 17.00hs de lunes a viernes\nTEL FIJO: 351 4214400 | WHATSAPP (solo mensajes): +54 9 3513470043\nwww.juarezbeltran.com.ar | @juarezbeltran_sa\n\r\n            ",
+   "descripcion": "                                3 DORMITORIOS | BALCON | COCHERA DISPONIBLE | EXCELENTE UBICACIÓN\nIMPORTANTE: Contamos con los pisos 2 (detalles cocina gris) y 6 (detalles cocina amarillo) \"A\" disponibles, comparten características.\nLuminoso departamento de 3 dormitorios, ubicado en una de las zonas más buscadas de la ciudad, a metros de Jerónimo Luis de Cabrera, con fácil acceso a arterias principales, comercios, cafeterías y espacios verdes.\nLa propiedad cuenta con:Amplio living comedor con salida al balcón y excelente ingreso de luz natural.Cocina semi integrada equipada con muebles bajo mesada, termotanque y cocina.Tres dormitorios con placares empotrados y ventilación natural (una de las hab, no cuenta con armario).Baño completo con ducha.Armario en pasillo de distribucion.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\n\nREQUISITOS de alquiler:Opción A - (1) garante con garantía propietaria y (2) garantes con recibos de sueldo iguales o mayores a $1.200.000Opción B - (3) garantes con recibos de sueldo iguales o mayores a $1.200.000Opción C - Contratar el seguro de caución de Locativa \nEl contrato es por 24 meses (2 años) con actualización cuatrimestral según el índice ICL.La reserva se realiza con el valor del primer mes de alquiler, los honorarios son del 5% del total del contrato + IVA\n\n\nJUAREZ BELTRAN S.A.\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba | Horarios de atención de 09.00 a 17.00hs de lunes a viernes\nTEL FIJO: 351 4214400 | WHATSAPP (solo mensajes): +54 9 3513470043\nwww.juarezbeltran.com.ar | @juarezbeltran_sa\n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 650000,
    "moneda": "ARS",
@@ -14208,8 +14078,8 @@
    "lng": "-64.1855336",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/7879364_31991619181043758974520169903438130117318946210892175934653867493267811868620.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7879364_31991619181043758974520169903438130117318946210892175934653867493267811868620_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/7879364_7908769800892408001902021815840188420630118496570439448187421226497560501932.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7879364_7908769800892408001902021815840188420630118496570439448187421226497560501932_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7879364_104340731344509110458774149287759854157068284903210030831576453772883167039318.jpg",
@@ -14230,10 +14100,6 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/7879364_61833055794841169982101588433674861375470456484553562573864115171436863463961.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7879364_61833055794841169982101588433674861375470456484553562573864115171436863463961_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7879364_7908769800892408001902021815840188420630118496570439448187421226497560501932.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7879364_7908769800892408001902021815840188420630118496570439448187421226497560501932_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7879364_100291906364036892310439114330340037112899434414595927754727574751042284911656.jpg",
@@ -14348,6 +14214,10 @@
      "thumb": "https://static.tokkobroker.com/thumbs/7879364_115569212539207268335064431860014396572540356845701873969832947053318379020069_thumb.jpg"
     },
     {
+     "url": "https://static.tokkobroker.com/w_pics/7879364_31991619181043758974520169903438130117318946210892175934653867493267811868620.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7879364_31991619181043758974520169903438130117318946210892175934653867493267811868620_thumb.jpg"
+    },
+    {
      "url": "https://static.tokkobroker.com/w_pics/7879364_39985562656325561314907367106566580857597043714443928078396125678136285735381.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7879364_39985562656325561314907367106566580857597043714443928078396125678136285735381_thumb.jpg"
     },
@@ -14399,7 +14269,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-03-20T12:03:49",
-   "actualizada": "2026-04-28T13:03:42"
+   "actualizada": "2026-07-07T14:26:41"
   },
   {
    "id": 7880138,
@@ -14583,9 +14453,9 @@
    "id": 7880257,
    "referencia": "JAP7880257",
    "titulo": "ALQUILER | 2 DORMITORIOS | AV. SABATTINI",
-   "descripcion": "                DEPTO DUPLEX DE 2 DORMITORIOS | COCINA COMEDOR | 1 BAÑO | AV. SABATTINI\n\nLa propiedad cuenta con:En planta baja: Cocina comedor equipada con muebles bajo mesada.2 balcones, uno de ellos es semicubierto para lavadero.Planta alta:Dos dormitorios con placares empotrados.Baño completo con bañera.\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nREQUISITOS de alquiler:Opción A - (1) garante con garantía propietaria y (2) garantes con recibos de sueldo iguales o mayores a $1.200.000Opción B - (3) garantes con recibos de sueldo iguales o mayores a $1.200.000Opción C - Contratar el seguro de caución de Locativa (www.locativa.com.ar)El contrato es por 24 meses (2 años) con actualización cuatrimestral según el índice ICL.La reserva se realiza con el valor del primer mes de alquiler, los honorarios son del 5% del total del contrato + IVA\n\nJUAREZ BELTRAN S.A.\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba | Horarios de atención de 09.00 a 17.00hs de lunes a viernes\nTEL FIJO: 351 4214400 | WHATSAPP (solo mensajes): +54 9 3513470043\nwww.juarezbeltran.com.ar | @juarezbeltran_sa\n\r\n            ",
+   "descripcion": "                                DEPTO DUPLEX DE 2 DORMITORIOS | COCINA COMEDOR | 1 BAÑO | AV. SABATTINI\n\nLa propiedad cuenta con:En planta baja: Cocina comedor equipada con muebles bajo mesada.2 balcones, uno de ellos es semicubierto para lavadero.Planta alta:Dos dormitorios con placares empotrados.Baño completo con bañera.\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nREQUISITOS de alquiler:Opción A - (1) garante con garantía propietaria y (2) garantes con recibos de sueldo iguales o mayores a $1.000.000Opción B - (3) garantes con recibos de sueldo iguales o mayores a $1.000.000Opción C - Contratar el seguro de caución de LocativaEl contrato es por 24 meses (2 años) con actualización cuatrimestral según el índice ICL.La reserva se realiza con el valor del primer mes de alquiler, los honorarios son del 5% del total del contrato + IVA\n\nJUAREZ BELTRAN S.A.\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba | Horarios de atención de 09.00 a 17.00hs de lunes a viernes\nTEL FIJO: 351 4214400 | WHATSAPP (solo mensajes): +54 9 3513470043\nwww.juarezbeltran.com.ar | @juarezbeltran_sa\n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
-   "precio": 460000,
+   "precio": 450000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -14604,8 +14474,8 @@
    "lng": "-64.1445765",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/7880257_103232314921510434486177389492066844976043382255843557206388857201553467425097.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7880257_103232314921510434486177389492066844976043382255843557206388857201553467425097_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/7880257_85934038168117278172258332912863775089283197939894950244982244188042353235640.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7880257_85934038168117278172258332912863775089283197939894950244982244188042353235640_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7880257_51821983237557830187215858864780558827038869816967852799363839588836002623085.jpg",
@@ -14648,8 +14518,8 @@
      "thumb": "https://static.tokkobroker.com/thumbs/7880257_63550642838838577933291084409717098891440499624758563693601133425078321062017_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/7880257_85934038168117278172258332912863775089283197939894950244982244188042353235640.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7880257_85934038168117278172258332912863775089283197939894950244982244188042353235640_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/7880257_103232314921510434486177389492066844976043382255843557206388857201553467425097.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7880257_103232314921510434486177389492066844976043382255843557206388857201553467425097_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7880257_94595963856197755279317360451908850118720454482192702322757222349167436100503.jpg",
@@ -14743,7 +14613,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-03-20T15:33:58",
-   "actualizada": "2026-06-24T13:31:37"
+   "actualizada": "2026-07-07T14:26:11"
   },
   {
    "id": 7890636,
@@ -17453,7 +17323,7 @@
    "id": 7994827,
    "referencia": "JAP7994827",
    "titulo": "Depto 1 dor en alquiler | OPERA LUXURY CONDOMINIUM",
-   "descripcion": "                                \n1 DORMITORIO | LUMINOSO | BALCÓN | OPERA LUXURY CONDOMINIUM\n\nLa unidad se encuentra ubicada en un piso 11 (unidades C Y D), ofrece una vista panorámica inigualable y luminosidad absoluta.\n\nCaracterísticas:\n*Dormitorio: Con placard empotrado e interiores y ventanal de gran tamaño.\n*Living-Comedor: Amplio espacio con salida al balcón.\n*Balcón: Ideal para disfrutar de los atardeceres con vista a las sierras o la ciudad.\n*Calidad Constructiva: Aberturas de aluminio de alta gama, pisos de porcelanato y calefacción central.\nEl complejo garantiza seguridad las 24hs, control de acceso monitoreado, piscina descubierta, gimnasio, espacios verdes y SUM.\n\n\nExpensas: $161.200 + Rentas $35.000 + Municipalidad: $20.000 + Agua: $20.000\n\n\n\nImportante: La presente publicación no es una oferta vinculante en los términos del Art 7 y 8 de Ley de Defensa al Consumidor Ley N 24.240, y se encuentra sujetos a la confirmación del propietario. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nContrato por 2 años (24 meses), con actualización cuatrimestral según índice IPC emitido por el BCRA.\n\nJUAREZ BELTRAN S.A. San Lorenzo 25 - 3°piso - B° Nueva Córdoba | Horario de atención, lunes a viernes de 09.00 a 17.00hs | +54 351 4214400 (solo llamadas) | +54 9 3513470043 (solo mensajes whatsapp)\n\n\n\n            \r\n\r\n            ",
+   "descripcion": "                                                \n1 DORMITORIO | LUMINOSO | BALCÓN | OPERA LUXURY CONDOMINIUM\n\nLa unidad se encuentra ubicada en un piso 11, ofrece una vista panorámica inigualable y luminosidad absoluta.\n\nCaracterísticas:\n*Dormitorio: Con placard empotrado e interiores y ventanal de gran tamaño.\n*Living-Comedor: Amplio espacio con salida al balcón.\n*Balcón: Ideal para disfrutar de los atardeceres con vista a las sierras o la ciudad.\n*Calidad Constructiva: Aberturas de aluminio de alta gama, pisos de porcelanato y calefacción central.\nEl complejo garantiza seguridad las 24hs, control de acceso monitoreado, piscina descubierta, gimnasio, espacios verdes y SUM.\n\n\nExpensas: $161.200 + Rentas $35.000 + Municipalidad: $20.000 + Agua: $20.000\n\n\n\nImportante: La presente publicación no es una oferta vinculante en los términos del Art 7 y 8 de Ley de Defensa al Consumidor Ley N 24.240, y se encuentra sujetos a la confirmación del propietario. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nContrato por 2 años (24 meses), con actualización cuatrimestral según índice IPC emitido por el BCRA.\n\nJUAREZ BELTRAN S.A. San Lorenzo 25 - 3°piso - B° Nueva Córdoba | Horario de atención, lunes a viernes de 09.00 a 17.00hs | +54 351 4214400 (solo llamadas) | +54 9 3513470043 (solo mensajes whatsapp)\n\n\n\n            \n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 650000,
    "moneda": "ARS",
@@ -17474,8 +17344,8 @@
    "lng": "-64.2227494",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/7994827_82981992453145957219797674884365471868752528207972433090763244259389951024933.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7994827_82981992453145957219797674884365471868752528207972433090763244259389951024933_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/7994827_76301375346901942967669351483416210461710995345207196777021702251261335440934.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7994827_76301375346901942967669351483416210461710995345207196777021702251261335440934_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7994827_115715625023667541875512193661219760923857295338074201269881270698200951201053.jpg",
@@ -17506,12 +17376,12 @@
      "thumb": "https://static.tokkobroker.com/thumbs/7994827_67731176878186133050895676071519134059179751204980089440506543386637378973205_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/7994827_76301375346901942967669351483416210461710995345207196777021702251261335440934.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7994827_76301375346901942967669351483416210461710995345207196777021702251261335440934_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/7994827_7530982492769543668785232829386721553466572877779473911692520484583279030979.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7994827_7530982492769543668785232829386721553466572877779473911692520484583279030979_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7994827_82981992453145957219797674884365471868752528207972433090763244259389951024933.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7994827_82981992453145957219797674884365471868752528207972433090763244259389951024933_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7994827_7370539929845968338711710067797885961439338379673997710394748520445848432540.jpg",
@@ -17549,7 +17419,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-04-29T14:10:17",
-   "actualizada": "2026-07-06T15:37:49"
+   "actualizada": "2026-07-07T13:20:05"
   },
   {
    "id": 7994845,
@@ -19702,8 +19572,8 @@
    "lng": "-64.2258548",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/8032747_72697968801880728741929066836095455587343215082593335196612701786232094058298.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8032747_72697968801880728741929066836095455587343215082593335196612701786232094058298_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/8032747_104072608200587268302901318614285987056673965122184764588417613785498132614735.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8032747_104072608200587268302901318614285987056673965122184764588417613785498132614735_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8032747_14813655340138738560218168658051768301766941503481196920023843351357539288263.jpg",
@@ -19718,10 +19588,6 @@
      "thumb": "https://static.tokkobroker.com/thumbs/8032747_3957275971712423956992615206419820104711023338923801254754364234025448666360_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/8032747_104072608200587268302901318614285987056673965122184764588417613785498132614735.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8032747_104072608200587268302901318614285987056673965122184764588417613785498132614735_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/8032747_76427444607259217815718175159390288632623656392130514162262790426274214520665.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8032747_76427444607259217815718175159390288632623656392130514162262790426274214520665_thumb.jpg"
     },
@@ -19732,6 +19598,10 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/8032747_23206248842694630370473580297235879729313111454117078675089153496245429844911.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8032747_23206248842694630370473580297235879729313111454117078675089153496245429844911_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8032747_72697968801880728741929066836095455587343215082593335196612701786232094058298.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8032747_72697968801880728741929066836095455587343215082593335196612701786232094058298_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8032747_54654100556228136776299247351745595114498790193420256700468434276919187543108.jpg",
@@ -19809,7 +19679,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-05-12T17:20:54",
-   "actualizada": "2026-07-07T13:00:46"
+   "actualizada": "2026-07-07T14:23:59"
   },
   {
    "id": 8032932,
@@ -20882,8 +20752,8 @@
    "lng": "-64.4089771",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/8061521_24042895018974097180644111469804530576319765556695641844558673947030639203900.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8061521_24042895018974097180644111469804530576319765556695641844558673947030639203900_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/8061521_64369539386454310021510823904080030568911094292734484330896749665029658842169.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8061521_64369539386454310021510823904080030568911094292734484330896749665029658842169_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8061521_11419629286095849607783956694521577320341102858179981738549397442924966671250.jpg",
@@ -20912,10 +20782,6 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/8061521_83164029817875249144573891474259037630982620470400990672689021802965658512646.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8061521_83164029817875249144573891474259037630982620470400990672689021802965658512646_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8061521_64369539386454310021510823904080030568911094292734484330896749665029658842169.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8061521_64369539386454310021510823904080030568911094292734484330896749665029658842169_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8061521_87232227780663850516251227246951897435203207230637600940840327048183832635097.jpg",
@@ -21038,6 +20904,10 @@
      "thumb": "https://static.tokkobroker.com/thumbs/8061521_112370456057109250876920353365526698425783910193882596129045376761869890645321_thumb.jpg"
     },
     {
+     "url": "https://static.tokkobroker.com/w_pics/8061521_24042895018974097180644111469804530576319765556695641844558673947030639203900.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8061521_24042895018974097180644111469804530576319765556695641844558673947030639203900_thumb.jpg"
+    },
+    {
      "url": "https://static.tokkobroker.com/w_pics/8061521_40199712494033216623928182998267878100645799719704540588230391565727406593472.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8061521_40199712494033216623928182998267878100645799719704540588230391565727406593472_thumb.jpg"
     },
@@ -21101,7 +20971,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-05-19T16:02:45",
-   "actualizada": "2026-06-24T13:20:41"
+   "actualizada": "2026-07-07T14:23:31"
   },
   {
    "id": 8069089,
@@ -21714,6 +21584,10 @@
    "lng": "-64.1856457",
    "fotos": [
     {
+     "url": "https://static.tokkobroker.com/w_pics/8146159_49430868371228198819990107372427567375233553297278038340399634162862532080550.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8146159_49430868371228198819990107372427567375233553297278038340399634162862532080550_thumb.jpg"
+    },
+    {
      "url": "https://static.tokkobroker.com/w_pics/8146159_76076673654891305161706619828622026148519985500419183595296478754547445356341.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8146159_76076673654891305161706619828622026148519985500419183595296478754547445356341_thumb.jpg"
     },
@@ -21732,10 +21606,6 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/8146159_75433554222371763048821378530847736488780068721115419729376483691251195052678.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8146159_75433554222371763048821378530847736488780068721115419729376483691251195052678_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8146159_49430868371228198819990107372427567375233553297278038340399634162862532080550.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8146159_49430868371228198819990107372427567375233553297278038340399634162862532080550_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8146159_42209542347798509161016724418698617552147941766846940397485119776706139807709.jpg",
@@ -21833,7 +21703,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-06-04T13:00:20",
-   "actualizada": "2026-06-04T14:17:13"
+   "actualizada": "2026-07-07T14:20:32"
   },
   {
    "id": 8146288,
@@ -21920,7 +21790,7 @@
   {
    "id": 8146506,
    "referencia": "JAP8146506",
-   "titulo": "Deptos a ESTRENAR en alquiler",
+   "titulo": "Deptos a ESTRENAR en alquiler - 1 dormitorio - balcon",
    "descripcion": "                                                                                                DEPTOS A ESTRENAR | MARIA REINA XVIII | 1 DORMITORIO | LA ESQUINA MÁS EMBLEMÁTICA DEL BARRIO\nUbicación: Esquina de Buenos Aires y Estrada. Edificio Maria Reina XVIII.\nCaracterísticas:\nCocina integrada con muebles bajo mesada, caldera, doble bacha con monocomando, espacio para lavarropas carga frontal y heladera.\nLiving comedor luminoso con salida a balcón frente.\nHabitación luminosa y amplia con placard empotrado e interiores.\nBaño con antebaño y ducha.\n\n\nUnidades disponibles a partir de JULIO 2026 - Todas cuentan con 1 dormitorio.\nPRIMER PISO\nUnidad \"A\" - con terraza - $950.000 + expensas\nUnidad \"B\" - balcon - $870.000 + expensas\nUnidad \"C\" - balcon - $820.000 + expensas\nCUARTO PISO \nUnidad \"B\" - balcon - $850.000 + expensas --&gt; RESERVADO\nSEXTO PISO\nUnidad \"A\" - balcon - $850.000 + expensas\nUnidad \"B\" - balcon - $870.000 + expensas --&gt; RESERVADO\nUnidad \"C\" - balcon - $820.000 + expensas --&gt; RESERVADO\n\n\nRequisitos:\n1) Dos recibos de sueldo iguales o superiores de $1.500.000 + garantía propietaria2) Tres recibos de sueldo iguales o superiores de $1.500.0003) Seguro de caucion operado por Locativa\n\nContrato:Contrato a celebrarse por 18 meses con aumento trimestral bajo el indice de IPC.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\n\nHabla con propiedad, habla con Juarez Beltran.\nSan Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n\n\n            \n\n            \n\n            \n\n            \n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 850000,
@@ -21942,8 +21812,8 @@
    "lng": "-64.1934051",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/8146506_33335530802416394680321526593752855696840780847347085038825081329890530127335.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8146506_33335530802416394680321526593752855696840780847347085038825081329890530127335_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/8146506_9970421950490133337798919523716451697258236380992914172985753636783383105050.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8146506_9970421950490133337798919523716451697258236380992914172985753636783383105050_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8146506_72735333500771341818291556954538268337147636497112316170434064660474594231278.jpg",
@@ -21960,10 +21830,6 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/8146506_84897833073075375023741478086176703998906817786318595805790522181591888384641.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8146506_84897833073075375023741478086176703998906817786318595805790522181591888384641_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8146506_9970421950490133337798919523716451697258236380992914172985753636783383105050.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8146506_9970421950490133337798919523716451697258236380992914172985753636783383105050_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8146506_16288537405415799473236225633855960077619157190312407932138643053156270051615.jpg",
@@ -22020,6 +21886,10 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/8146506_107845444718892291233099634461308366554971802416532117854854808715821750348731.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8146506_107845444718892291233099634461308366554971802416532117854854808715821750348731_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8146506_33335530802416394680321526593752855696840780847347085038825081329890530127335.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8146506_33335530802416394680321526593752855696840780847347085038825081329890530127335_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8146506_8795583480053681080152944211634418743972609138530991391334409117757421433721.jpg",
@@ -22185,7 +22055,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-06-04T14:24:18",
-   "actualizada": "2026-07-07T12:44:53"
+   "actualizada": "2026-07-07T14:19:05"
   },
   {
    "id": 8148692,
@@ -23780,7 +23650,7 @@
   {
    "id": 8352649,
    "referencia": "JAP8352649",
-   "titulo": "Depto 2 dormitorios - B° Cofico ",
+   "titulo": "Depto 2 dormitorios luminoso - B° Cofico",
    "descripcion": "                2 DORMITORIOS - BALCON AL FRENTE - LUMINOSO\n\n\nUbicación: Lavalleja 1617 - B° Cofico. A solo media cuadra de Jeronimo luis de Cabrera y  Fragueiro, uno de los principales corredores comerciales de la zona.\n\n\nCaracterísticas:\n* Cocina semi integrada con muebles bajo mesada, artefacto de cocina, calefón, bacha separada estilo lavadero.\n* Living comedor amplio y luminoso con calefactor a gas y salida a pequeño balcón.\n* Baño completo con bañera.\n* Espacio tipo vestidor.\n* 2 dormitorios amplios y luminosos con placards empotrados.\n\n\n--&gt; Importante! cocheras disponibles. $60.000 con ajuste bimestral.\n\n\nRequisitos:\nA) Dos recibos de sueldo iguales o superiores a $1.250.000 + garantía propietaria.\nB) Tres recibos de sueldo iguales o superiores a $1.250.000.\nC) Seguro de caución operado por Locativa.\n\n\nContrato: \nContrato a celebrarse por 24 meses (2 años), con ajuste trimestral bajo el Índice del IPC - BCRA.\n\n\nHabla con propiedad, habla con Juarez Beltrán. JUAREZ BELTRAN S.A.\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba\nHorarios de atención de lunes a viernes de 09.00 a 17.00hs\n\n\nContacto:\nFijo: 351 4214400\nWhatsapp (solo mensajes): 3513470043\nMail: jbeltran@juarezbeltran.com.ar\n\n\n\r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 680000,
@@ -23802,10 +23672,6 @@
    "lng": "-64.1856457",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/8352649_54548852863934361963362982582866132920117677778618850723904463893042724969717.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8352649_54548852863934361963362982582866132920117677778618850723904463893042724969717_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/8352649_115759742953234274986096298484019687010444703246004097942183997261673746908279.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8352649_115759742953234274986096298484019687010444703246004097942183997261673746908279_thumb.jpg"
     },
@@ -23816,6 +23682,10 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/8352649_14429750030335970622727937767070613889053060493066063555519357546973708678268.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8352649_14429750030335970622727937767070613889053060493066063555519357546973708678268_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8352649_54548852863934361963362982582866132920117677778618850723904463893042724969717.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8352649_54548852863934361963362982582866132920117677778618850723904463893042724969717_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8352649_106818288408750416088219441975817689001378077101502629140124638144881845873327.jpg",
@@ -23889,13 +23759,13 @@
    "video": null,
    "destacada": false,
    "creada": "2026-06-17T13:16:53",
-   "actualizada": "2026-06-17T13:45:45"
+   "actualizada": "2026-07-07T14:17:55"
   },
   {
    "id": 8352738,
    "referencia": "JAP8352738",
    "titulo": "Depto de 1 dormitorio en ALQUILER - B° Cofico",
-   "descripcion": "                1 DORMITORIO - VISTA FRENTE - LUMINOSO\n\nUbicación: Lavalleja 1617 - B° Cofico. A solo media cuadra de Jeronimo luis de Cabrera y  Fragueiro, uno de los principales corredores comerciales de la zona.\n\nCaracterísticas:\n* Cocina semi integrada con muebles bajo mesada, artefacto de cocina, calefón, bacha separada estilo lavadero.\n* Living comedor amplio y luminoso con calefactor a gas.\n* Baño completo con ducha.\n* Dormitorio con persiana y placard empotrado.\n\n--&gt; Importante! cocheras disponibles. $60.000 con ajuste bimestral.\n\nRequisitos:\nA) Dos recibos de sueldo iguales o superiores a $1.200.000 + garantía propietaria.\nB) Tres recibos de sueldo iguales o superiores a $1.200.000.\nC) Seguro de caución operado por Locativa.\n\n\nContrato: \nContrato a celebrarse por 24 meses (2 años), con ajuste trimestral bajo el Índice del IPC - BCRA.\n\n\nHabla con propiedad, habla con Juarez Beltrán. JUAREZ BELTRAN S.A.\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba\nHorarios de atención de lunes a viernes de 09.00 a 17.00hs\n\n\nContacto:\nFijo: 351 4214400\nWhatsapp (solo mensajes): 3513470043\nMail: jbeltran@juarezbeltran.com.ar\n                \n\n            \r\n\r\n            ",
+   "descripcion": "                                1 DORMITORIO - VISTA FRENTE - LUMINOSO\n\nUbicación: Lavalleja 1617 - B° Cofico. A solo media cuadra de Jeronimo luis de Cabrera y  Fragueiro, uno de los principales corredores comerciales de la zona.\n\nCaracterísticas:\n* Cocina semi integrada con muebles bajo mesada, artefacto de cocina, calefón, bacha separada estilo lavadero.\n* Living comedor amplio y luminoso con calefactor a gas.\n* Baño completo con ducha.\n* Dormitorio con persiana y placard empotrado.\n\n--&gt; Importante! cocheras disponibles. $60.000 con ajuste bimestral.\n\nRequisitos:\nA) Dos recibos de sueldo iguales o superiores a $1.200.000 + garantía propietaria.\nB) Tres recibos de sueldo iguales o superiores a $1.200.000.\nC) Seguro de caución operado por Locativa.\n\n\nContrato: \nContrato a celebrarse por 24 meses (2 años), con ajuste trimestral bajo el Índice del IPC - BCRA.\n\n\nHabla con propiedad, habla con Juarez Beltrán. JUAREZ BELTRAN S.A.\nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba\nHorarios de atención de lunes a viernes de 09.00 a 17.00hs\n\n\nContacto:\nFijo: 351 4214400\nWhatsapp (solo mensajes): 3513470043\nMail: jbeltran@juarezbeltran.com.ar\n                \n\n                        \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 580000,
    "moneda": "ARS",
@@ -23987,7 +23857,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-06-17T13:36:18",
-   "actualizada": "2026-06-18T12:17:10"
+   "actualizada": "2026-07-07T14:16:31"
   },
   {
    "id": 8353620,
@@ -25124,108 +24994,6 @@
    "actualizada": "2026-07-01T16:39:52"
   },
   {
-   "id": 8407640,
-   "referencia": "JAP8407640",
-   "titulo": "Depto 1 dor - Frente al Parque de las Tejas",
-   "descripcion": "1 DORMITORIO | AMPLIO BALCON VISTA AL PARQUE | COCINA SEPARADA | LUMINOSO\nUbicación: Ituzaingo 1295, entrada por Ituzaingo y vistas al Parque de las Tejas. Edificio Maria Reina XV.\nCaracterísticas: \nSe trata de un departamento de 1 dormitorio con cocina separada, living comedor, baño completo con ducha y balcón al frente que mira al parque. \nConexión a lavarropas: SIAmenities: NO\nMODALIDAD DE CONTRATO: Contrato por 18 meses con actualizaciones trimestrales según el índice ICL emitido por el BCRA.\nRequisitos:1) 2 recibos de sueldo iguales o mayores a $1.400.000 + garantía propietaria2) 3 recibos de sueldo iguales o mayores a $1.400.0003) Seguro de caución operado por Locativa\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHabla con propiedad, habla con Juarez Beltran.San Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n",
-   "operacion": "Alquiler",
-   "precio": 750000,
-   "moneda": "ARS",
-   "muestra_precio": true,
-   "tipo": "Departamento",
-   "direccion": "Ituzaingo  al 1200 - B° Nueva Córdoba",
-   "barrio": "Nueva Cordoba",
-   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Nueva Cordoba",
-   "ambientes": 2,
-   "dormitorios": 1,
-   "banos": 1,
-   "cocheras": 0,
-   "sup_cubierta": "45.00",
-   "sup_total": "45.00",
-   "antiguedad": 10,
-   "apto_credito": null,
-   "lat": "-31.4318098",
-   "lng": "-64.1873943",
-   "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_107177775461035875952472230654829504128383501168375062564678969034826102712965.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_107177775461035875952472230654829504128383501168375062564678969034826102712965_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_35625206090027266430196719530230335442370393280040468535041880896083539416855.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_35625206090027266430196719530230335442370393280040468535041880896083539416855_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_49641477924809938928031636754772569920554628266334614837866789516310013147255.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_49641477924809938928031636754772569920554628266334614837866789516310013147255_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_54612257411398807147615456476577798392444468731498157350831863578797471008874.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_54612257411398807147615456476577798392444468731498157350831863578797471008874_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_57356708074441957165612971198493045682487031801418870413113839720647226329030.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_57356708074441957165612971198493045682487031801418870413113839720647226329030_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_55794320084658700002984449031841975132906773234923416160840923530390388212348.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_55794320084658700002984449031841975132906773234923416160840923530390388212348_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_60281585027891189019133078510371043770493894468671717319050482175020818022378.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_60281585027891189019133078510371043770493894468671717319050482175020818022378_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_17852339814880846887652047506706273389941581572788735749339315265402606383638.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_17852339814880846887652047506706273389941581572788735749339315265402606383638_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_11572762845654540131948372261475247339581786194774187503881383380115335402825.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_11572762845654540131948372261475247339581786194774187503881383380115335402825_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_100087995792191871167776379825678591339663798938393825692492926266374197360089.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_100087995792191871167776379825678591339663798938393825692492926266374197360089_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_660657932670027520235957654176079309050198843750169548805967101784434525732.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_660657932670027520235957654176079309050198843750169548805967101784434525732_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_114433225368862201800799561098864546316146328237458521224906662376120694081074.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_114433225368862201800799561098864546316146328237458521224906662376120694081074_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_105430785400257508018729424737091986079593082670343636425476840875855107693451.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_105430785400257508018729424737091986079593082670343636425476840875855107693451_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_74477264987211864721291901524695700397139872027299305250690451386140640867994.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_74477264987211864721291901524695700397139872027299305250690451386140640867994_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_102260536891161808771799985808227858114556367116710378214681663602214051167058.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_102260536891161808771799985808227858114556367116710378214681663602214051167058_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_46736971482065212088463887788363262123039154268780503778736517290660004305441.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_46736971482065212088463887788363262123039154268780503778736517290660004305441_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_56266804121582388129692770667927176392738065729771994035404567292877572949292.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_56266804121582388129692770667927176392738065729771994035404567292877572949292_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8407640_115288960624896075799565055009634160605261013034585652236963537731708424983758.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8407640_115288960624896075799565055009634160605261013034585652236963537731708424983758_thumb.jpg"
-    }
-   ],
-   "video": null,
-   "destacada": false,
-   "creada": "2026-06-25T17:50:37",
-   "actualizada": "2026-06-25T18:36:56"
-  },
-  {
    "id": 8408865,
    "referencia": "JAP8408865",
    "titulo": "Departamento-2 Dormitorios-Recta Martinoli",
@@ -26000,7 +25768,7 @@
   {
    "id": 8435451,
    "referencia": "JAP8435451",
-   "titulo": "Departamento de categoría en alquiler - Torre Elysee - 2 dormitorios",
+   "titulo": "Departamento de CATEGORÍA en alquiler - Torre Elysee - 2 dormitorios   cochera",
    "descripcion": "Exclusivo depto en Piso 17 con vista al Parque Sarmiento – Torre Élysée - 2 DORMITORIOS + cochera\nUbicado en la intersección estratégica de San Lorenzo y Paraná, en el prestigioso complejo Torre Élysée, presentamos este departamento de máxima categoría en alquiler. Situado en el piso 17 de la Torre A, su disposición contrafrente ofrece una vista panorámica privilegiada hacia el Parque Sarmiento y sus emblemáticas escalinatas, combinando la energía de Nueva Córdoba con una tranquilidad y aislamiento acústico inigualables en las alturas.\nLa propiedad destaca por la nobleza de sus materiales, luminosidad absoluta y una distribución hiper funcional:\nAmbientes Principales:Living-comedor amplio y jerarquizado, con pisos de parquet plastificados.Cocina independiente totalmente equipada, con amoblamientos bajo mesada de primera línea marca Johnson, espacio dedicado para heladera y conexiones listas para lavavajillas o lavarropas.Master Split de Guardado: En el living se dispone de un armario empotrado diseñado especialmente para ocultar el lavarropas y funcionar como espacio de guardado extra o despensa, optimizando la estética del ambiente.\nÁrea Privada:2 Dormitorios confortables con pisos de parquet, equipados con placares empotrados e interiores completos de excelente carpintería (uno de ellos cuenta con equipo de aire acondicionado instalado).1 Baño completo de diseño, con bañera y finas terminaciones.\nInfraestructura y Confort Premium:Calefacción central por radiadores con caldera dual instalada y funcionamiento óptimo en todos los ambientes.Cochera propia en el subsuelo del edificio, con acceso cómodo y rampa automatizada.\nAmenities de Primer Nivel (Complejo Élysée):Vivir acá es acceder a un estilo de vida de club privado sin salir de casa, con seguridad y vigilancia las 24 horas:Piso 19 (Torre A): Piscina descubierta + Jacuzzi con un solárium e imponentes vistas al skyline de la ciudad.Piso 15 (Torre C): Salón de Usos Múltiples (SUM) totalmente equipado para eventos sociales.Piso 23 (Torre C): Espectacular quincho con diseño giratorio, ideal para reuniones exclusivas con vistas en 360°.Subsuelo 1 (Torre A): Gimnasio (Gym) completo.\nModalidad de Contrato: Contrato por 18 meses con actualizaciones trimestrales según el índice ICL emitido por el BCRA.\nRequisitos:1) 2 recibos de sueldo iguales o mayores a $2.100.000 + garantía propietaria2) 3 recibos de sueldo iguales o mayores a $2.100.0003) Seguro de caución operado por Locativa\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nUn producto definitivo para quienes buscan estatus, seguridad y confort en la mejor ubicación residencial de Córdoba.Si vas a elegir tu próximo hogar, hacelo con los que saben.Hablá con propiedad, hablá con Juárez Beltrán.\nSan Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n\n\n                \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 1800000,
@@ -26021,6 +25789,10 @@
    "lat": "-31.42494",
    "lng": "-64.1800978",
    "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8435451_72270861200953080016286835657132460493888105832041002693202104934666337363576.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8435451_72270861200953080016286835657132460493888105832041002693202104934666337363576_thumb.jpg"
+    },
     {
      "url": "https://static.tokkobroker.com/w_pics/8435451_76056630114770207350459696861087327846076159147083222558092612385469651971582.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8435451_76056630114770207350459696861087327846076159147083222558092612385469651971582_thumb.jpg"
@@ -26178,10 +25950,6 @@
      "thumb": "https://static.tokkobroker.com/thumbs/8435451_85227763601399581300139869651965802320755450015952451720428562148050673778450_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/8435451_72270861200953080016286835657132460493888105832041002693202104934666337363576.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8435451_72270861200953080016286835657132460493888105832041002693202104934666337363576_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/8435451_75818422807373752778409224473802252079024749820149146627063830619306361895951.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8435451_75818422807373752778409224473802252079024749820149146627063830619306361895951_thumb.jpg"
     },
@@ -26285,7 +26053,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-07-03T15:04:41",
-   "actualizada": "2026-07-06T13:36:35"
+   "actualizada": "2026-07-07T14:07:37"
   },
   {
    "id": 8435510,
