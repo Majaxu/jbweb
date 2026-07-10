@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-10T13:09:50.731987+00:00",
+ "generado": "2026-07-10T16:22:05.437057+00:00",
  "total": 201,
  "propiedades": [
   {
@@ -1648,7 +1648,7 @@
    "operacion": "Alquiler",
    "precio": 750000,
    "moneda": "ARS",
-   "muestra_precio": false,
+   "muestra_precio": true,
    "tipo": "Departamento",
    "direccion": "Buenos Aires al 900 - Maria Reina XII",
    "barrio": "Nueva Cordoba",
@@ -1784,7 +1784,7 @@
    "video": null,
    "destacada": false,
    "creada": "2019-10-23T17:21:52",
-   "actualizada": "2026-07-08T15:33:35"
+   "actualizada": "2026-07-10T14:53:26"
   },
   {
    "id": 2290910,
@@ -2830,7 +2830,7 @@
    "id": 4845188,
    "referencia": "JAP4845188",
    "titulo": "Departamento en Venta - 1 dormitorio - Nueva Córdoba - Estrada y Buenos Aires MARIA REINA XVIII",
-   "descripcion": "                                                Posesión inmediata | SUM Con asador | PISO 10 | A MTS DE PLAZA ESPAÑA | A ESTRENAR | BALCON AL FRENTE | \nPROPIEDAD/CARACTERÍSTICAS:Exterior de hormigón visto combinado con revestimiento metálico \"skinwall Quadrante\" que aporta una imagen homogénea con los juegos de luz y sombra.Cada uno de ellos estará conformado por:\nDormitorio con la preinstalación de un aire acondicionado multisplit.Cocina con bajo mesada en MDF terminado en melanina, cantos de ABS y herrajes de primera calidad con cierre suave.Living - comedor con pisos de porcelanato simil madera.Baño equipado con un mueble tipo Vanitory y mampara. Griferias FV con cierre cerámico y sanitorios color blanco marca Ferrum.Balcón de amplias dimensiones con iluminacion LED.\nUBICACIÓN: María Reina XVIII es el decimo octavo edificio de la familia María Reina. Estos desarrollos se caracterizan por la ubicación en puntos estratégicos de los barrios Nva. Córdoba y Gral. Paz. La calidad en Proyecto y terminaciones conjuntamente con la experiencia adquirida hacen más confiable la decisión de invertir en estos desarrollos inmobiliarios.María Reina XVIII, se encuentra emplazado en las intersecciones de las calles José Manuel Estrada y Buenos Aires. Una excelente ubicación en una de las esquinas mas importantes de la ciudad, en el corazón del barrio de Nueva Córdoba.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nJUÁREZ BELTRÁN S.A San Lorenzo 25 - 3er piso - B° Nueva Córdoba | Horarios de atención: lunes a viernes de 09.00 a 17.00hsTEL FIJO 351 4214400Tel WHATSAPP 3513470043            \n            \n\n            \r\n\r\n            ",
+   "descripcion": "                                                Posesión inmediata. Terraza común con asador. Piso 10. A mts. Plaza España. A estrenar. Balcón al frente.\nCaracterísticas Principales:Exterior de hormigón visto combinado con revestimiento metálico \"skinwall Quadrante\" que aporta una imagen homogénea con los juegos de luz y sombra.Cada uno de ellos estará conformado por:\nUn dormitorio con preinstalación de aire acondicionado multisplit.Cocina con bajo mesada en MDF terminado en melanina, cantos de ABS y herrajes de primera calidad con cierre suave.Living - comedor con pisos de porcelanato simil madera.Baño equipado con un mueble tipo Vanitory y mampara. Griferias FV con cierre cerámico y sanitorios color blanco marca Ferrum.Balcón al frente de amplias dimensiones con iluminacion LED.\nUBICACIÓN: María Reina XVIII es el decimo octavo edificio de la familia María Reina. Estos desarrollos se caracterizan por la ubicación en puntos estratégicos de los barrios Nva. Córdoba y Gral. Paz. La calidad en Proyecto y terminaciones conjuntamente con la experiencia adquirida hacen más confiable la decisión de invertir en estos desarrollos inmobiliarios.María Reina XVIII, se encuentra emplazado en las intersecciones de las calles José Manuel Estrada y Buenos Aires. Una excelente ubicación en una de las esquinas mas importantes de la ciudad, en el corazón del barrio de Nueva Córdoba.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nJUÁREZ BELTRÁN S.A San Lorenzo 25 - 3er piso - B° Nueva Córdoba | Horarios de atención: lunes a viernes de 09.00 a 17.00hs            \r\n\r\n            ",
    "operacion": "Venta",
    "precio": 125000,
    "moneda": "USD",
@@ -2966,7 +2966,7 @@
    "video": "https://www.youtube.com/embed/y4fsOWDNJvs",
    "destacada": false,
    "creada": "2023-01-31T17:21:49",
-   "actualizada": "2026-07-10T13:04:04"
+   "actualizada": "2026-07-10T13:51:52"
   },
   {
    "id": 4868651,
