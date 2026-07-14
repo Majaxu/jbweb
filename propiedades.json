@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-14T12:07:53.309189+00:00",
- "total": 198,
+ "generado": "2026-07-14T15:20:43.435128+00:00",
+ "total": 199,
  "propiedades": [
   {
    "id": 471897,
@@ -2545,6 +2545,64 @@
    "destacada": true,
    "creada": "2021-06-16T13:28:30",
    "actualizada": "2026-07-06T13:32:20"
+  },
+  {
+   "id": 4157168,
+   "referencia": "JAP4157168",
+   "titulo": "Departamento - Alto Alberdi",
+   "descripcion": "                            Juarez Beltran ofrece en VENTA este departamento ubicado en barrio Alto Alberdi.Calle Bv del Carmen 121 ,en un complejo cerrado.Es en Planta baja y cuenta con cochera ,living comedor,cocina integrada,dormitorio y otro espacio que puede se vestidor o escritorio,baño completo.Esta para escriturar",
+   "operacion": "Venta",
+   "precio": 1,
+   "moneda": "USD",
+   "muestra_precio": true,
+   "tipo": "Departamento",
+   "direccion": "Bv del Carmen al 100",
+   "barrio": "Alto Alberdi",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Alto Alberdi",
+   "ambientes": 2,
+   "dormitorios": 1,
+   "banos": 1,
+   "cocheras": 1,
+   "sup_cubierta": "50.00",
+   "sup_total": "0.00",
+   "antiguedad": 4,
+   "apto_credito": null,
+   "lat": "-31.4069676",
+   "lng": "-64.2239368",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/water_pics/70496576757502747908702477132821476709294015848285414491658509288193029794879.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/70496576757502747908702477132821476709294015848285414491658509288193029794879_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/40218252205268257231735603671632548452457965807594568339141465617925819062973.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/40218252205268257231735603671632548452457965807594568339141465617925819062973_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/53849189731993449362911310700939931206706695317291557054151010440064230307755.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/53849189731993449362911310700939931206706695317291557054151010440064230307755_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/57667958949523163384201010216773606002324399253850991757660845743505046445111.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/57667958949523163384201010216773606002324399253850991757660845743505046445111_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/41348534103220555951736955311332348153572558051741196952463920578182417013864.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/41348534103220555951736955311332348153572558051741196952463920578182417013864_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/81473868204993938331352164046234655407401292436768771821303793607445112014755.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/81473868204993938331352164046234655407401292436768771821303793607445112014755_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/5779794253281144754599063448939709102882485739471770482864287614927208938764.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/5779794253281144754599063448939709102882485739471770482864287614927208938764_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2022-01-10T20:25:10",
+   "actualizada": "2026-07-14T15:01:36"
   },
   {
    "id": 4263226,
