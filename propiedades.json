@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-14T23:49:48.648293+00:00",
+ "generado": "2026-07-15T12:11:20.182977+00:00",
  "total": 201,
  "propiedades": [
   {
@@ -2552,7 +2552,7 @@
    "titulo": "Departamento - Alto Alberdi",
    "descripcion": "                            Juarez Beltran ofrece en VENTA este departamento ubicado en barrio Alto Alberdi.Calle Bv del Carmen 121 ,en un complejo cerrado.Es en Planta baja y cuenta con cochera ,living comedor,cocina integrada,dormitorio y otro espacio que puede se vestidor o escritorio,baño completo.Esta para escriturar",
    "operacion": "Venta",
-   "precio": 1,
+   "precio": 55000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -2602,7 +2602,7 @@
    "video": null,
    "destacada": false,
    "creada": "2022-01-10T20:25:10",
-   "actualizada": "2026-07-14T15:01:36"
+   "actualizada": "2026-07-15T12:10:46"
   },
   {
    "id": 4263226,
