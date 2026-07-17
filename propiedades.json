@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-17T20:49:13.571500+00:00",
- "total": 201,
+ "generado": "2026-07-17T23:48:35.080970+00:00",
+ "total": 202,
  "propiedades": [
   {
    "id": 471897,
@@ -26662,6 +26662,84 @@
    "destacada": false,
    "creada": "2026-07-16T14:46:03",
    "actualizada": "2026-07-16T15:09:55"
+  },
+  {
+   "id": 8487881,
+   "referencia": "JLA8487881",
+   "titulo": "VENTA lote en DOCTA  Parque 5M",
+   "descripcion": "JUAREZ BELTRAN VILLA ALLENDE – VENDE\nLote en Docta Parque 5m( Manzana 63 – lote 4). El lote cuenta con un frente de 12 metros y un fondo de 21 metros, brindando en sus 250m2 una excelente oportunidad para construir una vivienda de categoría o desarrollar un proyecto de dúplex con excelente proyección. \nNo tiene las obras pagas.\nNo se abonan expensas por el momento.\nDocta se caracteriza por ser uno de los desarrollos urbanísticos con mayor proyección de Córdoba. Cuenta con excelente conectividad y acceso rápido a la ciudad; calles amplias, servicios subterráneos, alumbrado público, estación de energía eléctrica propia, espacios verdes parquizados y áreas de servicio. Su gran potencial de valorización lo convierte en una excelente opción tanto para vivir como para invertir. \n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Mariana Magliano. Tel: 3516164296. mmagliano@juarezbeltran.com.ar\n                \r\n\r\n            ",
+   "operacion": "Venta",
+   "precio": 38000,
+   "moneda": "USD",
+   "muestra_precio": true,
+   "tipo": "Terreno",
+   "direccion": "Docta Parque 5M",
+   "barrio": "Docta Parque",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Docta | Docta Parque",
+   "ambientes": 0,
+   "dormitorios": 0,
+   "banos": 0,
+   "cocheras": 0,
+   "sup_cubierta": "0.00",
+   "sup_total": "0.00",
+   "antiguedad": 0,
+   "apto_credito": null,
+   "lat": "-31.382598",
+   "lng": "-64.1347966",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_29492061715313275043861799620741046092480849744714649776472705534925492673121.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_29492061715313275043861799620741046092480849744714649776472705534925492673121_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_100290856166416219398243071502441528240485806482597136138184334693594361373466.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_100290856166416219398243071502441528240485806482597136138184334693594361373466_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_76762060960610859331658496135727602627362530906539999664335342712425856638652.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_76762060960610859331658496135727602627362530906539999664335342712425856638652_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_110697266210794156342183012300030764002600815265883521277477208293793815687820.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_110697266210794156342183012300030764002600815265883521277477208293793815687820_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_50350637744571423414477701911256238738664724348776317647898697405466068705774.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_50350637744571423414477701911256238738664724348776317647898697405466068705774_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_83462232415374064325416581139925448274997207177854581965569520091739889409209.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_83462232415374064325416581139925448274997207177854581965569520091739889409209_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_102531127448607765827644795982233633640146201166626193218629197831804707296885.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_102531127448607765827644795982233633640146201166626193218629197831804707296885_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_48104696085692963938492804425492340306320135542221288872674119615476601533538.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_48104696085692963938492804425492340306320135542221288872674119615476601533538_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_2588461085164364064702314342110570231431991277645578511635872323181348982243.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_2588461085164364064702314342110570231431991277645578511635872323181348982243_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_38203428057522243408344818580813873888814945805299016504435822690060848221340.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_38203428057522243408344818580813873888814945805299016504435822690060848221340_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_84925529771352806338692681984449658380269399671649542524879160579804657051660.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_84925529771352806338692681984449658380269399671649542524879160579804657051660_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8487881_30793212681291369984326599590238240103046158937436639288914914079430750577311.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8487881_30793212681291369984326599590238240103046158937436639288914914079430750577311_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2026-07-17T21:36:22",
+   "actualizada": "2026-07-17T22:15:03"
   }
  ]
 }
