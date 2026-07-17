@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-17T18:01:13.838968+00:00",
+ "generado": "2026-07-17T20:49:13.571500+00:00",
  "total": 201,
  "propiedades": [
   {
@@ -7545,10 +7545,10 @@
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | General Paz",
    "ambientes": 4,
    "dormitorios": 2,
-   "banos": 2,
+   "banos": 1,
    "cocheras": 0,
    "sup_cubierta": "75.00",
-   "sup_total": "75.00",
+   "sup_total": "85.00",
    "antiguedad": 10,
    "apto_credito": null,
    "lat": "-31.4133181",
@@ -7630,7 +7630,7 @@
    "video": null,
    "destacada": true,
    "creada": "2025-07-29T22:02:52",
-   "actualizada": "2026-06-09T20:56:38"
+   "actualizada": "2026-07-17T19:14:51"
   },
   {
    "id": 7221985,
@@ -14713,7 +14713,7 @@
    "titulo": "VENTA LOTE MORADA VILLA URBANA – VILLA ALLENDE",
    "descripcion": "JUAREZ BELTRAN VILLA ALLENDE – VENDE\nIncreíble lote esquina de 1150m2 con escritura. Uno de los pocos que quedan en este barrio ya consolidado.El terreno se ubica cerca de la guardia.\nMorada Villa Urbana es un barrio con seguridad 24hs, con vistas a la sierras, ideal para quienes buscan una zona tranquila, rodeada de naturaleza con vistas increíbles y con rápido acceso. Su ubicación estratégica cerca de la Av. Padre Luchesse, permite conectar rápidamente con la ciudad, el aeropuerto y la Av. Circunvalación.\n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\n\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Mariana Magliano. Tel: 3516164296. mmagliano@juarezbeltran.com.ar\n",
    "operacion": "Venta",
-   "precio": 135000,
+   "precio": 130000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Terreno",
@@ -14831,7 +14831,7 @@
    "video": "https://www.youtube.com/embed/AZfbUFjpA9I",
    "destacada": true,
    "creada": "2026-04-02T18:11:51",
-   "actualizada": "2026-06-28T22:47:21"
+   "actualizada": "2026-07-17T18:57:58"
   },
   {
    "id": 7917897,
