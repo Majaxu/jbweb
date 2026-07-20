@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-20T13:03:03.463845+00:00",
- "total": 203,
+ "generado": "2026-07-20T15:47:14.332601+00:00",
+ "total": 204,
  "propiedades": [
   {
    "id": 471897,
@@ -13592,7 +13592,7 @@
    "dormitorios": 3,
    "banos": 2,
    "cocheras": 1,
-   "sup_cubierta": "96.50",
+   "sup_cubierta": "96.00",
    "sup_total": "145.00",
    "antiguedad": 20,
    "apto_credito": null,
@@ -13703,7 +13703,7 @@
    "video": "https://www.youtube.com/embed/M4uD2-GjP3k?feature=share",
    "destacada": true,
    "creada": "2026-03-16T00:14:27",
-   "actualizada": "2026-06-16T22:05:32"
+   "actualizada": "2026-07-20T13:13:54"
   },
   {
    "id": 7866451,
@@ -25539,9 +25539,9 @@
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Departamento",
-   "direccion": "Av . Libertad al 100",
-   "barrio": "Centro",
-   "ubicacion_completa": "Argentina | Cordoba | Punilla | Villa Carlos Paz | Centro",
+   "direccion": "Av. Libertad Centro al 100",
+   "barrio": "Villa Carlos Paz",
+   "ubicacion_completa": "Argentina | Cordoba | Punilla | Villa Carlos Paz",
    "ambientes": 3,
    "dormitorios": 2,
    "banos": 1,
@@ -25717,7 +25717,7 @@
    "video": "https://www.youtube.com/embed/zi69BS4cGTk?feature=share",
    "destacada": true,
    "creada": "2026-07-07T21:56:54",
-   "actualizada": "2026-07-08T21:03:29"
+   "actualizada": "2026-07-20T15:28:35"
   },
   {
    "id": 8444459,
@@ -26938,6 +26938,60 @@
    "destacada": true,
    "creada": "2026-07-18T00:06:19",
    "actualizada": "2026-07-18T14:09:15"
+  },
+  {
+   "id": 8492010,
+   "referencia": "JLA8492010",
+   "titulo": "Terreno en Malagueño",
+   "descripcion": "TEJAS 4- LOTE de  360 metros sobre Bv central a 2 cudras del ingreso principal, OBRA DE GAS ABONADA, colindante con espacio verde. \n\n\nETAPA 1, totalmente consolidada con pocos lotes disponibles. Posesión inmediata, \n\nBarrio con todos los servicios (agua, luz, gas e internet), calles con cordón cuneta, alumbrado LED en todas sus calles.\nSalón de espacio múltiples disponible para uso de sus dueños, hermosas vistas a las sierras, amplios espacios verde dentro del barrio lo que te posibilitan un esparcimiento sin igual.\nZona de muy alta demanda y en continuo crecimiento, a tan solo 15 minutos de Córdoba capital y solo 10 minutos de Villa Carlos Paz.\n                \r\n\r\n            \n",
+   "operacion": "Venta",
+   "precio": 38000,
+   "moneda": "USD",
+   "muestra_precio": true,
+   "tipo": "Terreno",
+   "direccion": "LOTE -Tejas 4 Mza 50 Lote 35",
+   "barrio": "Malagueño",
+   "ubicacion_completa": "Argentina | Cordoba | Santa Maria | Malagueño",
+   "ambientes": 0,
+   "dormitorios": 0,
+   "banos": 0,
+   "cocheras": 0,
+   "sup_cubierta": "0.00",
+   "sup_total": "0.00",
+   "antiguedad": 0,
+   "apto_credito": null,
+   "lat": "-31.4480684",
+   "lng": "-64.4361851",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8492010_90570907365897443264220979985235230373608256588134814428157334666207703065112.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8492010_90570907365897443264220979985235230373608256588134814428157334666207703065112_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8492010_33926526583320616724361258221295591977393185748066806392801503746840629694116.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8492010_33926526583320616724361258221295591977393185748066806392801503746840629694116_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8492010_102421064728080845133956348611194477071568669328827210306236308470681499690512.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8492010_102421064728080845133956348611194477071568669328827210306236308470681499690512_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8492010_89917211587200060716271437015154875429601597713040925106381218483540962771629.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8492010_89917211587200060716271437015154875429601597713040925106381218483540962771629_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8492010_111462968691316141045272101877603375881939635920803267867828694330709158621687.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8492010_111462968691316141045272101877603375881939635920803267867828694330709158621687_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8492010_67861577516420753819867904652545833088152567496507694747718015996913443002179.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8492010_67861577516420753819867904652545833088152567496507694747718015996913443002179_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2026-07-20T14:57:47",
+   "actualizada": "2026-07-20T15:12:56"
   }
  ]
 }
