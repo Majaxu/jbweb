@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-21T18:13:52.115357+00:00",
- "total": 206,
+ "generado": "2026-07-21T21:02:47.804440+00:00",
+ "total": 205,
  "propiedades": [
   {
    "id": 471897,
@@ -7023,76 +7023,6 @@
    "destacada": true,
    "creada": "2025-06-13T11:25:53",
    "actualizada": "2026-06-27T12:50:08"
-  },
-  {
-   "id": 7128693,
-   "referencia": "JHO7128693",
-   "titulo": "Casa en Puerto del Aguila",
-   "descripcion": "JUAREZ BELTRAN VILLA ALLENDE - VENDE\n\nPresentamos una casa a estrenar en Puerto del Águila, un exclusivo Club y Country Náutico ubicado en Los Molinos, Calamuchita. Esta propiedad es ideal para quienes desean disfrutar de la naturaleza y la tranquilidad que ofrece el entorno.\n\nCaracterísticas principales:\n\n- Amplio living comedor con cocina integrada, diseñado para maximizar el espacio y la luz natural.\n- Dormitorio principal en suite, garantizando privacidad y confort.\n- Espectacular galería de 60 m² con vistas panorámicas al lago, perfecta para relajarse o recibir invitados.\n- Seguridad las 24 horas, ofreciendo tranquilidad y resguardo.\n- Club House frente al lago, un espacio de encuentro social con vistas incomparables.\n\nPuerto del Águila ofrece servicios esenciales como agua corriente, electricidad, agua potable y alumbrado público, asegurando comodidad y calidad de vida. \n\nNo pierda la oportunidad de vivir en un entorno privilegiado. Contáctenos para más información o para coordinar una visita.",
-   "operacion": "Venta",
-   "precio": 190000,
-   "moneda": "USD",
-   "muestra_precio": true,
-   "tipo": "Casa",
-   "direccion": "Potrero de Garay, Valle de Calamuchita",
-   "barrio": "Puerto del Aguila Country Nautico",
-   "ubicacion_completa": "Argentina | Cordoba | Calamuchita | Los Molinos | Puerto del Aguila Country Nautico",
-   "ambientes": 0,
-   "dormitorios": 2,
-   "banos": 2,
-   "cocheras": 2,
-   "sup_cubierta": "122.40",
-   "sup_total": "0.00",
-   "antiguedad": 0,
-   "apto_credito": null,
-   "lat": "-31.9166667",
-   "lng": "-64.6333333",
-   "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7128693_105029962656332685245983430882292967053775106801810193285517159528809679719222.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7128693_105029962656332685245983430882292967053775106801810193285517159528809679719222_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7128693_33369525532010738091931351623645560856154445947140725414502661996514458374978.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7128693_33369525532010738091931351623645560856154445947140725414502661996514458374978_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7128693_110913395952112234286196275028212427611628470027451615990504431171340463718043.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7128693_110913395952112234286196275028212427611628470027451615990504431171340463718043_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7128693_13644380120126794730304111130475410725824468336609626818268610784477062566132.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7128693_13644380120126794730304111130475410725824468336609626818268610784477062566132_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7128693_3665132634792228799056956645584950368316990140792444340268056603879563429679.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7128693_3665132634792228799056956645584950368316990140792444340268056603879563429679_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7128693_48213751365887013878634517386542847758478703815625380827302254250414241455012.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7128693_48213751365887013878634517386542847758478703815625380827302254250414241455012_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7128693_101101281555597937901350226854169430384256509528046028742945325239384137804404.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7128693_101101281555597937901350226854169430384256509528046028742945325239384137804404_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7128693_36363331265265798936122598641569480205260367380844086726916896197516676096414.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7128693_36363331265265798936122598641569480205260367380844086726916896197516676096414_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7128693_10890865701765078603525929872703802960273622381558115510317103963062636115036.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7128693_10890865701765078603525929872703802960273622381558115510317103963062636115036_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7128693_112169556767003606896427639853743154140841496937041561341211999259265395667482.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7128693_112169556767003606896427639853743154140841496937041561341211999259265395667482_thumb.jpg"
-    }
-   ],
-   "video": null,
-   "destacada": false,
-   "creada": "2025-07-07T14:34:45",
-   "actualizada": "2026-05-06T01:37:16"
   },
   {
    "id": 7147044,
@@ -26107,7 +26037,7 @@
    "titulo": "Depto frente vista Bv San Juan - 1 dormitorio - 2 balcones",
    "descripcion": "                                1 dormitorio vista frente Bv San Juan - Cocina separada - 2 balcones - Baño completo con bañera\nUbicación: Bv San Juan 870, a solo 5 cuadras de Av. Vélez Sarsfield, Patio Olmos y 6 cuadras de La Cañada,\n\n\nCaracterísticas:\nLa propiedad se encuentra ubicada en un 9no piso vista frente/contrafrente lo que asegura iluminacion y ventilación cruzada.\nAmplio living comedor con aire acondicionado, calefactor y salida a balcon vista frente. \nCocina separada con muebles bajo mesada, alacenas, espacio para lavarropas y heladera.\nBaño completo con bañera.\nDormitorio con placard empotrado y salida a un segundo balcon con vista contrafrente.\n*El edificio cuenta con terraza y asadores de uso común.\n\n\nModalidad de Contrato: Contrato por 18/24 meses con actualizaciones trimestrales según el índice ICL emitido por el BCRA.\n\nRequisitos:1) 2 recibos de sueldo iguales o mayores a $1.200.000 + garantía propietaria2) 3 recibos de sueldo iguales o mayores a $1.200.0003) Seguro de caución operado por Locativa\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHabla con propiedad, habla con Juarez Beltran.San Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n\n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
-   "precio": 600000,
+   "precio": 590000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -26257,7 +26187,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-07-14T21:24:16",
-   "actualizada": "2026-07-21T14:54:43"
+   "actualizada": "2026-07-21T18:53:21"
   },
   {
    "id": 8472190,
