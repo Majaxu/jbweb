@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-23T18:09:33.855067+00:00",
- "total": 206,
+ "generado": "2026-07-23T20:57:57.242984+00:00",
+ "total": 205,
  "propiedades": [
   {
    "id": 471897,
@@ -1399,92 +1399,6 @@
    "destacada": true,
    "creada": "2019-06-07T18:45:13",
    "actualizada": "2026-01-12T12:57:03"
-  },
-  {
-   "id": 2048434,
-   "referencia": "JAP2048434",
-   "titulo": "Departamento - Casonas del Sur II",
-   "descripcion": "",
-   "operacion": "Alquiler",
-   "precio": 980000,
-   "moneda": "ARS",
-   "muestra_precio": true,
-   "tipo": "Departamento",
-   "direccion": "CASONAS DEL SUR II",
-   "barrio": "Casonas del Sur II",
-   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Casonas del Sur II",
-   "ambientes": 0,
-   "dormitorios": 2,
-   "banos": 2,
-   "cocheras": 1,
-   "sup_cubierta": "80.00",
-   "sup_total": "0.00",
-   "antiguedad": 10,
-   "apto_credito": null,
-   "lat": "-31.4444808",
-   "lng": "-64.1988602",
-   "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/2048434_24154451500438780856006372797417848780579617230287942141665476702065233452739.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/2048434_24154451500438780856006372797417848780579617230287942141665476702065233452739_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/2098749488728855809536327515049185134842327629046063789044388541765159642759.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/2098749488728855809536327515049185134842327629046063789044388541765159642759_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/50292527949923052872240316761128265914721699287389795922533717473791879809456.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/50292527949923052872240316761128265914721699287389795922533717473791879809456_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/43503323612423591186850527026355525215399627851770113996622716697850105655452.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/43503323612423591186850527026355525215399627851770113996622716697850105655452_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/41985542389891761054657998577499071248785070579857975658612483281648036909668.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/41985542389891761054657998577499071248785070579857975658612483281648036909668_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/24748489750315229185134271722722157460109369131505715423987471148943085303841.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/24748489750315229185134271722722157460109369131505715423987471148943085303841_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/7615121745687406605623485350649001128701293489422933957180600431839377829827.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7615121745687406605623485350649001128701293489422933957180600431839377829827_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/45423264873358548858751330843631566234188904737871031575749582221235327066014.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/45423264873358548858751330843631566234188904737871031575749582221235327066014_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/70667813371213751944659281537290141423302565199970727651731695393702366570698.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/70667813371213751944659281537290141423302565199970727651731695393702366570698_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/92075217344853759700311274660379301162283339136605296207743068608457759130999.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/92075217344853759700311274660379301162283339136605296207743068608457759130999_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/99307602511262981665407607923675898335207448834792352982242784591569872300009.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/99307602511262981665407607923675898335207448834792352982242784591569872300009_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/63642485709801579911882214326381577888196890167239002528800572457301542971802.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/63642485709801579911882214326381577888196890167239002528800572457301542971802_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/11003945529656151333271390285146360625317929510016102715462813269292197104944.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/11003945529656151333271390285146360625317929510016102715462813269292197104944_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/2110224175947562419742690013860838477624897613010448581315794543839603641688.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/2110224175947562419742690013860838477624897613010448581315794543839603641688_thumb.jpg"
-    }
-   ],
-   "video": null,
-   "destacada": false,
-   "creada": "2019-06-21T12:18:47",
-   "actualizada": "2026-07-17T14:51:21"
   },
   {
    "id": 2173391,
