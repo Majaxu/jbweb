@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-28T12:50:49.616798+00:00",
- "total": 215,
+ "generado": "2026-07-28T16:03:02.882683+00:00",
+ "total": 216,
  "propiedades": [
   {
    "id": 471897,
@@ -1996,7 +1996,7 @@
    "titulo": "Casa en alquiler en Verandas - Siete Soles - 3 dormitorios   cochera",
    "descripcion": "Imponente Casa de Diseño - 3 dormitorios - Frente a Espacio Verde en Verandas, Siete Soles \nPresentamos una propiedad exclusiva en alquiler que combina arquitectura contemporánea, calidez y una ubicación privilegiada dentro de Verandas de Siete Soles. Emplazada directamente frente a un amplio espacio verde, esta casa ofrece una combinación inigualable de privacidad, luminosidad y contacto con la naturaleza, ideal para disfrutar de una rutina familiar tranquila y segura.\nLa vivienda se destaca por la excelente calidad de sus materiales, sus detalles de autor y una distribución inteligente en dos plantas:\nPlanta Baja:Ingreso de gran jerarquía a través de una imponente puerta de diseño con terminación en óxido.Gran espacio social (living-comedor) que recibe una excelente luz natural gracias a sus amplios ventanales.Toilette de recepción vanguardista, diseñado con una sofisticada bacha de piedra y vanitory de madera a medida.Cocina independiente de concepto funcional, completamente equipada con modernos muebles sobre y bajo mesada, comunicada de forma práctica con el área de lavadero y tender cubierto.Pisos de porcelanato de alta gama en toda la planta baja, garantizando durabilidad y fácil mantenimiento.\nPlanta Alta:Master Suite excepcional: El dormitorio principal cuenta con dimensiones generosas, un exclusivo vestidor pasante y baño en suite zonificado.2 Dormitorios secundarios amplios, equipados con sus respectivos vestidores e interiores completos de carpintería premium.Baño principal zonificado con ducha, ideal para optimizar el uso simultáneo de la rutina familiar.Pisos de madera flotante en todos los dormitorios, aportando máxima calidez y confort térmico.\nInfraestructura y Detalles Técnicos:Aberturas de aluminio con DVH (Doble Vidrio Hermético) en toda la propiedad, asegurando un aislamiento térmico y acústico eficiente.Cochera techada para 2 vehículos con portón automático de acceso rápido.Gran jardín parquizado de excelentes dimensiones, que se conecta de manera fluida con la cochera y el sector de asador, ideal para reuniones y eventos al aire libre.\nVivir en Siete Soles es elegir seguridad integral las 24 horas, accesos rápidos por autopista y un entorno residencial consolidado de categoría superior.\nModalidad de Contrato: Contrato por 24 meses con actualizaciones trimestrales según el índice ICL emitido por el BCRA.\nRequisitos:1) 2 recibos de sueldo iguales o mayores a $2.500.000 + garantía propietaria2) 3 recibos de sueldo iguales o mayores a $2.500.0003) Seguro de caución operado por Locativa\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHabla con propiedad, habla con Juarez Beltran.San Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\nContacto:Fijo: (351) 4214400 | Whatsapp: (+54 9 ) 3513470043 | Mail: jbeltran@juarezbeltran.com.ar\n\n",
    "operacion": "Alquiler",
-   "precio": 3200000,
+   "precio": 2900000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Casa",
@@ -2014,6 +2014,10 @@
    "lat": "-31.4470084",
    "lng": "-64.3125513",
    "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/3796255_7978664283724721671356605304939076600293734505730183576345457643352191896912.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/3796255_7978664283724721671356605304939076600293734505730183576345457643352191896912_thumb.jpg"
+    },
     {
      "url": "https://static.tokkobroker.com/water_pics/112301422243743390972106481822655254065880614598440117503159161940498629016511.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/112301422243743390972106481822655254065880614598440117503159161940498629016511_thumb.jpg"
@@ -2033,10 +2037,6 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/3796255_37386569401431394428222309080196947837920695822499832661964381900668141629260.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/3796255_37386569401431394428222309080196947837920695822499832661964381900668141629260_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/3796255_7978664283724721671356605304939076600293734505730183576345457643352191896912.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/3796255_7978664283724721671356605304939076600293734505730183576345457643352191896912_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/3796255_10630658506167842510837574464437895591228422835077814039234651386149667189871.jpg",
@@ -2166,7 +2166,7 @@
    "video": null,
    "destacada": false,
    "creada": "2021-06-14T16:23:50",
-   "actualizada": "2026-07-03T18:02:15"
+   "actualizada": "2026-07-28T14:22:26"
   },
   {
    "id": 3800147,
@@ -4382,7 +4382,7 @@
    "titulo": "Alquiler depto. 1 dormitorio en General Paz - amenities",
    "descripcion": "Juarez Beltran ofrece en alquiler este depto ubicado en barrio General Paz,en calle Lima al 1600.El depto es a estrenar y el edificio es de categoria con amenities,SUM,pileta,asadores.El depto tiene calefaccion por radiadores.\nCaracteristicas.\n* Estar Comedor\n* Cocina integrada,\n* Dormitorio con placard con salida al balcón\n* Baño completo\n",
    "operacion": "Alquiler",
-   "precio": 350000,
+   "precio": 750000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -4500,7 +4500,7 @@
    "video": null,
    "destacada": true,
    "creada": "2024-07-15T15:52:44",
-   "actualizada": "2026-07-28T12:47:59"
+   "actualizada": "2026-07-28T13:39:53"
   },
   {
    "id": 6280898,
@@ -4891,20 +4891,24 @@
      "thumb": "https://static.tokkobroker.com/thumbs/6300437_40508908168102783879795138570198832635187033145172030167743500861734346551164_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/6300437_64204438217256214652146358902649233632768671803192406439300021265336588839108.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/6300437_64204438217256214652146358902649233632768671803192406439300021265336588839108_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/6300437_4337958490238875138350904730174470000061921491009578341556124668468393097979.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/6300437_4337958490238875138350904730174470000061921491009578341556124668468393097979_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/6300437_75221825731497614928987375499197803424304031862873671809249619093595458817538.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/6300437_75221825731497614928987375499197803424304031862873671809249619093595458817538_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/6300437_4337958490238875138350904730174470000061921491009578341556124668468393097979.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/6300437_4337958490238875138350904730174470000061921491009578341556124668468393097979_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/6300437_49450631084214220243681001540870971305181835536136069903169259120587107953788.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/6300437_49450631084214220243681001540870971305181835536136069903169259120587107953788_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/6300437_64204438217256214652146358902649233632768671803192406439300021265336588839108.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/6300437_64204438217256214652146358902649233632768671803192406439300021265336588839108_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/6300437_110141709926998082714311566898314296491426200953707149363279020784932484234768.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/6300437_110141709926998082714311566898314296491426200953707149363279020784932484234768_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/6300437_5925768076238303497650122063796790619148960657689075377146371587425387728789.jpg",
@@ -4975,10 +4979,6 @@
      "thumb": "https://static.tokkobroker.com/thumbs/6300437_29071875118881881279982846174976885570861009196008377282590306422719633821088_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/6300437_110141709926998082714311566898314296491426200953707149363279020784932484234768.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/6300437_110141709926998082714311566898314296491426200953707149363279020784932484234768_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/6300437_90274414675175162558875337626660034341916926914860451000799084627563002729543.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/6300437_90274414675175162558875337626660034341916926914860451000799084627563002729543_thumb.jpg"
     },
@@ -5042,7 +5042,7 @@
    "video": null,
    "destacada": false,
    "creada": "2024-07-26T01:04:25",
-   "actualizada": "2026-07-28T12:49:39"
+   "actualizada": "2026-07-28T13:08:44"
   },
   {
    "id": 6430124,
@@ -11131,7 +11131,7 @@
    "titulo": "Departamento en Nueva Cordoba",
    "descripcion": "                Juarez Beltran ofrece en alquiler este depto ubicado en Nueva Cordoba,a una cuadra de Velez Sarsfield altura El Pocito.Edificio de categoria con amenities,pileta sauna,Sum,asadores y espacios al aire libre.\nCaracteristicas:\ndepartamento interno con balcon\nEstar comedor \nCocina semi integrada\nDormitorio con placar\nBaño completo\nMateriales de primera calidad .\n\r\n            ",
    "operacion": "Alquiler",
-   "precio": 800000,
+   "precio": 750000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -11237,7 +11237,7 @@
    "video": null,
    "destacada": true,
    "creada": "2025-12-29T17:55:53",
-   "actualizada": "2026-07-22T15:25:13"
+   "actualizada": "2026-07-28T13:15:47"
   },
   {
    "id": 7642914,
@@ -13967,7 +13967,7 @@
    "titulo": "Venta Dpto de 3 dormitorios con cochera –Milenica Rodriguez del Busto",
    "descripcion": "JUAREZ BELTRAN VILLA ALLENDE – Vende\n\nAmplio y luminoso departamento ubicado en el piso 5 del complejo Parque Milenica.\nEl living comedor y la cocina tienen salida al balcón con amplias vistas en donde también se encuentra el asador. \nLa cocina cuenta con muebles bajo mesada, alacena y espacio para una pequeña mesa.\nEl departamento cuenta con 3 dormitorios; uno de ellos en suite y con vestidor pasante. Los otros dos dormitorios cuentan con placares empotrados. \nTodas las habitaciones tienen persianas.\nLa calefacción es con caldera y radiadores .\nLa unidad cuenta con una cochera subterránea.\nEste complejo se encuentra ubicado en zona norte, al lado del complejo Dinosaurio Mall. Cuenta con acceso restringido, seguridad 24hs, pileta, sum, quinchos, estacionamiento de cortesia y un generoso parque con espacios verdes.\nSu ubicación estratégica, por su cercanía al centro comercial, cines, super, restaurantes y el fácil y rápido acceso a Av, circunvalación y al aeropuerto, lo convierten en el lugar ideal para vivir.\n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Mariana Magliano. Tel: 3516164296.\n                \r\n            \n",
    "operacion": "Venta",
-   "precio": 350000,
+   "precio": 340000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -14121,7 +14121,7 @@
    "video": "https://www.youtube.com/embed/M4uD2-GjP3k?feature=share",
    "destacada": true,
    "creada": "2026-03-16T00:14:27",
-   "actualizada": "2026-07-20T13:13:54"
+   "actualizada": "2026-07-28T14:38:56"
   },
   {
    "id": 7866451,
@@ -27405,10 +27405,10 @@
    "id": 8489690,
    "referencia": "JAP8489690",
    "titulo": "Alquiler Depto categoría-3 dormit. Torre Uritorco",
-   "descripcion": "JUAREZ BELTRAN VILLA ALLENDE – ALQUILA\nExcelente departamento de categoría de más de 200m2, ubicado en la exclusiva torre Uritorco dentro del complejo Alto Villasol.Ubicación estratégica dentro de la ciudad; muy cerca del estadio Kempess y parques aledaños. Excelente acceso a Circunvalación con cercanía a zona Sur, rápido acceso a las Sierras, a minutos de zona gastronómica, principales centros educativos y de salud.\nEste hermoso semipiso se encuentra en un 5to piso; cuenta con un living comedor con puertas ventanas con salida al balcón desde el que se puede disfrutar del asador y de unas increíbles vistas.\nCuenta con tres dormitorios. El principal en suite y con vestidor. Ante baño y baño completo. Los otros dos dormitorios tienen placares empotrados y comparten un ante baño y baño sectorizado. \nCocina completa con salida independiente al balcón; lavadero independiente y un toilette.\nSe alquila con aires acondicionados y cortinas black out en cada uno de los ambientes.\nLa torre cuenta con pileta propia, estacionamiento de cortesía exclusivo y cancha de tenis. El complejo suma áreas verdes, pileta exterior, gimnasio.\nSeguridad 24hs. Las expensas incluyen el impuesto municipal y rentas. \nOpción de alquilar en pesos con ajuste trimestral por IPC. Disponible a partir del 1/9/2026.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Mariana Magliano. Tel: 3516164296. mmagliano@juarezbeltran.com.ar\n                \r\n\r\n            ",
+   "descripcion": "                JUAREZ BELTRAN VILLA ALLENDE – ALQUILA\nExcelente departamento de categoría de más de 200m2, ubicado en la exclusiva torre Uritorco dentro del complejo Alto Villasol.Ubicación estratégica dentro de la ciudad; muy cerca del estadio Kempess y parques aledaños. Excelente acceso a Circunvalación con cercanía a zona Sur, rápido acceso a las Sierras, a minutos de zona gastronómica, principales centros educativos y de salud.\nEste hermoso semipiso se encuentra en un 5to piso; cuenta con un living comedor con puertas ventanas con salida al balcón desde el que se puede disfrutar del asador y de unas increíbles vistas.\nCuenta con tres dormitorios. El principal en suite y con vestidor. Ante baño y baño completo. Los otros dos dormitorios tienen placares empotrados y comparten un ante baño y baño sectorizado. \nCocina completa con salida independiente al balcón; lavadero independiente y un toilette.\nSe alquila con aires acondicionados y cortinas black out en cada uno de los ambientes.\nLa torre cuenta con pileta propia, estacionamiento de cortesía exclusivo y cancha de tenis. El complejo suma áreas verdes, pileta exterior, gimnasio.\nSeguridad 24hs. Las expensas incluyen el impuesto municipal y rentas. \nOpción de alquilar en pesos con ajuste trimestral por IPC. Disponible a partir del 1/9/2026. \nOpción de alquilar en dólares sin ajuste.\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Mariana Magliano. Tel: 3516164296. mmagliano@juarezbeltran.com.ar\n                \n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
-   "precio": 1400,
-   "moneda": "USD",
+   "precio": 2100000,
+   "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
    "direccion": "Av. Colon 6200 P5 Depto B",
@@ -27597,7 +27597,7 @@
    "video": "https://www.youtube.com/embed/dO-72Np-19c",
    "destacada": true,
    "creada": "2026-07-18T00:06:19",
-   "actualizada": "2026-07-18T14:09:15"
+   "actualizada": "2026-07-28T15:23:33"
   },
   {
    "id": 8492010,
@@ -28990,6 +28990,152 @@
    "destacada": false,
    "creada": "2026-07-27T15:34:12",
    "actualizada": "2026-07-27T16:11:46"
+  },
+  {
+   "id": 8517195,
+   "referencia": "JHO8517195",
+   "titulo": "ALQUILER Excepcional Casa en uno de los mejores lugares del Gol de Villa Allende",
+   "descripcion": "Ubicada en el prestigioso barrio de Villa Allende Golf, esta espaciosa casa en Guadalajara 179 ofrece la combinación perfecta de comodidad y estilo. Con un diseño de una sola planta, la propiedad cuenta con 3 dormitorios, ideal para familias numerosas o para quienes buscan espacio adicional para oficinas o áreas de entretenimiento.\n\nLa propiedad dispone de 3 baños completos, asegurando privacidad y conveniencia para todos los miembros del hogar. La cocina es amplia y funcional, acompañada de un lavadero independiente que facilita las tareas diarias. El living comedor integrado proporciona un ambiente acogedor y amplio para reuniones familiares y eventos.\n\nLos exteriores de la casa no se quedan atrás, con un hermoso jardin y una galería que invitan a disfrutar del aire libre. Además, cuenta con una pileta y una parrilla, ideales para disfrutar de asados en el verano. La casa es apta para mascotas, permitiendo que todos los miembros de la familia se sientan bienvenidos.\n\nEn cuanto a servicios, la propiedad está equipada con aire acondicionado individual, calefacción por calefactores, alarma y armarios empotrados, garantizando comodidad y seguridad. Se beneficia también de servicios públicos como agua corriente, gas natural, electricidad, cable, agua potable y alumbrado público.\n\nCon dos cocheras cubiertas, esta casa ofrece un acceso fácil y seguro para sus vehículos.\n Deposito exterior de guardado\n\nEn resumen, esta propiedad es una excelente opción para quienes buscan un hogar espacioso y bien equipado en una de las zonas más deseadas de Villa Allende.\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Clyde Herreros 351 3792881\n",
+   "operacion": "Alquiler",
+   "precio": 2800000,
+   "moneda": "ARS",
+   "muestra_precio": true,
+   "tipo": "Casa",
+   "direccion": "Guadalajara al 100",
+   "barrio": "Villa Allende Golf",
+   "ubicacion_completa": "Argentina | Cordoba | Colon | Villa Allende | Villa Allende Golf",
+   "ambientes": 5,
+   "dormitorios": 3,
+   "banos": 3,
+   "cocheras": 2,
+   "sup_cubierta": "281.00",
+   "sup_total": "0.00",
+   "antiguedad": 0,
+   "apto_credito": null,
+   "lat": "-31.2894113",
+   "lng": "-64.2905103",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_91172369100989250213896933483976610899086788311683068467165515112504803329433.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_91172369100989250213896933483976610899086788311683068467165515112504803329433_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_9800091742275396812806086840995630577972855217910619129668549128996026602368.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_9800091742275396812806086840995630577972855217910619129668549128996026602368_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_32719645027696145965429801430615147756744285421781174961082390059650212853813.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_32719645027696145965429801430615147756744285421781174961082390059650212853813_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_98057965691931729346630440605182566683066270741920536543659669239117630719311.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_98057965691931729346630440605182566683066270741920536543659669239117630719311_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_81545890806454031423517295864270926993164748735848179678711705199332586525154.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_81545890806454031423517295864270926993164748735848179678711705199332586525154_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_41518780213387335394831560517681776237024330213635890525362947537291321625265.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_41518780213387335394831560517681776237024330213635890525362947537291321625265_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_21668419739300682788131795059828972708089148752656741501818666301519107996219.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_21668419739300682788131795059828972708089148752656741501818666301519107996219_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_60674969528768904986697371960985506581589995010543130169549957747468648322906.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_60674969528768904986697371960985506581589995010543130169549957747468648322906_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_29278226916733422471118247450842862402534496704728849104906247622050951804252.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_29278226916733422471118247450842862402534496704728849104906247622050951804252_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_16395036453718820211768507981975347180930481108552981638572842073249423110086.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_16395036453718820211768507981975347180930481108552981638572842073249423110086_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_20495498758259858960294546890483012244746400216156343192893287067229556068350.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_20495498758259858960294546890483012244746400216156343192893287067229556068350_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_56117220328605279936382132692142392344038755648434333098373111788166138793105.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_56117220328605279936382132692142392344038755648434333098373111788166138793105_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_42601073894801955577774079323283466912802977978763245769706086226667745259930.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_42601073894801955577774079323283466912802977978763245769706086226667745259930_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_40996084813919524288255520678344755084006053933065528233968008189076253910889.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_40996084813919524288255520678344755084006053933065528233968008189076253910889_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_9581634068675404815597572011727559573597645993220905106060998003244701195875.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_9581634068675404815597572011727559573597645993220905106060998003244701195875_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_20142184755408065603671801594664773395183301760109488890419930237689957809891.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_20142184755408065603671801594664773395183301760109488890419930237689957809891_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_811035470488522596437758964016569644891712417133976451838968175987216746563.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_811035470488522596437758964016569644891712417133976451838968175987216746563_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_20357661701177361546222010262002265790024176300292977684248571023806957001399.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_20357661701177361546222010262002265790024176300292977684248571023806957001399_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_73917605090548812941448157485773317186038018017695167859614311609548892483484.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_73917605090548812941448157485773317186038018017695167859614311609548892483484_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_47510781462910292038359996284005125825420235035883941506804672397988724666142.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_47510781462910292038359996284005125825420235035883941506804672397988724666142_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_40629152726179872871306178967327408333544571507453448742776528770989696952109.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_40629152726179872871306178967327408333544571507453448742776528770989696952109_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_75598815222808650856427583307713398503864258553459891023910657510196000008503.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_75598815222808650856427583307713398503864258553459891023910657510196000008503_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_67681137044075077553123060953328936696769855303511536075351282509762831795610.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_67681137044075077553123060953328936696769855303511536075351282509762831795610_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_24530802681205668283283244302222005012062737893761999880921215011981562101757.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_24530802681205668283283244302222005012062737893761999880921215011981562101757_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_42390265251847623946209086085260948770823363875576058444972476585297725410994.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_42390265251847623946209086085260948770823363875576058444972476585297725410994_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_83924912111783720839150317472387509608996399534515494001596420817507655116378.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_83924912111783720839150317472387509608996399534515494001596420817507655116378_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_55065593218653325998107356469852572565339487920575319334391648977161201822278.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_55065593218653325998107356469852572565339487920575319334391648977161201822278_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/pictures/8517195_18065232182180798063926413549811035284657600340121509989332092374841351284673.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_18065232182180798063926413549811035284657600340121509989332092374841351284673_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8517195_107425844319392346939882916772484464645174004215715877997507633279081443938852.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8517195_107425844319392346939882916772484464645174004215715877997507633279081443938852_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2026-07-27T15:46:04",
+   "actualizada": "2026-07-28T13:47:21"
   }
  ]
 }
