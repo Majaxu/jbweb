@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-30T18:12:16.594515+00:00",
+ "generado": "2026-07-30T21:03:14.755184+00:00",
  "total": 219,
  "propiedades": [
   {
@@ -523,13 +523,13 @@
    "direccion": "Obispo Trejo 300",
    "barrio": "Nueva Cordoba",
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Nueva Cordoba",
-   "ambientes": 0,
+   "ambientes": 1,
    "dormitorios": 0,
    "banos": 2,
    "cocheras": 0,
    "sup_cubierta": "230.00",
    "sup_total": "230.00",
-   "antiguedad": 0,
+   "antiguedad": 10,
    "apto_credito": null,
    "lat": "-31.404529",
    "lng": "-6.418954",
@@ -566,7 +566,7 @@
    "video": null,
    "destacada": false,
    "creada": "2017-07-30T20:45:13",
-   "actualizada": "2026-07-30T17:13:29"
+   "actualizada": "2026-07-30T18:29:44"
   },
   {
    "id": 473966,
