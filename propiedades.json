@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-30T15:48:43.828693+00:00",
- "total": 217,
+ "generado": "2026-07-30T18:12:16.594515+00:00",
+ "total": 219,
  "propiedades": [
   {
    "id": 471897,
@@ -509,6 +509,64 @@
    "destacada": true,
    "creada": "2017-07-30T20:43:57",
    "actualizada": "2026-07-23T13:29:48"
+  },
+  {
+   "id": 473950,
+   "referencia": "3306",
+   "titulo": "Local Comercial - Frente Patio Olmos Bº Centro",
+   "descripcion": "GRAN LOCAL COMERCIAL EN ALQUILER | 230 M² | FRENTE AL PATIO OLMOS\nLas mejores marcas eligen ubicaciones estratégicas. Excelente local comercial sobre calle Obispo Trejo 300, justo frente a la salida del Patio Olmos, uno de los puntos con mayor circulación peatonal de la ciudad.\n¿Por qué es una oportunidad única?\nUbicación privilegiada: Frente a la salida del Patio Olmos, con un flujo constante de potenciales clientes.Amplios espacios: 230 m² totales distribuidos en 150 m² de planta baja y 80 m² de entrepiso, ideales para distintos rubros comerciales.Excelente frente comercial: Aproximadamente 7 metros de vidriera por 20 metros de fondo, brindando gran presencia y visibilidad.Estado impecable: Pisos de porcelanato en planta baja, entrepiso con entablonado de madera y equipo de aire acondicionado central.Máxima exposición: Al tratarse de una propiedad individual, cuenta con todo el espacio aéreo disponible para instalar cartelería o publicidad de gran impacto.\n\n\nJUÁREZ BELTRÁN S.A.San Lorenzo 25 - 3.er piso - B° Nueva Córdoba | Lunes a Viernes de 09:00 a 17:00 hs.Tel. (llamadas): 351 4214400 | Tel. (WhatsApp): 351 2393704\n",
+   "operacion": "Alquiler",
+   "precio": 6500000,
+   "moneda": "ARS",
+   "muestra_precio": false,
+   "tipo": "Local",
+   "direccion": "Obispo Trejo 300",
+   "barrio": "Nueva Cordoba",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Nueva Cordoba",
+   "ambientes": 0,
+   "dormitorios": 0,
+   "banos": 2,
+   "cocheras": 0,
+   "sup_cubierta": "230.00",
+   "sup_total": "230.00",
+   "antiguedad": 0,
+   "apto_credito": null,
+   "lat": "-31.404529",
+   "lng": "-6.418954",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/473950_34323799150542911531985294601303334588729553584026057805951513188113837583088.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/473950_34323799150542911531985294601303334588729553584026057805951513188113837583088_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/473950_86955742479650357928707168360337474455191383239129408261925409597494628525009.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/473950_86955742479650357928707168360337474455191383239129408261925409597494628525009_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/473950_10560007516582265313917467546500707105730121929269228240244692232873357155187.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/473950_10560007516582265313917467546500707105730121929269228240244692232873357155187_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/473950_55305715451868987384290400429525672846823508675660011528439013137689944741984.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/473950_55305715451868987384290400429525672846823508675660011528439013137689944741984_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/473950_30863338065758039244127337183382774923315945519484748763687888310131541073244.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/473950_30863338065758039244127337183382774923315945519484748763687888310131541073244_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/473950_35857192876056164540879791680092265180068215171322915741184487446012622222518.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/473950_35857192876056164540879791680092265180068215171322915741184487446012622222518_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/473950_42212011915937256863242153978279991303334070467764900736065794070252840356908.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/473950_42212011915937256863242153978279991303334070467764900736065794070252840356908_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2017-07-30T20:45:13",
+   "actualizada": "2026-07-30T17:13:29"
   },
   {
    "id": 473966,
@@ -29270,6 +29328,40 @@
    "destacada": false,
    "creada": "2026-07-29T18:09:21",
    "actualizada": "2026-07-30T15:45:27"
+  },
+  {
+   "id": 8564540,
+   "referencia": "JLA8564540",
+   "titulo": "Terreno en EL TERRON -mendiolaza-",
+   "descripcion": "\n                JUAREZ BELTRAN vende inmejorable terreno ubicado en la prestigiosa Estancia El Terrón, en Mendiolaza, este lote de 1561 m2 es uno de los lotes más destacados y preciados del Barrio.\nA metros del Club House.\nLa vista y ubicación es inigualable.\nEstancia El Terrón es un desarrollo que combina la elegancia rural con modernas comodidades, ofreciendo una calidad de vida rodeado de naturaleza. Los residentes disfrutan de amplios espacios verdes, seguridad privada, y un campo de golf de primer nivel.\nAdemás, su proximidad a la ciudad de Córdoba garantiza acceso rápido a centros comerciales, instituciones educativas y servicios médicos, sin sacrificar la paz y privacidad que brinda su entorno natural.\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramentereferencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación delpropietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – María Josefina Garcia 3515189281\n\n            \r\n\r\n            ",
+   "operacion": "Venta",
+   "precio": 280000,
+   "moneda": "USD",
+   "muestra_precio": true,
+   "tipo": "Terreno",
+   "direccion": "Estancia El Terrón",
+   "barrio": "Mendiolaza",
+   "ubicacion_completa": "Argentina | Cordoba | Colon | Mendiolaza",
+   "ambientes": 0,
+   "dormitorios": 0,
+   "banos": 0,
+   "cocheras": 0,
+   "sup_cubierta": "0.00",
+   "sup_total": "0.00",
+   "antiguedad": 0,
+   "apto_credito": null,
+   "lat": "-31.2595728",
+   "lng": "-64.3001578",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8564540_95669341776204158775872690894965130874086838653220799812450750735092920766386.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8564540_95669341776204158775872690894965130874086838653220799812450750735092920766386_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2026-07-30T15:37:59",
+   "actualizada": "2026-07-30T16:23:51"
   }
  ]
 }
