@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-03T20:58:33.626047+00:00",
- "total": 216,
+ "generado": "2026-08-04T00:04:22.548103+00:00",
+ "total": 217,
  "propiedades": [
   {
    "id": 471897,
@@ -29112,6 +29112,96 @@
    "destacada": false,
    "creada": "2026-08-03T15:38:49",
    "actualizada": "2026-08-03T16:07:27"
+  },
+  {
+   "id": 8574745,
+   "referencia": "JLA8574745",
+   "titulo": "VENTA Terreno en Cuestas de Manantiales excelente oportunidad apto Duplex",
+   "descripcion": "Terreno en venta en el nuevo emprendimiento de Edisur, ubicación de Cuestas de Manantiales, Córdoba Capital. Esta propiedad ofrece una superficie total de 250 metros cuadrados, ideal para la construcción de un dúplex o una única propiedad de ensueño. Con un frente de 10 metros y una profundidad de 25 metros, este lote presenta un tamaño óptimo para desarrollar un hogar tranquilo y confortable.\n\nSituado a tan solo una cuadra del ingreso al barrio y a tres cuadras del reconocido colegio Fasta y del club local, este terreno es perfecto para familias jóvenes con niños que buscan un entorno seguro y accesible. La zona está completamente urbanizada, rodeada de hermosas casas, una de ellas ya construida a un lado y otra en proceso de finalización en la parte trasera, lo que garantiza un vecindario en crecimiento.\n\nEl terreno cuenta con todos los servicios esenciales: agua corriente, gas natural, electricidad, pavimento, pozo negro, agua potable y alumbrado público. Esta conectividad de servicios asegura comodidad y calidad de vida para sus futuros propietarios.\n\nLa ubicación estratégica ofrece fácil acceso a las principales vías de la ciudad, lo que facilita la movilidad y el transporte diario. Este terreno es una excelente oportunidad de inversión para quienes desean establecerse en una de las áreas más buscadas de Córdoba Capital.",
+   "operacion": "Venta",
+   "precio": 50000,
+   "moneda": "USD",
+   "muestra_precio": true,
+   "tipo": "Terreno",
+   "direccion": "Calle publica s/n Mza 114 Lote 26",
+   "barrio": "Cuestas de Manantiales",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Cuestas de Manantiales",
+   "ambientes": 0,
+   "dormitorios": 0,
+   "banos": 0,
+   "cocheras": 0,
+   "sup_cubierta": "0.00",
+   "sup_total": "0.00",
+   "antiguedad": 0,
+   "apto_credito": null,
+   "lat": "-31.4564625",
+   "lng": "-64.2429735",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_37073151237011490328419609967025725335074634482713356501774717079657374618262.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_37073151237011490328419609967025725335074634482713356501774717079657374618262_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_19351009469869864619331904969082694434199905905655344809626956760649965982477.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_19351009469869864619331904969082694434199905905655344809626956760649965982477_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_36813258921254167876490843231264599377283176178324750216175170510674309097557.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_36813258921254167876490843231264599377283176178324750216175170510674309097557_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_29001144330501232691223742985902820678125049811731454380526416924593977597948.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_29001144330501232691223742985902820678125049811731454380526416924593977597948_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_60112387059668782759518188150684937551689996395125621448963603940063264011846.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_60112387059668782759518188150684937551689996395125621448963603940063264011846_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_38637150784995830727512125705075915375653024352238090956632998282148373525091.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_38637150784995830727512125705075915375653024352238090956632998282148373525091_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_88096654961005901594315469006072092239673914772243070437852289423654067189499.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_88096654961005901594315469006072092239673914772243070437852289423654067189499_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_88277862163372112677630427172464320956973445676777706321305157784806826787602.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_88277862163372112677630427172464320956973445676777706321305157784806826787602_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_869015168367084474063232042918509200726521611998563506708647700495816141381.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_869015168367084474063232042918509200726521611998563506708647700495816141381_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_55688077924998309013478374509160566095519876690447518895003455627640699894625.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_55688077924998309013478374509160566095519876690447518895003455627640699894625_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_27102245985498382145776240140454714913149612777384685438278016221665352886249.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_27102245985498382145776240140454714913149612777384685438278016221665352886249_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_40247321675494131202882849331348460922101858444038344742357367052251003346214.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_40247321675494131202882849331348460922101858444038344742357367052251003346214_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_37877470150716443771454499820325284295633993952755838068043949036759845255962.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_37877470150716443771454499820325284295633993952755838068043949036759845255962_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_71079235079098442093867877632672129464270434321458744518433213788060129469432.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_71079235079098442093867877632672129464270434321458744518433213788060129469432_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8574745_79870909451951529419318878413674340537598356499867073165336805732677275240031.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8574745_79870909451951529419318878413674340537598356499867073165336805732677275240031_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2026-08-03T21:36:46",
+   "actualizada": "2026-08-03T22:01:07"
   }
  ]
 }
