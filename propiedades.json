@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-05T18:17:06.110126+00:00",
+ "generado": "2026-08-05T21:03:26.535139+00:00",
  "total": 219,
  "propiedades": [
   {
@@ -24605,7 +24605,7 @@
    "video": "https://www.youtube.com/embed/1wou8KvSfwo",
    "destacada": false,
    "creada": "2026-06-27T20:29:48",
-   "actualizada": "2026-07-01T16:52:04"
+   "actualizada": "2026-08-05T19:51:59"
   },
   {
    "id": 8429961,
@@ -29490,8 +29490,8 @@
    "dormitorios": 2,
    "banos": 2,
    "cocheras": 0,
-   "sup_cubierta": "93.00",
-   "sup_total": "118.94",
+   "sup_cubierta": "94.00",
+   "sup_total": "94.00",
    "antiguedad": 65,
    "apto_credito": null,
    "lat": "-31.4161299",
@@ -29649,7 +29649,7 @@
    "video": "https://www.youtube.com/embed/BpYOBB6K-5M",
    "destacada": false,
    "creada": "2026-08-05T15:09:11",
-   "actualizada": "2026-08-05T15:48:42"
+   "actualizada": "2026-08-05T19:43:52"
   }
  ]
 }
