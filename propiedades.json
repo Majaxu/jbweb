@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-10T20:36:36.855088+00:00",
+ "generado": "2026-08-10T23:29:57.655661+00:00",
  "total": 217,
  "propiedades": [
   {
@@ -9400,13 +9400,13 @@
    "id": 7424686,
    "referencia": "JHO7424686",
    "titulo": "Venta - Casa de 3 dormitorios en Villa Allende",
-   "descripcion": "JUAREZ BELTRAN VILLA ALLENDE - Vende\nUBICACIÓN: Bartolomé Mitre S/N - Villa Allende\nPROPIEDAD/CARACTERÍSTICAS: Excelente propiedad desarrollada en 2 plantas sobre un terreno de 2715 m2, ubicada a 100 metros de calle Neuquen. La misma cuenta con 3 dormitorios, 2 baños completos mas un toilette, living, comedor, cocina integrada, galería con asador. La casa se encuentra en buen estado de mantenimiento, totalmente funcional y posee detalles como aberturas de aluminio, pisos de cerámico, prevision para calefaccion central por radiadores con toda la cañería instalada, ambientes amplios y luminosos, una distribución muy funcional, muy linda arboleda autóctona que proporciona frescura y sombra. Los ambientes se distribuyen de la siguiente manera:\nPlanta baja:\nLiving con hogarComedorCocina integradaToilette social\nPlanta Alta:\nDormitorio principal con baño en suite y salida a balcon terraza.Dos dormitorios con placares a medida.Baño completo zonificado.\nTerreno ideal para desarrolloFOS: 50%FOT: 0,8%UF: 1 c/300 m2Altura maxima 6,5 m (2 plantas)\n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramentereferencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación delpropietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Bernardo González Beretta. Tel: 3512033761.\n",
+   "descripcion": "                JUAREZ BELTRAN VILLA ALLENDE - Vende/Alquila\nUBICACIÓN: Bartolomé Mitre S/N - Villa Allende\nPROPIEDAD/CARACTERÍSTICAS: Excelente propiedad desarrollada en 2 plantas sobre un terreno de 2715 m2, ubicada a 100 metros de calle Neuquén. La misma cuenta con 3 dormitorios, 2 baños completos mas un toilette, living, comedor, cocina integrada, galeria con asador. La casa se encuentra en buen estado de mantenimiento, totalmente funcional y posee terminaciones como aberturas de aluminio, pisos de cerámico, previsión para calefacción central por radiadores con toda la cañería instalada, alarma y rejas, ambientes amplios y luminosos, una distribución muy funcional, muy linda arboleda autóctona que proporciona frescura y sombra. Los ambientes se distribuyen de la siguiente manera:\nPlanta baja:\nLiving con hogarComedorCocina integradaToilette social\nPlanta Alta:\nDormitorio principal con baño en suite y salida a balcón terraza.Dos dormitorios con placares a medida.Baño completo zonificado.\nTerreno ideal para desarrolloFOS: 50%FOT: 0,8%UF: 1 c/300 m2Altura máxima 6,5 m (2 plantas)\n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramentereferencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación delpropietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Bernardo González Beretta. Tel: 3512033761.\n\r\n\r\n            ",
    "operacion": "Venta",
    "precio": 168000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Casa",
-   "direccion": "Venta - Casa de 3 dormitorios en Villa Allende",
+   "direccion": "Venta/Alquiler - Casa de 3 dormitorios en Villa Allende",
    "barrio": "Villa Allende",
    "ubicacion_completa": "Argentina | Cordoba | Colon | Villa Allende",
    "ambientes": 6,
@@ -9420,10 +9420,6 @@
    "lat": "-31.2873710272",
    "lng": "-64.307240967",
    "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7424686_67577709830286283900199682206579442365336203370572074624758441668332142953835.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7424686_67577709830286283900199682206579442365336203370572074624758441668332142953835_thumb.jpg"
-    },
     {
      "url": "https://static.tokkobroker.com/w_pics/7424686_112387623280661106826115369267893096086505784333287047436744850510429562454901.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7424686_112387623280661106826115369267893096086505784333287047436744850510429562454901_thumb.jpg"
@@ -9443,6 +9439,10 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/7424686_62818032526747522154461175026145945530259754934796004820491283776632669996699.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7424686_62818032526747522154461175026145945530259754934796004820491283776632669996699_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7424686_67577709830286283900199682206579442365336203370572074624758441668332142953835.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7424686_67577709830286283900199682206579442365336203370572074624758441668332142953835_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7424686_23732793530499579410431321883286113636445356927937744066477641973384659788600.jpg",
@@ -9564,7 +9564,7 @@
    "video": null,
    "destacada": false,
    "creada": "2025-10-16T16:58:53",
-   "actualizada": "2026-03-25T19:45:39"
+   "actualizada": "2026-08-10T21:57:03"
   },
   {
    "id": 7429644,
