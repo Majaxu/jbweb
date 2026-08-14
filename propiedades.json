@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-13T23:36:05.035470+00:00",
- "total": 214,
+ "generado": "2026-08-14T11:40:38.387256+00:00",
+ "total": 213,
  "propiedades": [
   {
    "id": 471897,
@@ -1553,100 +1553,6 @@
    "destacada": true,
    "creada": "2019-09-16T19:44:58",
    "actualizada": "2026-07-23T14:52:12"
-  },
-  {
-   "id": 2290910,
-   "referencia": "JHO2290910",
-   "titulo": "Casa - Villa Allende Golf",
-   "descripcion": "                JUÁREZ BELTRÁN VILLA ALLENDE - VENDE\n\n\nUBICACION: Uspallata 540, Villa Allende Golf\n\n\n\nPROPIEDAD/CARACTERISTICAS: Excelente casa desarrollada en una sola  planta.\nAmplio  estar muy luminoso\nLiving comedor\nCocina comedor\nToilette\nDormitorio principal en suite y con vestidor\nDos dormitorios  con baño completo con antebaño\nLavadero\nAmplio tender\nQuincho cerrado y  quincho abierto\nDependencia de servicio\nPileta\nGarage amplio\n\n\nOpcional: Posibilidad de compra de terreno colindante de 675mts, ascendiendo el valor a 290 comisión incluida en ese caso.\n\n\n",
-   "operacion": "Venta",
-   "precio": 260000,
-   "moneda": "USD",
-   "muestra_precio": true,
-   "tipo": "Casa",
-   "direccion": "Uspallata al 500",
-   "barrio": "Villa Allende Golf",
-   "ubicacion_completa": "Argentina | Cordoba | Colon | Villa Allende | Villa Allende Golf",
-   "ambientes": 10,
-   "dormitorios": 3,
-   "banos": 2,
-   "cocheras": 0,
-   "sup_cubierta": "480.00",
-   "sup_total": "480.00",
-   "antiguedad": 25,
-   "apto_credito": null,
-   "lat": "-31.2846803128",
-   "lng": "-64.2852706354",
-   "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/water_pics/6249897015841903053138905908521325022737506387164297428415040843356197616027.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/6249897015841903053138905908521325022737506387164297428415040843356197616027_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/68267575057920002538331811518511520041003784436270448123141467934027608822761.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/68267575057920002538331811518511520041003784436270448123141467934027608822761_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/114869064033048074376044906389433897819044160502076056182615596388708025701584.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/114869064033048074376044906389433897819044160502076056182615596388708025701584_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/15674269403162570349083713161649034855753950559437506168546488933574067642057.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/15674269403162570349083713161649034855753950559437506168546488933574067642057_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/38596851269874613011259718703090565655038240563310355126265499536980038286079.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/38596851269874613011259718703090565655038240563310355126265499536980038286079_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/72625797111578931186776410177379378315168315708258997273406423347856274229406.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/72625797111578931186776410177379378315168315708258997273406423347856274229406_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/66298335566287749811784298488606886098203218897596544537697729272821907971458.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/66298335566287749811784298488606886098203218897596544537697729272821907971458_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/104047735181466261429638463642463808438820815842190572990245158434332553626746.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/104047735181466261429638463642463808438820815842190572990245158434332553626746_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/17232806478934722592973416718159089248018881074164459170051239837087445854620.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/17232806478934722592973416718159089248018881074164459170051239837087445854620_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/50276074039342621096260333457445938040575634711764398558871416760411250987807.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/50276074039342621096260333457445938040575634711764398558871416760411250987807_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/44475109189435633921254767097384559235953004785882688374015145754072961023752.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/44475109189435633921254767097384559235953004785882688374015145754072961023752_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/107331617656266824652189916392710104141525159450930266402020482904701000086057.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/107331617656266824652189916392710104141525159450930266402020482904701000086057_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/630967225033734681549209736237841774685818678736982182554975314851928885163.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/630967225033734681549209736237841774685818678736982182554975314851928885163_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/12929627244413692141322575114459260351777183796321734965402596416449907750242.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/12929627244413692141322575114459260351777183796321734965402596416449907750242_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/95756340795655367670671923197803130631162404797855889675596055850889982390946.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/95756340795655367670671923197803130631162404797855889675596055850889982390946_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/water_pics/106567563803227186752514478420212867043584500608884748342099381562858536733994.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/106567563803227186752514478420212867043584500608884748342099381562858536733994_thumb.jpg"
-    }
-   ],
-   "video": null,
-   "destacada": false,
-   "creada": "2019-12-16T20:34:24",
-   "actualizada": "2026-04-13T14:19:06"
   },
   {
    "id": 2672008,
