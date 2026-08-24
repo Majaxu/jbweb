@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-24T11:22:50.251024+00:00",
+ "generado": "2026-08-24T14:36:10.124550+00:00",
  "total": 213,
  "propiedades": [
   {
@@ -2108,7 +2108,7 @@
    "titulo": "Departamento Venta  - Alto Alberdi- 1 dor con cochera",
    "descripcion": "                            Juarez Beltran ofrece en VENTA este departamento ubicado en barrio Alto Alberdi.Calle Bv del Carmen 121 ,en un complejo cerrado.Es en Planta baja y cuenta con cochera ,living comedor,cocina integrada,dormitorio y otro espacio que puede se vestidor o escritorio,baño completo.Esta para escriturar",
    "operacion": "Venta",
-   "precio": 55000,
+   "precio": 48000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -2158,7 +2158,7 @@
    "video": null,
    "destacada": true,
    "creada": "2022-01-10T20:25:10",
-   "actualizada": "2026-07-15T12:12:48"
+   "actualizada": "2026-08-24T14:15:07"
   },
   {
    "id": 4263226,
@@ -5896,7 +5896,7 @@
    "titulo": "Frente a Parque Las Tejas, 1 dormitorio, balcon al frente, Nueva Córdoba",
    "descripcion": "                                                                                                1 dormitorio. Balcon al frente. Amplio y luminoso. MR XV.\n        UBICACIÓN: BARRIO NUEVA CÓRDOBA - CALLE ITUZAINGÓ 1295 - Esquina Bolivia, Frente a Parque las Tejas!!!\nCARACTERÍSTICAS:Se trata de un departamento de 1 dormitorio con cocina integrada, living comedor, baño completo con ducha y balcón al frente que mira a calle Ituzaingó. Conexión a lavarropas: SIAmenities: NO\nMODALIDAD DE CONTRATO: Contrato por 18 meses con actualizaciones trimestrales según el índice ICL emitido por el BCRA.Requisitos:1) 2 recibos de sueldo iguales o mayores a $1.200.000 + garantía propietaria2) 3 recibos de sueldo iguales o mayores a $1.200.0003) Seguro de caución operado por Locativa\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHabla con propiedad, habla con Juarez Beltran.San Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\n\n\n\n\n\n\n\n\n\n\n\n\n\n            \n\n            \n\n            \n\n            \n\n            \n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
-   "precio": 700000,
+   "precio": 650000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -6022,7 +6022,7 @@
    "video": "https://www.youtube.com/embed/aFp5t8qAmRk",
    "destacada": false,
    "creada": "2025-01-28T15:35:58",
-   "actualizada": "2026-08-19T13:45:06"
+   "actualizada": "2026-08-24T13:41:20"
   },
   {
    "id": 6741504,
