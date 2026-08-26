@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-26T14:39:20.983620+00:00",
- "total": 213,
+ "generado": "2026-08-26T18:54:29.024207+00:00",
+ "total": 212,
  "propiedades": [
   {
    "id": 471897,
@@ -2158,10 +2158,10 @@
    "id": 4157168,
    "referencia": "JAP4157168",
    "titulo": "Departamento Venta  - Alto Alberdi- 1 dor con cochera",
-   "descripcion": "                            Juarez Beltran ofrece en VENTA este departamento ubicado en barrio Alto Alberdi.Calle Bv del Carmen 121 ,en un complejo cerrado.Es en Planta baja y cuenta con cochera ,living comedor,cocina integrada,dormitorio y otro espacio que puede se vestidor o escritorio,baño completo.Esta para escriturar",
-   "operacion": "Venta",
-   "precio": 48000,
-   "moneda": "USD",
+   "descripcion": "                                            Juarez Beltran ofrece en ALQUILER este departamento ubicado en barrio Alto Alberdi.Calle Bv del Carmen 121 ,en un complejo cerrado.Es en Planta baja y cuenta con cochera ,living comedor,cocina integrada,dormitorio y otro espacio que puede se vestidor o escritorio,baño completo.",
+   "operacion": "Alquiler",
+   "precio": 500000,
+   "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Departamento",
    "direccion": "Bv del Carmen al 100",
@@ -2210,7 +2210,7 @@
    "video": null,
    "destacada": true,
    "creada": "2022-01-10T20:25:10",
-   "actualizada": "2026-08-24T14:15:07"
+   "actualizada": "2026-08-26T18:01:54"
   },
   {
    "id": 4263226,
@@ -10263,92 +10263,6 @@
    "destacada": false,
    "creada": "2025-11-19T22:07:46",
    "actualizada": "2026-07-15T14:36:55"
-  },
-  {
-   "id": 7574861,
-   "referencia": "JGL7574861",
-   "titulo": "Galpon a media Cuadra de Juan B Justo al 6800",
-   "descripcion": "Galpón principal de 300 metros cuadrados (10 x 30) con dos portones, Galpón anexo semicubierto de 300 (30 x 10) metros cuadrados.\nOficinas comercial anexa (80 metros cuadrados)  en dos plantas con bano y kichenette, dos aires acondicionados, cámaras de vigilancia en ingreso, galpones y oficina. \nPortón Automático, cochera techada para 5 autos, frente cerrado.  \nIluminación led completa en galpones, piso de cemento, sistema de aire comprimido de carga rápida instalado,  \n",
-   "operacion": "Alquiler",
-   "precio": 4500000,
-   "moneda": "ARS",
-   "muestra_precio": true,
-   "tipo": "Galpón",
-   "direccion": "Alquiler/Venta  - Galpón 600 m² - a 60mts de Juan B Justo - Córdoba al 6800",
-   "barrio": "Guiñazu",
-   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Guiñazu",
-   "ambientes": 0,
-   "dormitorios": 0,
-   "banos": 2,
-   "cocheras": 5,
-   "sup_cubierta": "680.00",
-   "sup_total": "0.00",
-   "antiguedad": 0,
-   "apto_credito": null,
-   "lat": "-31.3301939",
-   "lng": "-64.180949",
-   "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_24139749067285398524600508234907117203299534939197907956726966116633475927596.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_24139749067285398524600508234907117203299534939197907956726966116633475927596_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_105631426151871043589265723180165834836623346522646982729065647221947596912487.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_105631426151871043589265723180165834836623346522646982729065647221947596912487_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_83261573977483990777019138587962385608957749142611047213240505885028560955030.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_83261573977483990777019138587962385608957749142611047213240505885028560955030_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_75383234979722797419299488976297161346530882093451904296775994401887703025331.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_75383234979722797419299488976297161346530882093451904296775994401887703025331_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_24752117982239017546305817243715725387392840300263133718157895155049612541154.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_24752117982239017546305817243715725387392840300263133718157895155049612541154_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_15306656273779086806858601065706297198488569327549809867490776408789743750465.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_15306656273779086806858601065706297198488569327549809867490776408789743750465_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_2969900519534239478762960794296896268154922417562200237823570532230032653065.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_2969900519534239478762960794296896268154922417562200237823570532230032653065_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_4094261864471989828532567072099665012657914286760803426607964796028531756810.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_4094261864471989828532567072099665012657914286760803426607964796028531756810_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_71396103406336211918811627281378511445250020815861990266540777396441904483956.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_71396103406336211918811627281378511445250020815861990266540777396441904483956_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_51832079586811992667628781034325504512580022644203800971270672279210548119487.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_51832079586811992667628781034325504512580022644203800971270672279210548119487_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_78428826839913145706103759077974362589864478380528377087507278709714869512356.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_78428826839913145706103759077974362589864478380528377087507278709714869512356_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_13319420943357733035488253847331117094442954102051441601958303107514977977182.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_13319420943357733035488253847331117094442954102051441601958303107514977977182_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_77876230529738608841026616711589053413017141621134940553748039151599043555489.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_77876230529738608841026616711589053413017141621134940553748039151599043555489_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7574861_89837891668176060026155451474791708434603390284319928564099648147226745199140.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7574861_89837891668176060026155451474791708434603390284319928564099648147226745199140_thumb.jpg"
-    }
-   ],
-   "video": null,
-   "destacada": false,
-   "creada": "2025-12-03T11:28:17",
-   "actualizada": "2026-08-04T00:43:04"
   },
   {
    "id": 7614330,
@@ -28531,12 +28445,12 @@
    "lng": "-64.1873943",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/8675799_99855995587840453803960209504207493561680147151172221442340074711738862720253.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8675799_99855995587840453803960209504207493561680147151172221442340074711738862720253_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/8675799_19791881675740158547824036881284068137670746663274376771051030019791403177213.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8675799_19791881675740158547824036881284068137670746663274376771051030019791403177213_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8675799_99855995587840453803960209504207493561680147151172221442340074711738862720253.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8675799_99855995587840453803960209504207493561680147151172221442340074711738862720253_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8675799_29850476925965643252093449135123449634908408514174712332953835074157878255490.jpg",
@@ -28614,7 +28528,7 @@
    "video": "https://www.youtube.com/embed/aFp5t8qAmRk?si=OEzztDzWJs_9je7e",
    "destacada": false,
    "creada": "2026-08-19T13:46:53",
-   "actualizada": "2026-08-20T15:27:32"
+   "actualizada": "2026-08-26T15:34:24"
   },
   {
    "id": 8679917,
