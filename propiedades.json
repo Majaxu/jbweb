@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-31T17:48:51.165318+00:00",
- "total": 209,
+ "generado": "2026-08-31T23:34:34.967875+00:00",
+ "total": 210,
  "propiedades": [
   {
    "id": 471897,
@@ -18120,7 +18120,7 @@
    "video": "https://www.youtube.com/embed/rQd6CxN9MNY",
    "destacada": true,
    "creada": "2026-05-13T16:49:51",
-   "actualizada": "2026-08-13T14:10:37"
+   "actualizada": "2026-08-31T19:26:22"
   },
   {
    "id": 8042344,
@@ -27624,7 +27624,7 @@
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "PH",
-   "direccion": "Republica de China  al 5000",
+   "direccion": "Condominio Las MORAS, Valle Escondido",
    "barrio": "Valle Escondido",
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Countries/B.Cerrado (Cordoba) | Valle Escondido",
    "ambientes": 5,
@@ -27734,7 +27734,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-08-13T16:46:26",
-   "actualizada": "2026-08-13T17:11:47"
+   "actualizada": "2026-08-31T19:14:38"
   },
   {
    "id": 8649589,
@@ -28719,6 +28719,80 @@
    "destacada": false,
    "creada": "2026-08-31T14:47:40",
    "actualizada": "2026-08-31T17:31:19"
+  },
+  {
+   "id": 9494339,
+   "referencia": "JAP9494339",
+   "titulo": "Departamento 1 dormitorio en Centro de Córdoba",
+   "descripcion": "                Departamento amplio de 1 dormitorio, super luminoso, con pequeño patio, placard en habitación, buena ubicación.\n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente\n\nreferencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación delpropietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – María Josefina Garcia 3515189281\n\r\n\r\n            \n",
+   "operacion": "Venta",
+   "precio": 51000,
+   "moneda": "USD",
+   "muestra_precio": true,
+   "tipo": "Departamento",
+   "direccion": "Tucuman 54",
+   "barrio": "Centro",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Centro",
+   "ambientes": 2,
+   "dormitorios": 1,
+   "banos": 1,
+   "cocheras": 0,
+   "sup_cubierta": "40.12",
+   "sup_total": "51.64",
+   "antiguedad": 48,
+   "apto_credito": null,
+   "lat": "-31.414258",
+   "lng": "-64.1877945",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9494339_73933973329841164696163436482015107133047745258225522093004958146932867521380.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9494339_73933973329841164696163436482015107133047745258225522093004958146932867521380_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9494339_84738845042497672945922901659570866250818430759843958927469010009661199706826.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9494339_84738845042497672945922901659570866250818430759843958927469010009661199706826_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9494339_76699961222175385574520390734531275613754808741961730589070386138234233707378.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9494339_76699961222175385574520390734531275613754808741961730589070386138234233707378_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9494339_4632686130374467440548084556709867763838964409804926533816138966427919552330.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9494339_4632686130374467440548084556709867763838964409804926533816138966427919552330_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9494339_111479944082377956361257606307427447210923617268510716323888858878529119587086.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9494339_111479944082377956361257606307427447210923617268510716323888858878529119587086_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9494339_12292739319264675175089582464526990675693334727477569996754734079123636124767.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9494339_12292739319264675175089582464526990675693334727477569996754734079123636124767_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9494339_111191251450143847268715290215517729447925212685500190294064107375245933795912.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9494339_111191251450143847268715290215517729447925212685500190294064107375245933795912_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9494339_35685647273257007205903215604034515213413082285357209647767496962860312996368.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9494339_35685647273257007205903215604034515213413082285357209647767496962860312996368_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9494339_54256126380767083915758805042403529120837371592939777385016030913673273647343.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9494339_54256126380767083915758805042403529120837371592939777385016030913673273647343_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9494339_19301362813606138000212885378611525175196363512686877773415286640757985298290.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9494339_19301362813606138000212885378611525175196363512686877773415286640757985298290_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9494339_70068314225638350277639560130952422041171370932667269420128696506963144471176.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9494339_70068314225638350277639560130952422041171370932667269420128696506963144471176_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2026-08-31T18:59:46",
+   "actualizada": "2026-08-31T19:19:20"
   }
  ]
 }
