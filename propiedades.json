@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-02T19:36:26.120947+00:00",
- "total": 212,
+ "generado": "2026-09-02T22:17:28.694708+00:00",
+ "total": 211,
  "propiedades": [
   {
    "id": 471897,
@@ -28891,72 +28891,6 @@
    "destacada": false,
    "creada": "2026-08-31T18:59:46",
    "actualizada": "2026-08-31T19:19:20"
-  },
-  {
-   "id": 9562381,
-   "referencia": "JHO9562381",
-   "titulo": "Casa en alquiler 2 dor,baño,jardin ,cocina, -Colinas de Manantiales-",
-   "descripcion": "Duplex en alquiler en- Colinas de Manantiales-, Manantiales II,Planta baja de 2 dormitorios, a estrenar \nCaracterísticas:\n* Cochera con pérgola\n* Estar Comedor ,amplio y luminoso\n* Cocina integrada ,con muebles sobre y bajo mesada\n* 2 Dormitorios con placard\n* Baño completo con toallero\n* Jardín con asador\n* Calefacción con radiadores \nJuarez Beltran alquila,\nCONSUELO BOSCH te de contacto 3513749133\n\n\n",
-   "operacion": "Alquiler",
-   "precio": 1000000,
-   "moneda": "ARS",
-   "muestra_precio": true,
-   "tipo": "Casa",
-   "direccion": "mzna 66 lote 12 Colinas de Manantiales",
-   "barrio": "Colinas de Manantiales",
-   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Colinas de Manantiales",
-   "ambientes": 3,
-   "dormitorios": 2,
-   "banos": 1,
-   "cocheras": 1,
-   "sup_cubierta": "70.00",
-   "sup_total": "0.00",
-   "antiguedad": 0,
-   "apto_credito": null,
-   "lat": "-31.4782387",
-   "lng": "-64.2655785",
-   "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/9562381_41032525692608926070154262698146537579354767800738949605606623622783051031510.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9562381_41032525692608926070154262698146537579354767800738949605606623622783051031510_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/9562381_86247273734833748236358716330639094318743098385205662719908605626960326811413.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9562381_86247273734833748236358716330639094318743098385205662719908605626960326811413_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/9562381_64402861326807771135363514867479934025477579660633828071744885119878308675084.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9562381_64402861326807771135363514867479934025477579660633828071744885119878308675084_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/9562381_30125311333937841482265408390005038114695866942439251330899926254262036079865.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9562381_30125311333937841482265408390005038114695866942439251330899926254262036079865_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/9562381_109185287849666459805690854435787895604079290144638206803045891967001122886165.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9562381_109185287849666459805690854435787895604079290144638206803045891967001122886165_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/9562381_47519436258776786931531497345478696718766099496837535896611726709401777132661.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9562381_47519436258776786931531497345478696718766099496837535896611726709401777132661_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/9562381_53774238660988939358030182904195842141146132240479348040710090816231709755388.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9562381_53774238660988939358030182904195842141146132240479348040710090816231709755388_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/9562381_32629846218407612181984816924674884475694494933516587888434646135728419100334.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9562381_32629846218407612181984816924674884475694494933516587888434646135728419100334_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/9562381_59893378991940815972360630269998826825043156296731332216746155000463867577409.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9562381_59893378991940815972360630269998826825043156296731332216746155000463867577409_thumb.jpg"
-    }
-   ],
-   "video": null,
-   "destacada": false,
-   "creada": "2026-09-01T17:08:38",
-   "actualizada": "2026-09-01T17:25:58"
   }
  ]
 }
