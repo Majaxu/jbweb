@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-04T14:43:50.905799+00:00",
- "total": 213,
+ "generado": "2026-09-04T19:15:53.410335+00:00",
+ "total": 214,
  "propiedades": [
   {
    "id": 471897,
@@ -1605,6 +1605,76 @@
    "destacada": true,
    "creada": "2019-09-16T19:44:58",
    "actualizada": "2026-07-23T14:52:12"
+  },
+  {
+   "id": 2574529,
+   "referencia": "JAP2574529",
+   "titulo": "Departamento - Casonas del Norte",
+   "descripcion": "                            ALQUILER DPTO CASONAS DEL NORTE!!!\n\nEL DPTO CUENTA CON LIVING COMEDOR CON SALIDA AL BALCÓN.\nCOCINA SEPARADA\nDORMITORIOS  CON PLACARES GRANDES.\nBAÑO COMPLETO\n\nEL COMPLEJO CUENTA CON 2 PILETAS\nSALÓN DE USOS MÚLTIPLES CON ASADORES\nSEGURIDAD 24 HS\nCONTROL DE ACCESO\nCOCHERA SUBTERRANEA\n\n\r\n\r\n            ",
+   "operacion": "Alquiler",
+   "precio": 1300000,
+   "moneda": "ARS",
+   "muestra_precio": true,
+   "tipo": "Departamento",
+   "direccion": "CASONAS DEL NORTE NAZARET al 3200",
+   "barrio": "Casonas del Norte",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Casonas del Norte",
+   "ambientes": 0,
+   "dormitorios": 2,
+   "banos": 1,
+   "cocheras": 1,
+   "sup_cubierta": "0.00",
+   "sup_total": "0.00",
+   "antiguedad": 17,
+   "apto_credito": null,
+   "lat": "-31.3910275",
+   "lng": "-64.2280231",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/2574529_114530363459491972533045458561219693070687548871286781616067668193562695600184.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/2574529_114530363459491972533045458561219693070687548871286781616067668193562695600184_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/106947290746594120047445087501806029162618988449027385373364096913076159353907.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/106947290746594120047445087501806029162618988449027385373364096913076159353907_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/92321520207962692879180790810787773757887150167455553758813223136921684737408.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/92321520207962692879180790810787773757887150167455553758813223136921684737408_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/52425603052615354809506036665244382064027598357889509944052916904172276253903.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/52425603052615354809506036665244382064027598357889509944052916904172276253903_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/11783463564955245152987119885253231730005680701374878381844408907741053252956.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/11783463564955245152987119885253231730005680701374878381844408907741053252956_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/78672358831084375740805202364940513433853807265928659564630061550345011921908.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/78672358831084375740805202364940513433853807265928659564630061550345011921908_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/80055901236165905938326630695090449587077981780856061516333116741923457052045.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/80055901236165905938326630695090449587077981780856061516333116741923457052045_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/100734104866360664779211941418718835257274383202356769384807422193699082111131.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/100734104866360664779211941418718835257274383202356769384807422193699082111131_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/54956219078277848272096151768414435686929628638843835697691659217306901456472.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/54956219078277848272096151768414435686929628638843835697691659217306901456472_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/2574529_26032103380827052526789228761963599672886900838350486891029003241871696976166.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/2574529_26032103380827052526789228761963599672886900838350486891029003241871696976166_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2020-07-06T13:53:23",
+   "actualizada": "2026-09-04T15:38:20"
   },
   {
    "id": 2672008,
@@ -9180,13 +9250,13 @@
    "id": 7424686,
    "referencia": "JHO7424686",
    "titulo": "Venta - Casa de 3 dormitorios en Pasaje Mitre - Villa Allende",
-   "descripcion": "\nJUAREZ BELTRAN VILLA ALLENDE - Vende/Alquila\n\n\n\nUBICACI&#211;N: Bartolom&#233; Mitre S/N - Cumbres de Villa Allende\n\n\n\nPROPIEDAD/CARACTER&#205;STICAS: Excelente propiedad desarrollada en 2 plantas sobre un terreno de 2715 m2, ubicada a 100 metros de calle Neuqu&#233;n. La misma cuenta con 3 dormitorios, 2 ba&#241;os completos mas un toilette, living, comedor, cocina integrada, galeria con asador. La casa se encuentra en buen estado de mantenimiento, totalmente funcional y posee terminaciones como aberturas de aluminio, pisos de cer&#225;mico, previsi&#243;n para calefacci&#243;n central por radiadores con toda la ca&#241;er&#237;a instalada, alarma y rejas, ambientes amplios y luminosos, una distribuci&#243;n muy funcional, muy linda arboleda aut&#243;ctona que proporciona frescura y sombra. Los ambientes se distribuyen de la siguiente manera:\n\n\n\nPlanta baja:\n\n\n\nLiving con hogar\n\nComedor\n\nCocina integrada\n\nToilette social\n\n\n\nPlanta Alta:\n\n\n\nDormitorio principal con ba&#241;o en suite y salida a balc&#243;n terraza.\n\nDos dormitorios con placares a medida.\n\nBa&#241;o completo zonificado.\n\n\n\nTerreno ideal para desarrollo inmobiliario\n\n\n\nPara alquiler: disponible para ingresar a partir de noviembre. Se pueden coordinar visitas para verla mientras tanto.\n\n\n\n\n\nIMPORTANTE: La presente publicaci&#243;n est&#225; sujeta a disponibilidad. La informaci&#243;n es meramente\n\nreferencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmaci&#243;n del\n\npropietario, por lo que los t&#233;rminos no resultan vinculantes entre las partes. La operaci&#243;n que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\n\n\nVILLA ALLENDE &#8211; Rio de Janeiro 1725. Torre 1. Of. 11 &#8211; Bernardo Gonz&#225;lez Beretta. Tel: 3512033761.\n\n",
+   "descripcion": "JUAREZ BELTRAN VILLA ALLENDE - Vende\n\nUBICACIÓN: Bartolomé Mitre S/N - Cumbres de Villa Allende\n\nPROPIEDAD/CARACTERÍSTICAS: Excelente propiedad desarrollada en 2 plantas sobre un terreno de 2715 m2, ubicada a 100 metros de calle Neuquén. La misma cuenta con 3 dormitorios, 2 baños completos mas un toilette, living, comedor, cocina integrada, galeria con asador. La casa se encuentra en buen estado de mantenimiento, totalmente funcional y posee terminaciones como aberturas de aluminio, pisos de cerámico, previsión para calefacción central por radiadores con toda la cañería instalada, alarma y rejas, ambientes amplios y luminosos, una distribución muy funcional, muy linda arboleda autóctona que proporciona frescura y sombra. Los ambientes se distribuyen de la siguiente manera:\n\nPlanta baja:\n\nLiving con hogar\n\nComedor\n\nCocina integrada\n\nToilette social\n\nPlanta Alta:\n\nDormitorio principal con baño en suite y salida a balcón terraza.\n\nDos dormitorios con placares a medida.\n\nBaño completo zonificado.\n\nTerreno ideal para desarrollo inmobiliario\n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente\n\nreferencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del\n\npropietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Bernardo González Beretta. Tel: 3512033761.\n",
    "operacion": "Venta",
    "precio": 170000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Casa",
-   "direccion": "Venta/Alquiler - Casa de 3 dormitorios Cumbres de Villa Allende",
+   "direccion": "Venta - Casa de 3 dormitorios Cumbres de Villa Allende",
    "barrio": "Villa Allende",
    "ubicacion_completa": "Argentina | Cordoba | Colon | Villa Allende",
    "ambientes": 6,
@@ -9344,7 +9414,7 @@
    "video": null,
    "destacada": false,
    "creada": "2025-10-16T16:58:53",
-   "actualizada": "2026-08-13T17:25:22"
+   "actualizada": "2026-09-04T15:51:06"
   },
   {
    "id": 7451795,
@@ -24282,7 +24352,7 @@
    "video": "https://www.youtube.com/embed/dO-72Np-19c",
    "destacada": true,
    "creada": "2026-07-18T00:06:19",
-   "actualizada": "2026-09-03T23:03:06"
+   "actualizada": "2026-09-04T15:08:24"
   },
   {
    "id": 8492010,
