@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-10T00:46:47.318111+00:00",
- "total": 216,
+ "generado": "2026-09-10T14:44:49.448753+00:00",
+ "total": 215,
  "propiedades": [
   {
    "id": 471897,
@@ -497,8 +497,8 @@
   {
    "id": 474070,
    "referencia": "3432",
-   "titulo": "DUPLEX en ALQUILER - Barrio Urca - 3 dormitorios",
-   "descripcion": "                                                                    \nDuplex 3 dormitorios. 3 baños. Amplio. Luminoso. Jardín con asador. Disponible a partir del 15 de seotiembre.\nUBICACIÓN: \nMariano Pelliza 1339, Barrio URCA. \nPROPIEDAD/CARACTERISITICAS:  \nExcelente Duplex en barrio Urca a metros del Parque de las Naciones. Por la planta baja se ingresa a un living comedor con la cocina incorporada a un costado, un toilete, deposito de guardado bajo escalera, ingreso al garage cerrado, con capacidad para un auto. Además posee al patio con asador, este tiene un espacio con piso de cerámico donde se encuentra el asador y el resto con todo espacio verde.\n En la planta alta, tres dormitorios de los cuales dos son con vestidor, uno en suite, otro con balcón amplio que mira a la calle y más un baño completo común a los dos restantes y espacio para armar un escritorio en el pasillo de distribución.     \n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHable con Propiedad, hable con Juarez Beltrán.\nCÓRDOBA – San Lorenzo 25. 3° Piso– Nva. Cba \n\n        \n        \n            \r\n\r\n            ",
+   "titulo": "Duplex 3 dormitorios. 3 baños. Amplio. Luminoso. Jardín con asador. Disponible a partir del 15 de seotiembre.",
+   "descripcion": "                                                                                    \nDuplex 3 dormitorios. 3 baños. Amplio. Luminoso. Jardín con asador. Disponible a partir del 15 de seotiembre.\nUBICACIÓN: \nMariano Pelliza 1339, Barrio URCA. \nPROPIEDAD/CARACTERISITICAS:  \nExcelente Duplex en barrio Urca a metros del Parque de las Naciones. Por la planta baja se ingresa a un living comedor con la cocina incorporada a un costado, un toilete, deposito de guardado bajo escalera, ingreso al garage cerrado, con capacidad para un auto. Además posee al patio con asador, este tiene un espacio con piso de cerámico donde se encuentra el asador y el resto con todo espacio verde.\n En la planta alta, tres dormitorios de los cuales dos son con vestidor, uno en suite, otro con balcón amplio que mira a la calle y más un baño completo común a los dos restantes y espacio para armar un escritorio en el pasillo de distribución.     \n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHable con Propiedad, hable con Juarez Beltrán.\nCÓRDOBA – San Lorenzo 25. 3° Piso– Nva. Cba \n\n        \n        \n                        \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 1350000,
    "moneda": "ARS",
@@ -598,7 +598,7 @@
    "video": null,
    "destacada": true,
    "creada": "2017-07-30T20:45:40",
-   "actualizada": "2026-09-07T16:14:30"
+   "actualizada": "2026-09-10T13:15:06"
   },
   {
    "id": 474403,
@@ -8139,144 +8139,6 @@
    "actualizada": "2026-03-09T15:56:29"
   },
   {
-   "id": 7266166,
-   "referencia": "JHO7266166",
-   "titulo": "CASA RECICLADA A NUEVA | 3 DORMITORIOS | AREA DE SERVICIO COMPLETA",
-   "descripcion": "                                                CASA RESTAURADA A NUEVA | 3 DORMITORIOS | COCHERA CUBIERTA | ESCRITURA\nJuarez Beltran ofrece en venta esta propiedad ubicada en Barrio Crisol Sur, a pocos minutos del parque Sarmiento. la misma se encuentra en calle Monserrat al 2100. Esta en excelente estado de conservación ,se le hicieron los pisos de planta baja, muebles de cocina ,grifería, mesadas, salpicaderos, cañerías ,Todo impecable, amplio, luminoso.\nCaracteristicas:\nPlanta Baja\n* Cochera doble (pasante)\n* Estar -Comedor (amplio y muy luminoso)\n* Galería\n* Cocina- Comedor\n* Hall ingreso\n* Jardín con asador\n* Dormitorio servicio y baño\n* Deposito\nPlanta Alta\n* Hall con estar o escritorio (salida a balcón del frene)\n* Baño completo\n* 3 dormitorrios con placard\n* Balcón terraza desde el dormitorio principal (posibilidad de ampliar propiedad )\n\n\nJUAREZ BELTRAN - GUILLERMINA MACIAS\nAv. Richieri 3276 | Horarios de atención 09.00 a 16.00hs de lunes a viernes\nCONSUELO BOSCH 3513749133 | REGINA AGUILAR 3513515315\n\n            \n            \r\n            ",
-   "operacion": "Venta",
-   "precio": 135000,
-   "moneda": "USD",
-   "muestra_precio": true,
-   "tipo": "Casa",
-   "direccion": "Crisol Sur - Montserrat 2100",
-   "barrio": "Crisol Sur",
-   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Crisol Sur",
-   "ambientes": 8,
-   "dormitorios": 3,
-   "banos": 3,
-   "cocheras": 2,
-   "sup_cubierta": "250.00",
-   "sup_total": "0.00",
-   "antiguedad": 30,
-   "apto_credito": null,
-   "lat": "-31.4328814",
-   "lng": "-64.1677539",
-   "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_5905355153863133476446344123291802428769317988467391496871341879989953312720.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_5905355153863133476446344123291802428769317988467391496871341879989953312720_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_101850216461290489253364647744135903848122212162206296241025642855365191584882.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_101850216461290489253364647744135903848122212162206296241025642855365191584882_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_92371231661773503207699620598660359663024772591606315929233348789346413400284.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_92371231661773503207699620598660359663024772591606315929233348789346413400284_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_16412586509817833835987251253401391308212636865265918652918654904794666060601.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_16412586509817833835987251253401391308212636865265918652918654904794666060601_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_73234195140838398852900979452022647188845963155732479422622822580181699237845.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_73234195140838398852900979452022647188845963155732479422622822580181699237845_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_53903041830525594640050645341705124191505420213042062578095051183683402117013.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_53903041830525594640050645341705124191505420213042062578095051183683402117013_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_115489716627818406712835411346270024835539013211886484920077141003202286109313.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_115489716627818406712835411346270024835539013211886484920077141003202286109313_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_90717778758655577625627825696861898890672931200750802054237446754341351399173.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_90717778758655577625627825696861898890672931200750802054237446754341351399173_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_15316290003429638899711812007710889961012697889324982250696659054362272283389.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_15316290003429638899711812007710889961012697889324982250696659054362272283389_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_62340131140113714942237774107203560047876244748404457096503742208313439126929.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_62340131140113714942237774107203560047876244748404457096503742208313439126929_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_36543134961584413159125429604512643244379869029883982025172502128263204413670.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_36543134961584413159125429604512643244379869029883982025172502128263204413670_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_36694206072856812034600572944309457815890345420482442163012530385508439307218.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_36694206072856812034600572944309457815890345420482442163012530385508439307218_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_83087781076471333192059476609780544070175815012180884963101587588745237733225.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_83087781076471333192059476609780544070175815012180884963101587588745237733225_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_88847875284580546895981408001926307918316479022040844889369808253625860797974.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_88847875284580546895981408001926307918316479022040844889369808253625860797974_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_113651817294939032266240085829381508940330175794984426721091840967197953133256.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_113651817294939032266240085829381508940330175794984426721091840967197953133256_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_31300316364223326113075273523956060221394276631999027696525895207684345975205.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_31300316364223326113075273523956060221394276631999027696525895207684345975205_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_43382104954217945996181764188186777738011040428814238471373882805934765417883.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_43382104954217945996181764188186777738011040428814238471373882805934765417883_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_88574255097397455197465714728949841610700485330586714066133741273383564725496.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_88574255097397455197465714728949841610700485330586714066133741273383564725496_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_54248067274397383279246634556051650251347261389968827243604322607783225065201.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_54248067274397383279246634556051650251347261389968827243604322607783225065201_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_70314986648726736175669368104282860605702175013035081447551006826395863616442.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_70314986648726736175669368104282860605702175013035081447551006826395863616442_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_1565981984141186901600028277988032630429622240615852310664613641361411981172.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_1565981984141186901600028277988032630429622240615852310664613641361411981172_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_41953648929286928039341137733913896220446946588460971977005656525570772191297.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_41953648929286928039341137733913896220446946588460971977005656525570772191297_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_78730218972072450694283970642302544430109749655577580150880547391642337081241.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_78730218972072450694283970642302544430109749655577580150880547391642337081241_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_35077542682153532449164690074820167902209301132245310258430141788023996300263.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_35077542682153532449164690074820167902209301132245310258430141788023996300263_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_67688697669658786529344696978290861995898042585599765117510096918585171893106.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_67688697669658786529344696978290861995898042585599765117510096918585171893106_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_59707947077903111253386524363526424312154426421010325103973747931257903976941.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_59707947077903111253386524363526424312154426421010325103973747931257903976941_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7266166_53972808129331840385311083729456720887487795001110365389892450200172235611150.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7266166_53972808129331840385311083729456720887487795001110365389892450200172235611150_thumb.jpg"
-    }
-   ],
-   "video": null,
-   "destacada": true,
-   "creada": "2025-08-20T16:39:48",
-   "actualizada": "2026-09-03T13:37:23"
-  },
-  {
    "id": 7283043,
    "referencia": "JAP7283043",
    "titulo": "Venta - Dpto de 1 dormitorio c/ cochera - TRIBECA APARTS, - Villa Allende",
@@ -11440,7 +11302,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-01-26T14:16:45",
-   "actualizada": "2026-09-02T12:25:31"
+   "actualizada": "2026-09-10T14:24:44"
   },
   {
    "id": 7720930,
@@ -11550,7 +11412,7 @@
    "video": "https://www.youtube.com/embed/E8uhA28sovc",
    "destacada": false,
    "creada": "2026-01-26T15:00:05",
-   "actualizada": "2026-07-29T14:47:25"
+   "actualizada": "2026-09-10T14:25:14"
   },
   {
    "id": 7745200,
@@ -16662,13 +16524,13 @@
    "id": 8010827,
    "referencia": "JOF8010827",
    "titulo": "Oficina de 3 pisos con terraza y quincho en VENTA",
-   "descripcion": "OFICINA COMERCIAL EN VENTA | 250 M2 | 3 PLANTAS CON TERRAZA Y QUINCHO | ESCRITURA\n\n\nGran oficina comercial en venta en B° Alta Córdoba a metros de Av. Juan B. Justo. \nLa misma cuenta con 250m2 cubiertos en tres pisos ideales para actividades comerciales/empresariales.\n\n\nSe distribuye de la siguiente manera:\nPLANTA BAJA: Hall de ingreso. Cochera. Baño.\nPRIMER PISO: Sala de reuniones, cocina y living comedor.\nSEGUNDO PISO: Amplios privados/oficinas con balcones vista al estar.\nTERCER PISO: Quincho con anafe, bacha y asador. Oficina privada con acceso mediante terraza y oficina principal del 2do piso.\n\n\nImportante: Cuenta con escritura.\n\n\nJUAREZ BELTRAN SA. \nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba\nLunes a viernes de 09.00 a 17.00hs \nWhatsapp: 3513470043 // Tel Fijo: 351 4214400\n",
+   "descripcion": "                OFICINA COMERCIAL EN VENTA | 250 M2 | 3 PLANTAS CON TERRAZA Y QUINCHO | ESCRITURA\n\n\nGran oficina comercial en venta en Anacreonte 210 entre calles Tucumán y Gral. Paz.  B° Alta Córdoba a metros de Av. Juan B. Justo. \nLa misma cuenta con 250m2 cubiertos en tres pisos ideales para actividades comerciales/empresariales.\n\n\nSe distribuye de la siguiente manera:\nPLANTA BAJA: Hall de ingreso. Cochera. Baño.\nPRIMER PISO: Sala de reuniones, cocina y living comedor.\nSEGUNDO PISO: Amplios privados/oficinas con balcones vista al estar.\nTERCER PISO: Quincho con anafe, bacha y asador. Oficina privada con acceso mediante terraza y oficina principal del 2do piso.\n\n\nCuenta con escritura.\n\n\nJUAREZ BELTRAN SA. \nSan Lorenzo 25 - 3er piso - B° Nueva Córdoba\nLunes a viernes de 09.00 a 17.00hs \n\r\n\r\n            ",
    "operacion": "Venta",
    "precio": 150000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Oficina",
-   "direccion": "Anacreonte al 200",
+   "direccion": "Anacreonte 210",
    "barrio": "Alta Cordoba",
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Alta Cordoba",
    "ambientes": 7,
@@ -16683,12 +16545,28 @@
    "lng": "-64.1774039",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/8010827_5195327213526688863447187733391691635625189001127818535547661238998321873580.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8010827_5195327213526688863447187733391691635625189001127818535547661238998321873580_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/8010827_27851270493275454559226209090282707165427288854536279192608856155908802956558.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8010827_27851270493275454559226209090282707165427288854536279192608856155908802956558_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8010827_14518668609518341296864150620936792318609362460998109567672768240131317238622.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8010827_14518668609518341296864150620936792318609362460998109567672768240131317238622_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8010827_82804181635564491778983047835338068773171967894959969288289379385445227272718.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8010827_82804181635564491778983047835338068773171967894959969288289379385445227272718_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8010827_54622264655157796799161196200984986814804085404828124357525122107317284538795.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8010827_54622264655157796799161196200984986814804085404828124357525122107317284538795_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8010827_37087831002756376877965956343229757896987904235893389403127429055754571476050.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8010827_37087831002756376877965956343229757896987904235893389403127429055754571476050_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8010827_5195327213526688863447187733391691635625189001127818535547661238998321873580.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8010827_5195327213526688863447187733391691635625189001127818535547661238998321873580_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8010827_95298186073175725959371537821616244181733916437658161528683333252431626169054.jpg",
@@ -16707,10 +16585,6 @@
      "thumb": "https://static.tokkobroker.com/thumbs/8010827_72314777647905780237611926276825939633597255670519428343468990226167449946141_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/8010827_82804181635564491778983047835338068773171967894959969288289379385445227272718.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8010827_82804181635564491778983047835338068773171967894959969288289379385445227272718_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/8010827_100247390853810630714991888974655934207739287298686947913771469609479582894928.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8010827_100247390853810630714991888974655934207739287298686947913771469609479582894928_thumb.jpg"
     },
@@ -16719,20 +16593,16 @@
      "thumb": "https://static.tokkobroker.com/thumbs/8010827_49038606738172868603367982575441696346827637461610103355837232654130025464356_thumb.jpg"
     },
     {
+     "url": "https://static.tokkobroker.com/w_pics/8010827_10681746945444186079857699473216292919913379675802531701381854698215659045929.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8010827_10681746945444186079857699473216292919913379675802531701381854698215659045929_thumb.jpg"
+    },
+    {
      "url": "https://static.tokkobroker.com/w_pics/8010827_29036560983613499030293459989173431240449101888427422958344614330683684173823.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8010827_29036560983613499030293459989173431240449101888427422958344614330683684173823_thumb.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/8010827_14518668609518341296864150620936792318609362460998109567672768240131317238622.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8010827_14518668609518341296864150620936792318609362460998109567672768240131317238622_thumb.jpg"
-    },
-    {
      "url": "https://static.tokkobroker.com/w_pics/8010827_110935728023605411533339896727546887020557112425553033063612298356379219269522.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8010827_110935728023605411533339896727546887020557112425553033063612298356379219269522_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8010827_10681746945444186079857699473216292919913379675802531701381854698215659045929.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8010827_10681746945444186079857699473216292919913379675802531701381854698215659045929_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8010827_51935014517797832497815998601290188971698428768564558308439080523251889567272.jpg",
@@ -16757,10 +16627,6 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/8010827_17802825801991283157597951088875417283122838185143349396957255943778309773167.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8010827_17802825801991283157597951088875417283122838185143349396957255943778309773167_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8010827_37087831002756376877965956343229757896987904235893389403127429055754571476050.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8010827_37087831002756376877965956343229757896987904235893389403127429055754571476050_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8010827_108610500690463551761940733643029176714089941169698632332850392998968680645091.jpg",
@@ -16789,16 +16655,12 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/8010827_33267958136609435563571549258863488776528560446552548515308825236863495636300.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8010827_33267958136609435563571549258863488776528560446552548515308825236863495636300_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8010827_54622264655157796799161196200984986814804085404828124357525122107317284538795.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8010827_54622264655157796799161196200984986814804085404828124357525122107317284538795_thumb.jpg"
     }
    ],
    "video": null,
    "destacada": false,
    "creada": "2026-05-05T17:15:35",
-   "actualizada": "2026-06-04T14:10:08"
+   "actualizada": "2026-09-10T13:03:58"
   },
   {
    "id": 8016134,
@@ -26022,7 +25884,7 @@
    "titulo": "A reciclar. A mts. del Patio Olmos. 94m2 Cub.",
    "descripcion": "                A refaccionar. A mts. del Patio Olmos. Posesión inmediata. 94m2 Cubiertos. Amplios espacios. 2 dormitorios. 2 baños. Dependencia.\n\n\nUbicación: Av. Vélez Sarsfield 84 entre calles 27 de Abril y Dean Funes. Centro. Córdoba. \n\n\nCaracterísticas:\nPropiedad a refaccionar de amplios espacios.\nTercer piso. \nCocina separada.\nLavadero, toilette y dependencia.\nAmplio living comedor con calefactor y ventana de pared a pared.\nBaño completo con bañera.\n2 dormitorios con placard empotrado.\nVentilación cruzada. \n\n\nDesocupado. Posesión inmediata.\nEscritura e impuestos al día. Listo para ser transferido. \n\n\nConsultá y coordiná una visita para conocerlo!\n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nHabla con propiedad, habla con Juarez Beltran.San Lorenzo 25 - 3° piso - B° Nueva CordobaHorarios de atención: Lunes a Viernes de 09.00 a 17.00 hs\n\r\n\r\n            ",
    "operacion": "Venta",
-   "precio": 71000,
+   "precio": 65000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Departamento",
@@ -26040,6 +25902,10 @@
    "lat": "-31.4161299",
    "lng": "-64.1872637",
    "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/8588154_82187816000393221274409575175334577333517004477026320162309129110073463788718.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/8588154_82187816000393221274409575175334577333517004477026320162309129110073463788718_thumb.jpg"
+    },
     {
      "url": "https://static.tokkobroker.com/w_pics/8588154_45094084963729159706163611803277563493352459777281350606427941673903805995396.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8588154_45094084963729159706163611803277563493352459777281350606427941673903805995396_thumb.jpg"
@@ -26083,10 +25949,6 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/8588154_17806207727382280328418716313349624505109966020541061250698970365223579163044.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/8588154_17806207727382280328418716313349624505109966020541061250698970365223579163044_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/8588154_82187816000393221274409575175334577333517004477026320162309129110073463788718.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/8588154_82187816000393221274409575175334577333517004477026320162309129110073463788718_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/8588154_3009829017188178863982746745876878966747001584701512622144967757770111034046.jpg",
@@ -26192,7 +26054,7 @@
    "video": "https://www.youtube.com/embed/BpYOBB6K-5M",
    "destacada": false,
    "creada": "2026-08-05T15:09:11",
-   "actualizada": "2026-08-11T13:37:51"
+   "actualizada": "2026-09-10T14:38:52"
   },
   {
    "id": 8594329,
@@ -29003,21 +28865,21 @@
      "thumb": "https://static.tokkobroker.com/thumbs/9585965_12094049918441102740561646468287061808428598463317823528168538887558808220357_thu.jpg"
     }
    ],
-   "video": null,
+   "video": "https://www.youtube.com/embed/I8iJBvgyZQY",
    "destacada": false,
    "creada": "2026-09-07T16:31:42",
-   "actualizada": "2026-09-09T15:54:05"
+   "actualizada": "2026-09-10T13:07:02"
   },
   {
    "id": 9829106,
    "referencia": "JLO9829106",
-   "titulo": "Galpón 1000 mts. Polo Industrial 52 Nave Industrial en alquiler",
-   "descripcion": "                Excelente acceso y ubicación. Parque empresarial Polo 52. Predio industrial de jerarquía , seguridad 24 hs.\nNave industrial de 1000 mts cubiertos a estrenar  en alquiler, Planta libre con posibilidad de tabicar espacios de trabajo.\nConstruida mediante estructura metálica conformada con pórticos, realizados con el sistema de alma llena en su totalidad.\nEl pórtico base tiene 20 mts de frente, 8 mts de altura libre en los laterales y 9 mts en la cumbrera, ( nave de alta versatilidad y multiplicidad de usos).\nPiso de hormigón armado con malla del diámetro 6mm a eje neutro, con terminación de alisado.\nEn el lateral de la nave contamos con un segundo portón corredizo teniendo la posibilidad de aumentar los mts cubiertos ( 700 mts).\nEl sector de oficina y servicio puede adaptarse a las necesidades del locatario.\nPiso alto tránsito con playa de maniobra para camiones.\nPago mensual de expensas $ 1.100.000\n\r\n\r\n            ",
+   "titulo": "Galpón en alquiler, Polo Industrial 52 Nave Industrial",
+   "descripcion": "                                Ofrece GALPON con  excelente  acceso y ubicación. Parque empresarial Polo 52. Predio industrial de jerarquía , seguridad 24 hs.\nNave industrial de 1000 mts cubiertos a estrenar  en alquiler, Planta libre con posibilidad de tabicar espacios de trabajo.\nConstruida mediante estructura metálica conformada con pórticos, realizados con el sistema de alma llena en su totalidad.\nEl pórtico base tiene 20 mts de frente, 8 mts de altura libre en los laterales y 9 mts en la cumbrera, ( nave de alta versatilidad y multiplicidad de usos).\nPiso de hormigón armado con malla del diámetro 6mm a eje neutro, con terminación de alisado.\nEn el lateral de la nave contamos con un segundo portón corredizo teniendo la posibilidad de aumentar los mts cubiertos ( 700 mts).\nEl sector de oficina y servicio puede adaptarse a las necesidades del locatario.\nPiso alto tránsito con playa de maniobra para camiones.\nPago mensual de expensas $ 1.100.000\n\n\n            \r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 7000000,
    "moneda": "ARS",
    "muestra_precio": true,
-   "tipo": "Local",
+   "tipo": "Galpón",
    "direccion": "Autopista Córdoba Rosario , Colectora",
    "barrio": "Ferreyra",
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Ferreyra",
@@ -29080,7 +28942,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-09-08T14:17:23",
-   "actualizada": "2026-09-08T15:12:37"
+   "actualizada": "2026-09-10T14:34:01"
   },
   {
    "id": 9830155,
@@ -29353,66 +29215,146 @@
    "actualizada": "2026-09-08T19:19:53"
   },
   {
-   "id": 9862102,
-   "referencia": "JLA9862102",
-   "titulo": "Terreno en Colinas de Manantiales",
-   "descripcion": "Juarez Beltran ofrece este excelente lote , ya que tiene un frente de 14 m2, en Colinas de Manantiales, en Manantiales 2,en mismo tiene una ubicación central, con orientación SUR-NORTE y a dos cuadras de la Plaza .255 m2 y en una zona bastante consolidada en su entorno.\nComunicate con Consuelo : 3513749133\n",
-   "operacion": "Venta",
-   "precio": 60000,
-   "moneda": "USD",
+   "id": 9864823,
+   "referencia": "JAP9864823",
+   "titulo": "Depto de 1 dormitorio + cochera en Casonas del Sur",
+   "descripcion": "Depto 1 dormitorio. Cochera. Cocina Separada. Luminoso.\nUbicación: Malagueño 1074 - B° Jardín - Casonas del Sur.\n\n\nCaracterísticas:\nAmplio living comedor.\nCocina separada con muebles bajo mesada, alacenas, artefacto de cocina y caldera.\nBaño completo con bañera y vanitory.\nHabitación con placard empotrado.\n\n\nLa unidad cuenta con pisos de parquet, radiadores en cada ambiente y NO cuenta con balcón.\n\n\nCaracterísticas del complejo:\nUbicación estratégica: El complejo original se encuentra sobre la calle Malagueño 1074 (en la zona de Barrio Jardín). Por su parte, Casonas del Sur II se localiza a metros del Hospital Privado (intersección de Cruz Roja y Av. Vélez Sársfield), quedando a escasos minutos de la Ciudad Universitaria y de Plaza España. \nInfraestructura y Amenities: El predio está diseñado con grandes parques interiores y un alto nivel de equipamiento común. Entre sus servicios e instalaciones se destacan:\n- Seguridad privada con ingreso controlado las 24 horas.\n- Salón de Usos Múltiples (SUM) / Club House para eventos.\n- Piscina con solárium (para grandes y chicos).\n- Gimnasio totalmente equipado.\n\n\nImportante: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentra sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nHable con propiedad, hable con Juárez Beltrán.\nSan Lorenzo 25 - 3° piso - B° Nueva Córdoba.\n",
+   "operacion": "Alquiler",
+   "precio": 750000,
+   "moneda": "ARS",
    "muestra_precio": true,
-   "tipo": "Terreno",
-   "direccion": "Colinas de Manantiales mzna 65 Lote 17",
-   "barrio": "Colinas de Manantiales",
-   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Colinas de Manantiales",
-   "ambientes": 0,
-   "dormitorios": 0,
-   "banos": 0,
-   "cocheras": 0,
-   "sup_cubierta": "0.00",
-   "sup_total": "0.00",
-   "antiguedad": 0,
+   "tipo": "Departamento",
+   "direccion": "Malagueño al 1000",
+   "barrio": "Jardin",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Jardin",
+   "ambientes": 2,
+   "dormitorios": 1,
+   "banos": 1,
+   "cocheras": 1,
+   "sup_cubierta": "45.00",
+   "sup_total": "45.00",
+   "antiguedad": 26,
    "apto_credito": null,
-   "lat": "-31.4782387",
-   "lng": "-64.2655785",
+   "lat": "-31.4422665",
+   "lng": "-64.1810199",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/9862102_82468842459538909736286482637523553204066694438209145154881378598278328350522.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9862102_82468842459538909736286482637523553204066694438209145154881378598278328350522_thu.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/9864823_89727107862388666509200212635871577342667690769436974109984387575461139364195.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_89727107862388666509200212635871577342667690769436974109984387575461139364195_thu.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/9862102_10134585026461242577279068828043153256823161380926627674363941048419716286323.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9862102_10134585026461242577279068828043153256823161380926627674363941048419716286323_thu.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/9864823_11314589386409333414593230564705842283876778761515649907178440738329239479440.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_11314589386409333414593230564705842283876778761515649907178440738329239479440_thu.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/9862102_67434224213024319919043740024883210529662512789028775317126619378716263798577.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9862102_67434224213024319919043740024883210529662512789028775317126619378716263798577_thu.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/9864823_73675379170425957075790273802356331874349841898617572323427541287752370975490.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_73675379170425957075790273802356331874349841898617572323427541287752370975490_thu.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/9862102_71979890378376454958659241654997296189470933951888948014345628827030516805094.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9862102_71979890378376454958659241654997296189470933951888948014345628827030516805094_thu.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/9864823_13238840262410390258316684114526517569127756860990323155375142168300396533768.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_13238840262410390258316684114526517569127756860990323155375142168300396533768_thu.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/9862102_83663870078520384039538328519060175903753805683160146133448934711899591572560.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9862102_83663870078520384039538328519060175903753805683160146133448934711899591572560_thu.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/9864823_28737470859404473659424614395930450044057596021499563653795678179219280000933.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_28737470859404473659424614395930450044057596021499563653795678179219280000933_thu.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/9862102_45859292673129299730346192172057270159932277682401187793352569540452802763066.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9862102_45859292673129299730346192172057270159932277682401187793352569540452802763066_thu.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/9864823_84120875244937661676519040918568882698514265022037166251000883788031308417452.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_84120875244937661676519040918568882698514265022037166251000883788031308417452_thu.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/9862102_67752552065207857587373537298173352966242001940512713213406742211242426843730.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9862102_67752552065207857587373537298173352966242001940512713213406742211242426843730_thu.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/9864823_68600105337373719329111612517338752443175652722196663500099523952559648035493.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_68600105337373719329111612517338752443175652722196663500099523952559648035493_thu.jpg"
     },
     {
-     "url": "https://static.tokkobroker.com/w_pics/9862102_94352985297818558524484476817932231689438670887613776455706803885963930005510.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/9862102_94352985297818558524484476817932231689438670887613776455706803885963930005510_thu.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/9864823_74361282468496150846534623862955194675554937649516218003016950434314810730707.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_74361282468496150846534623862955194675554937649516218003016950434314810730707_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_47772574545653897244126333619339025900901481021118981184521359389837393603832.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_47772574545653897244126333619339025900901481021118981184521359389837393603832_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_70736525280300294297959651444712719108593997271446203483220725244320927341.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_70736525280300294297959651444712719108593997271446203483220725244320927341_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_53824034639727526298508749159942793352529172210989851047936759840017245563439.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_53824034639727526298508749159942793352529172210989851047936759840017245563439_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_79841154674555404532078090914942046265568661357267470891799452047179873761237.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_79841154674555404532078090914942046265568661357267470891799452047179873761237_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_28414882332333311270249399051496496216715629413183497286496696922675402516451.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_28414882332333311270249399051496496216715629413183497286496696922675402516451_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_33389766166829212590379977625269274487466117712723817785004627630468558131489.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_33389766166829212590379977625269274487466117712723817785004627630468558131489_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_45045839268233937455856212468511707600194939707631825496242716148648440781636.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_45045839268233937455856212468511707600194939707631825496242716148648440781636_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_83660583861342848309956815099759066378367751455445784668437498236255464444564.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_83660583861342848309956815099759066378367751455445784668437498236255464444564_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_18709586288842114084071034367739210963172418425181580522120852623055862254541.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_18709586288842114084071034367739210963172418425181580522120852623055862254541_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_96097905357403345004570842375301225342898361646610360851010710179516193933269.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_96097905357403345004570842375301225342898361646610360851010710179516193933269_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_90423339972788911686391112587983468291017769364237090341390958547945734292987.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_90423339972788911686391112587983468291017769364237090341390958547945734292987_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_10652638953701735257982588483946768809501239598983805868135980467461248503278.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_10652638953701735257982588483946768809501239598983805868135980467461248503278_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_70041929923424479990995161237315403367784994457553152019897695222482174917652.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_70041929923424479990995161237315403367784994457553152019897695222482174917652_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_4819251076713077355844910738863060553501044402560780778440081029056495272664.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_4819251076713077355844910738863060553501044402560780778440081029056495272664_thum.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_61134827126427922397324043300465294679847760036296303661549583828880512214023.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_61134827126427922397324043300465294679847760036296303661549583828880512214023_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_114269061725157076083741326575538501247428240198310639099430400050378485585039.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_114269061725157076083741326575538501247428240198310639099430400050378485585039_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_84323835870645120530242027833945385419252046874200055097850203385760827871071.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_84323835870645120530242027833945385419252046874200055097850203385760827871071_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_8561481583987266943167257977644797529762249655346762500579976201209667319930.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_8561481583987266943167257977644797529762249655346762500579976201209667319930_thum.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_84919477136428943047762617294997389515216693790743970871519192248545245687108.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_84919477136428943047762617294997389515216693790743970871519192248545245687108_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9864823_19106157602119487462963375227546131878734987262976878456895995791114415969092.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9864823_19106157602119487462963375227546131878734987262976878456895995791114415969092_thu.jpg"
     }
    ],
-   "video": null,
+   "video": "https://www.youtube.com/embed/i7z1LyO9W2M",
    "destacada": false,
-   "creada": "2026-09-09T16:47:53",
-   "actualizada": "2026-09-09T17:02:47"
+   "creada": "2026-09-10T12:16:00",
+   "actualizada": "2026-09-10T13:10:18"
   }
  ]
 }
