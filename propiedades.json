@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-10T22:12:56.353616+00:00",
- "total": 216,
+ "generado": "2026-09-11T00:48:02.302539+00:00",
+ "total": 217,
  "propiedades": [
   {
    "id": 471897,
@@ -29217,6 +29217,68 @@
    "destacada": false,
    "creada": "2026-09-08T17:24:28",
    "actualizada": "2026-09-08T19:19:53"
+  },
+  {
+   "id": 9862102,
+   "referencia": "JLA9862102",
+   "titulo": "Terreno en Colinas de Manantiales",
+   "descripcion": "Juarez Beltran ofrece este excelente lote , ya que tiene un frente de 14 m2, en Colinas de Manantiales, en Manantiales 2,en mismo tiene una ubicación central, con orientación SUR-NORTE y a dos cuadras de la Plaza .255 m2 y en una zona bastante consolidada en su entorno.\nComunicate con Consuelo : 3513749133\n",
+   "operacion": "Venta",
+   "precio": 60000,
+   "moneda": "USD",
+   "muestra_precio": true,
+   "tipo": "Terreno",
+   "direccion": "Colinas de Manantiales mzna 65 Lote 17",
+   "barrio": "Colinas de Manantiales",
+   "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Colinas de Manantiales",
+   "ambientes": 0,
+   "dormitorios": 0,
+   "banos": 0,
+   "cocheras": 0,
+   "sup_cubierta": "0.00",
+   "sup_total": "0.00",
+   "antiguedad": 0,
+   "apto_credito": null,
+   "lat": "-31.4782387",
+   "lng": "-64.2655785",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9862102_82468842459538909736286482637523553204066694438209145154881378598278328350522.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9862102_82468842459538909736286482637523553204066694438209145154881378598278328350522_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9862102_10134585026461242577279068828043153256823161380926627674363941048419716286323.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9862102_10134585026461242577279068828043153256823161380926627674363941048419716286323_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9862102_67434224213024319919043740024883210529662512789028775317126619378716263798577.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9862102_67434224213024319919043740024883210529662512789028775317126619378716263798577_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9862102_71979890378376454958659241654997296189470933951888948014345628827030516805094.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9862102_71979890378376454958659241654997296189470933951888948014345628827030516805094_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9862102_83663870078520384039538328519060175903753805683160146133448934711899591572560.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9862102_83663870078520384039538328519060175903753805683160146133448934711899591572560_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9862102_45859292673129299730346192172057270159932277682401187793352569540452802763066.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9862102_45859292673129299730346192172057270159932277682401187793352569540452802763066_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9862102_67752552065207857587373537298173352966242001940512713213406742211242426843730.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9862102_67752552065207857587373537298173352966242001940512713213406742211242426843730_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/9862102_94352985297818558524484476817932231689438670887613776455706803885963930005510.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/9862102_94352985297818558524484476817932231689438670887613776455706803885963930005510_thu.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2026-09-09T16:47:53",
+   "actualizada": "2026-09-11T00:24:49"
   },
   {
    "id": 9864823,
