@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-15T19:57:06.512737+00:00",
+ "generado": "2026-09-15T22:43:48.973429+00:00",
  "total": 214,
  "propiedades": [
   {
@@ -2985,8 +2985,8 @@
    "dormitorios": 3,
    "banos": 3,
    "cocheras": 2,
-   "sup_cubierta": "160.00",
-   "sup_total": "160.00",
+   "sup_cubierta": "180.00",
+   "sup_total": "180.00",
    "antiguedad": 3,
    "apto_credito": null,
    "lat": "-31.4842564",
@@ -3136,7 +3136,7 @@
    "video": null,
    "destacada": false,
    "creada": "2023-04-19T13:57:14",
-   "actualizada": "2026-09-14T14:37:36"
+   "actualizada": "2026-09-15T20:38:51"
   },
   {
    "id": 5123296,
