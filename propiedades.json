@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-30T16:37:55.811472+00:00",
- "total": 204,
+ "generado": "2026-09-30T21:10:55.676362+00:00",
+ "total": 205,
  "propiedades": [
   {
    "id": 471897,
@@ -1533,6 +1533,68 @@
    "actualizada": "2026-09-18T13:53:29"
   },
   {
+   "id": 4263226,
+   "referencia": "JLA4263226",
+   "titulo": "Terreno en VENTA - Villa Allende Golf - Lote 17",
+   "descripcion": "                                    JUAREZ BELTRAN VILLA ALLENDE - VENDE:\n\n\nPROPIEDAD/CARACTERÍSTICAS: Espectacular lote plano, con vista a las sierras, orientación Este, a metros de espacio verde, alambrado en su fondo y costados, tiene jazmín amarillo y un pequeño bosque de árboles autóctonos al fondo!\n\n\nContacto: María Josefina García 3515189281.\n\n        \n        \r\n        ",
+   "operacion": "Venta",
+   "precio": 128000,
+   "moneda": "USD",
+   "muestra_precio": true,
+   "tipo": "Terreno",
+   "direccion": "Villa Allende - Villa Allende Golf - Altos del Golf - Lote 17",
+   "barrio": "Villa Allende Golf",
+   "ubicacion_completa": "Argentina | Cordoba | Colon | Villa Allende | Villa Allende Golf",
+   "ambientes": 0,
+   "dormitorios": 0,
+   "banos": 0,
+   "cocheras": 0,
+   "sup_cubierta": "0.00",
+   "sup_total": "0.00",
+   "antiguedad": 0,
+   "apto_credito": null,
+   "lat": "-31.2697175207",
+   "lng": "-64.2897626312",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/water_pics/112063528108917136087635438700241298353306354701719539183340984007342628773422.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/112063528108917136087635438700241298353306354701719539183340984007342628773422_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/74967035247901229802250577407519948793977865853084793410729032365337930856338.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/74967035247901229802250577407519948793977865853084793410729032365337930856338_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/80264094300859455576991825176435851533366173424516538100236985279585651386651.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/80264094300859455576991825176435851533366173424516538100236985279585651386651_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/19402166197282803425163026280829443394454597694138162350013677704806328881788.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/19402166197282803425163026280829443394454597694138162350013677704806328881788_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/103596178323634446484974471136505672707421847298282691263062476482031647220185.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/103596178323634446484974471136505672707421847298282691263062476482031647220185_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/102430839765305925188437263207798762991240485395571882674022574361558663229273.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/102430839765305925188437263207798762991240485395571882674022574361558663229273_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/68092756019070400045099391976755941587454832319529251807933666965497748748104.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/68092756019070400045099391976755941587454832319529251807933666965497748748104_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/359868540871844860854462303006411317972724850800933085620205378209918508923.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/359868540871844860854462303006411317972724850800933085620205378209918508923_thumb.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": true,
+   "creada": "2022-03-16T21:08:54",
+   "actualizada": "2026-09-30T20:43:56"
+  },
+  {
    "id": 4353971,
    "referencia": "JLA4353971",
    "titulo": "¡SE VENDE! Lote Terreno - Siete Soles - Alqarias - 600 m2",
@@ -2604,7 +2666,7 @@
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Casa",
-   "direccion": "Casa Alquiler - Verandas - B° Siete Soles -  3 Dor.",
+   "direccion": "Casa VENTA - Verandas - B° Siete Soles -  3 Dor.",
    "barrio": "Siete Soles Naturaleza Urbana",
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Siete Soles Naturaleza Urbana",
    "ambientes": 5,
@@ -2854,7 +2916,7 @@
    "video": "https://www.youtube.com/embed/wYBJubaNBLM",
    "destacada": false,
    "creada": "2023-05-10T17:51:08",
-   "actualizada": "2026-09-25T15:56:59"
+   "actualizada": "2026-09-30T17:04:46"
   },
   {
    "id": 5123296,
@@ -18688,7 +18750,7 @@
    "titulo": "Alquiler local comercial en Cofico",
    "descripcion": "JUAREZ BELTRAN VILLA ALLENDE – ALQUILA\nLocal comercial en el barrio de Cofico, sobre calle Rivera Indarte entre J.M. Bedoya y J. del Campillo; a pocas cuadras de las Av. Juan B Justo.\nEl local cuenta con 36m2, pisos de porcelanato, una mesada de granito de apoyo y un baño privado con espejo y ventilación. Vidriera y puerta protegida por rejas.\nContrato a 24 meses con ajuste trimestral por IPC. \nEl valor de las expensas incluye agua y municipalidad.\nLocal disponible a partir del 01/08/2026.-\t\n\n\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Mariana Magliano. Tel: 3516164296. mmagliano@juarezbeltran.com.ar\n",
    "operacion": "Alquiler",
-   "precio": 500000,
+   "precio": 480000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Local",
@@ -18802,7 +18864,7 @@
    "video": "https://www.youtube.com/embed/YxZjeKigzpE?feature=share",
    "destacada": true,
    "creada": "2026-06-12T21:26:19",
-   "actualizada": "2026-09-21T17:42:19"
+   "actualizada": "2026-09-30T16:42:11"
   },
   {
    "id": 8352738,
@@ -28140,7 +28202,7 @@
    "video": "https://www.youtube.com/embed/v1G7071V6Lc?feature=share",
    "destacada": false,
    "creada": "2026-09-25T17:57:36",
-   "actualizada": "2026-09-29T14:52:18"
+   "actualizada": "2026-09-30T17:01:49"
   }
  ]
 }
