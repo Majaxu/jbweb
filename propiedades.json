@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-02T16:27:56.984764+00:00",
+ "generado": "2026-10-02T21:08:04.362414+00:00",
  "total": 205,
  "propiedades": [
   {
@@ -243,14 +243,14 @@
   {
    "id": 473950,
    "referencia": "3306",
-   "titulo": "Local Comercial - Frente Patio Olmos Bº Centro",
-   "descripcion": "GRAN LOCAL COMERCIAL EN ALQUILER | 230 M² | FRENTE AL PATIO OLMOS\nLas mejores marcas eligen ubicaciones estratégicas. Excelente local comercial sobre calle Obispo Trejo 300, justo frente a la salida del Patio Olmos, uno de los puntos con mayor circulación peatonal de la ciudad.\n¿Por qué es una oportunidad única?\nUbicación privilegiada: Frente a la salida del Patio Olmos, con un flujo constante de potenciales clientes.Amplios espacios: 230 m² totales distribuidos en 150 m² de planta baja y 80 m² de entrepiso, ideales para distintos rubros comerciales.Excelente frente comercial: Aproximadamente 7 metros de vidriera por 20 metros de fondo, brindando gran presencia y visibilidad.Estado impecable: Pisos de porcelanato en planta baja, entrepiso con entablonado de madera y equipo de aire acondicionado central.Máxima exposición: Al tratarse de una propiedad individual, cuenta con todo el espacio aéreo disponible para instalar cartelería o publicidad de gran impacto.\n\n\nJUÁREZ BELTRÁN S.A.San Lorenzo 25 - 3.er piso - B° Nueva Córdoba | Lunes a Viernes de 09:00 a 17:00 hs.Tel. (llamadas): 351 4214400 | Tel. (WhatsApp): 351 2393704\n",
+   "titulo": "Imponente local comercial - Frente Patio Olmos Bº Centro",
+   "descripcion": "                GRAN LOCAL COMERCIAL EN ALQUILER | 230 M² | FRENTE AL PATIO OLMOS\nLas mejores marcas eligen ubicaciones estratégicas. Excelente local comercial sobre calle Obispo Trejo 300, justo frente a la salida del Patio Olmos, uno de los puntos con mayor circulación peatonal de la ciudad.\n¿Por qué es una oportunidad única?\nUbicación privilegiada: Frente a la salida del Patio Olmos, con un flujo constante de potenciales clientes.Amplios espacios: 230 m² totales distribuidos en 150 m² de planta baja y 80 m² de entrepiso, ideales para distintos rubros comerciales.Excelente frente comercial: Aproximadamente 7 metros de vidriera por 20 metros de fondo, brindando gran presencia y visibilidad.Estado impecable: Pisos de porcelanato en planta baja, entrepiso con entablonado de madera y equipo de aire acondicionado central.Máxima exposición: Al tratarse de una propiedad individual, cuenta con todo el espacio aéreo disponible para instalar cartelería o publicidad de gran impacto.\n\nJUÁREZ BELTRÁN S.A.San Lorenzo 25 - 3.er piso - B° Nueva Córdoba\r\n\r\n            ",
    "operacion": "Alquiler",
    "precio": 6500000,
    "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Local",
-   "direccion": "Obispo Trejo 300",
+   "direccion": "Obispo Trejo 300 - Frente a Patio Olmos",
    "barrio": "Nueva Cordoba",
    "ubicacion_completa": "Argentina | Cordoba | Cordoba Capital | Nueva Cordoba",
    "ambientes": 1,
@@ -261,13 +261,9 @@
    "sup_total": "230.00",
    "antiguedad": 10,
    "apto_credito": null,
-   "lat": "-31.404529",
-   "lng": "-6.418954",
+   "lat": "-31.42001248790512",
+   "lng": "-64.18711648893738",
    "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/473950_99265277048426942895032168375882970020422786576706461515341775145407027651276.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/473950_99265277048426942895032168375882970020422786576706461515341775145407027651276_thumb.jpg"
-    },
     {
      "url": "https://static.tokkobroker.com/w_pics/473950_68348476419580132132453447849221366037588507979602570839120347156012714900181.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/473950_68348476419580132132453447849221366037588507979602570839120347156012714900181_thumb.jpg"
@@ -295,6 +291,10 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/473950_67881115228044921179990735772628329210693364822440636891165160102461752721558.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/473950_67881115228044921179990735772628329210693364822440636891165160102461752721558_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/473950_99265277048426942895032168375882970020422786576706461515341775145407027651276.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/473950_99265277048426942895032168375882970020422786576706461515341775145407027651276_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/473950_50347375031890457133551807857787062313409807910123734379243070568097357864052.jpg",
@@ -348,7 +348,7 @@
    "video": null,
    "destacada": false,
    "creada": "2017-07-30T20:45:13",
-   "actualizada": "2026-09-24T14:54:18"
+   "actualizada": "2026-10-02T17:02:55"
   },
   {
    "id": 474482,
@@ -2597,7 +2597,7 @@
   {
    "id": 5031907,
    "referencia": "JHO5031907",
-   "titulo": "CASA EN VENTA - VERANDAS 7 SOLES - 3 DORMITORIOS",
+   "titulo": "B° 7 Soles - 3 dormitorios - Galería con asador - Pileta",
    "descripcion": "VERANDAS 7 SOLES - 3 DORMITORIOS - JARDÍN Y GALERIA CON ASADOR\nTE INVITAMOS A VIVIR EN LA CIMA DE 7 SOLES | Exclusiva Casa en el Corazón del Barrio Verandas\nJuárez Beltrán S.A. presenta una oportunidad única en Verandas, Se trata de un entorno consolidado, donde la seguridad, la naturaleza y el prestigio se encuentran en su máxima expresión. Esta propiedad ofrece el balance perfecto entre vida familiar y categoría.\nCaracterísticas:Planta BajaAl ingresar, te recibe un hall de distribución espacioso que anticipa la amplitud de la casa. El protagonista es el living comedor, bañado de luz natural, diseñado para conectarse fluidamente con el exterior. La cocina, completamente equipada y funcional, complementa el área social junto a un lavadero independiente y toilette.La vida se extiende hacia afuera: una amplia galería con asador se convierte en el espacio ideal para reuniones todo el año, con vistas a un generoso jardín verde coronado por una pileta.\nPlanta AltaLa zona de descanso se desarrolla en la planta superior, ofreciendo privacidad absoluta. Cuenta con tres dormitorios en total. La master suite se destaca por su baño privado y un vestidor de grandes dimensiones. Los dos dormitorios secundarios, cómodos y luminosos con placards empotrados e interiores, comparten un baño completo cob bañera.\nComercializa: JUÁREZ BELTRÁN S.A.Para más información, consultar aquí:CÓRDOBA CASA CENTRAL – San Lorenzo 25. 3° Piso– Nva. Cba – TEL: +54 3514214400 | WHATSAPP: +54 3513470043– jbeltran@juarezbeltran.com.ar\n\n\n\n\n\n        \n",
    "operacion": "Venta",
    "precio": 340000,
@@ -2619,8 +2619,8 @@
    "lng": "-64.2925431",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/water_pics/35997825089504380238711891749733863108126917409124733204019532870341276162529.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/35997825089504380238711891749733863108126917409124733204019532870341276162529_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/5031907_24567739348809318077599730042039965117547497511624652328735354455657527647170.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/5031907_24567739348809318077599730042039965117547497511624652328735354455657527647170_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/water_pics/82983640707857660806842429444369475599959592413895085311932334477427204887490.jpg",
@@ -2649,10 +2649,6 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/5031907_4600859356121519962167098814217642264386256372150464604452495512736074943038.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/5031907_4600859356121519962167098814217642264386256372150464604452495512736074943038_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/5031907_24567739348809318077599730042039965117547497511624652328735354455657527647170.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/5031907_24567739348809318077599730042039965117547497511624652328735354455657527647170_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/5031907_7572321075107402428265900513697342811212570208809525130524393974729563731754.jpg",
@@ -2729,6 +2725,10 @@
     {
      "url": "https://static.tokkobroker.com/water_pics/51155641588930975396732826396105637637474981763074513117763654828982137098638.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/51155641588930975396732826396105637637474981763074513117763654828982137098638_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/water_pics/35997825089504380238711891749733863108126917409124733204019532870341276162529.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/35997825089504380238711891749733863108126917409124733204019532870341276162529_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/water_pics/85676972174409124478266756344098342283786789727232522064361990622008589228183.jpg",
@@ -2854,7 +2854,7 @@
    "video": "https://www.youtube.com/embed/wYBJubaNBLM",
    "destacada": false,
    "creada": "2023-05-10T17:51:08",
-   "actualizada": "2026-09-30T17:04:46"
+   "actualizada": "2026-10-02T16:58:08"
   },
   {
    "id": 5123296,
@@ -8961,16 +8961,12 @@
    "lng": "-64.1876962",
    "fotos": [
     {
-     "url": "https://static.tokkobroker.com/w_pics/7453988_17218366537286695356639746716541837822628208655666700305581447007016671391314.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7453988_17218366537286695356639746716541837822628208655666700305581447007016671391314_thumb.jpg"
+     "url": "https://static.tokkobroker.com/w_pics/7453988_49062424308825570742831696085455806142333274200962161115848569837907995195540.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7453988_49062424308825570742831696085455806142333274200962161115848569837907995195540_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7453988_86370969107235984167601902360756454931147854153668425635382084454157569599347.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7453988_86370969107235984167601902360756454931147854153668425635382084454157569599347_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7453988_49062424308825570742831696085455806142333274200962161115848569837907995195540.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7453988_49062424308825570742831696085455806142333274200962161115848569837907995195540_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7453988_3177135494710537408019009458285244418820307580123316544758466793960731375285.jpg",
@@ -9023,6 +9019,10 @@
     {
      "url": "https://static.tokkobroker.com/w_pics/7453988_27709112109818642398932802312686504306604675155902652006724237970436545922315.jpg",
      "thumb": "https://static.tokkobroker.com/thumbs/7453988_27709112109818642398932802312686504306604675155902652006724237970436545922315_thumb.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/7453988_17218366537286695356639746716541837822628208655666700305581447007016671391314.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/7453988_17218366537286695356639746716541837822628208655666700305581447007016671391314_thumb.jpg"
     },
     {
      "url": "https://static.tokkobroker.com/w_pics/7453988_19498982530522500276260270315699635372380948908121719346291222028073067895268.jpg",
@@ -9088,7 +9088,7 @@
    "video": "https://www.youtube.com/embed/umoezmEkURo",
    "destacada": false,
    "creada": "2025-10-24T17:22:54",
-   "actualizada": "2026-07-29T16:34:24"
+   "actualizada": "2026-10-02T16:56:17"
   },
   {
    "id": 7477699,
