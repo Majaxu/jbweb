@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-13T23:34:31.184404+00:00",
- "total": 203,
+ "generado": "2026-10-14T15:40:12.565909+00:00",
+ "total": 202,
  "propiedades": [
   {
    "id": 471897,
@@ -7102,7 +7102,7 @@
    "titulo": "Terreno en Venta la casacda country golf",
    "descripcion": "            Juarez Beltran ofrece en venta este lote en barrio La Cascada,el barrio con seguridad,espacios verdes,amenities y lotes de gran tamaño que esta ubicado esrtratgjicamente cercano a circunvalación y cercano a zona Norte y Sur de la Ciudad,dentro de Manantiales 2.\nEl lote se ubica en mzna 13 en una zona bastante consolidada,su orientación es NORTE-SUR y esta en la parte alta ,permitiendo obtener vistas privilegiadas a las sierras de Córdoba.\n",
    "operacion": "Venta",
-   "precio": 250000,
+   "precio": 235000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Terreno",
@@ -7140,7 +7140,7 @@
    "video": null,
    "destacada": false,
    "creada": "2025-08-06T15:20:57",
-   "actualizada": "2025-08-07T02:14:27"
+   "actualizada": "2026-10-14T14:10:22"
   },
   {
    "id": 7233641,
@@ -14787,92 +14787,6 @@
    "actualizada": "2026-09-21T17:59:27"
   },
   {
-   "id": 7995808,
-   "referencia": "JHO7995808",
-   "titulo": "Casa en Estancia Q2",
-   "descripcion": "JUAREZ BELTRAN Villa Allende VendeHermosa casa en Barrio Q2, Mendiolaza. La casa se desarrolla en 2 plantas, goza de espacios amplios, luminosos, con privilegiada vista, y en un entorno verde y tranquilo. Con detalles de calidad, estructura sólida, super funcional, espacios previstos para la vida en familia y social. Quincho independiente, galeria con asador, cava, dependencia de servicio, lavadero, grandes lugares para guardado, frontón de tennis, pileta, escritorio. \nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – María Josefina Garcia 3515189281Creado por:\nJosefina Garcia 29/04/2026 - 12:51\n                \r\n            \n",
-   "operacion": "Venta",
-   "precio": 550000,
-   "moneda": "USD",
-   "muestra_precio": true,
-   "tipo": "Casa",
-   "direccion": "Estancia Q2, Mendiolaza",
-   "barrio": "Estancia Q2",
-   "ubicacion_completa": "Argentina | Cordoba | Colon | Mendiolaza | Estancia Q2",
-   "ambientes": 10,
-   "dormitorios": 3,
-   "banos": 5,
-   "cocheras": 5,
-   "sup_cubierta": "560.00",
-   "sup_total": "600.00",
-   "antiguedad": 20,
-   "apto_credito": null,
-   "lat": "-31.2650699",
-   "lng": "-64.3205565",
-   "fotos": [
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_86130983795258563129525288056698461343822534739928943838806743762941538072762.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_86130983795258563129525288056698461343822534739928943838806743762941538072762_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_72588714331177721844715989897446457891354601994564747850978913709204926461465.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_72588714331177721844715989897446457891354601994564747850978913709204926461465_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_66773352532607324638344980894884587576575400254699947031171634223867923142457.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_66773352532607324638344980894884587576575400254699947031171634223867923142457_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_65443643824371495185751307026058170042049189452432268163701969860748893063716.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_65443643824371495185751307026058170042049189452432268163701969860748893063716_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_16302405398608056173705927782718946800972597787231536975958762131417893619705.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_16302405398608056173705927782718946800972597787231536975958762131417893619705_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_61131749686852283049708224461362343751452784205786907269068113920890259989352.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_61131749686852283049708224461362343751452784205786907269068113920890259989352_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_114054736245846435526031086983630195966780682860229826340039092213397147158001.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_114054736245846435526031086983630195966780682860229826340039092213397147158001_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_30345945412514055187119172433720619673357848248266213982979566374401406733618.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_30345945412514055187119172433720619673357848248266213982979566374401406733618_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_14521898975152591565115643189479184413242927784943666747379374179072947257926.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_14521898975152591565115643189479184413242927784943666747379374179072947257926_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_52376420201857572664777649370356693432166295490574369513765148874258798258513.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_52376420201857572664777649370356693432166295490574369513765148874258798258513_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_68835285735041046974524424806705670579329313598076522635781375938174112775083.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_68835285735041046974524424806705670579329313598076522635781375938174112775083_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_90965908843985851004409085085776908346001324265254321622345880540353298206381.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_90965908843985851004409085085776908346001324265254321622345880540353298206381_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_105266142537836588619170904298535702403537356656476584579117681623850413066645.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_105266142537836588619170904298535702403537356656476584579117681623850413066645_thumb.jpg"
-    },
-    {
-     "url": "https://static.tokkobroker.com/w_pics/7995808_33848611811138863475519805737689001004366243044287604847209896249036536443134.jpg",
-     "thumb": "https://static.tokkobroker.com/thumbs/7995808_33848611811138863475519805737689001004366243044287604847209896249036536443134_thumb.jpg"
-    }
-   ],
-   "video": null,
-   "destacada": false,
-   "creada": "2026-04-29T15:51:33",
-   "actualizada": "2026-09-17T13:03:38"
-  },
-  {
    "id": 8002545,
    "referencia": "JHO8002545",
    "titulo": "Venta–Casa 3 dormitorios con dependencia de servicio–Country El Terrón a ESTRENAR",
@@ -15288,7 +15202,7 @@
    "titulo": "Casa en VENTA ,3 dormit,2 baños,jardin cochera cubierta ,APTA CREDITO!!!",
    "descripcion": "                APTA CRÉDITO | 2 DORMITORIOS | JARDÍN CON ASADOR | COCHERA\n\n\nCasa en Venta en Barrio Parque Horizonte, calle Tirol.\n\n\nCaracterísticas de la unidad:\n* Cochera\n* Hall de ingreso\n* Estar - Comedor\n* Cocina - Comedor\n* Lavadero\n* 2 Dormitorios conplacard\n* Baño completo\n* 1 Dormitorio con placard y baño en suite\n* Jardin con asador \n\n\nJUAREZ BELTRAN - GUILLERMINA MACIAS\nAv Richieri 3276 - 1piso - B° Jardín Espinosa\n3513471395 / 3513749133\n\r\n            ",
    "operacion": "Venta",
-   "precio": 87000,
+   "precio": 83000,
    "moneda": "USD",
    "muestra_precio": true,
    "tipo": "Casa",
@@ -15366,7 +15280,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-05-05T16:06:40",
-   "actualizada": "2026-08-05T12:21:34"
+   "actualizada": "2026-10-14T12:57:43"
   },
   {
    "id": 8010827,
