@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-22T01:09:40.537678+00:00",
- "total": 204,
+ "generado": "2026-10-22T15:46:15.539566+00:00",
+ "total": 205,
  "propiedades": [
   {
    "id": 471897,
@@ -5674,8 +5674,8 @@
    "titulo": "Casa en  Venta 3 dorm,3 baños,cochera doble,jardin -Altos de Manantiales-",
    "descripcion": "                            Juarez Beltran ofrece en venta esta casa ubicada en barrio- Altos de Manantiales- el cual esta a mts de circunvalación .En el corazón de Manantiales 1.Barrio con seguridad las24hs.\nCaracteristicas:\nPlanta Baja\n* Hall ingreso\n* Estar Comedor\n* Toilette\n* Cocina -Comedor\n* Dormitorio c/ baño en suite, ducha escocesa,vestidor, AA\n* Cochera con asador para usar como quincho.\n* Jardín\nPlanta Alta \n* Hall de distribución\n* Dos dormitorios con placard\n* Baño completo\nLa casa esta construida con materiales de primera calidad, porcelanatos, aberturas de aluminio,mesadas de granito, excelentes artefactos y grifería,pisos de madera en dormitorios. Calefacción por radiadores. \n\n        \r\n\r\n            ",
    "operacion": "Venta",
-   "precio": 360000,
-   "moneda": "USD",
+   "precio": 2500000,
+   "moneda": "ARS",
    "muestra_precio": true,
    "tipo": "Casa",
    "direccion": "Altos de Manantiales mzna 34 lote27",
@@ -5952,7 +5952,7 @@
    "video": null,
    "destacada": false,
    "creada": "2025-01-29T16:59:04",
-   "actualizada": "2026-09-08T15:47:04"
+   "actualizada": "2026-10-22T12:32:54"
   },
   {
    "id": 6838491,
@@ -27577,6 +27577,188 @@
    "destacada": true,
    "creada": "2026-10-21T12:59:31",
    "actualizada": "2026-10-21T13:08:48"
+  },
+  {
+   "id": 12431471,
+   "referencia": "JHO12431471",
+   "titulo": "Duplex de 3 dormitorios. Terreno 380m2. 145m2 Cubiertos.",
+   "descripcion": "Duplex. Terreno 380m2. 145m2 cubiertos. 3 dormitorios. Galería con asador. Luminoso. Escritura. Apto Crédito.\nUbicación: General Belgrano 498. Se encuentra en el ingreso al loteo \"Los Aromos\" camino a Cabana Unquillo.\nCaracterísticas: La propiedad se desarrolla en dos plantas. \nIngresando por Planta Baja te recibirá un amplio living comedor con aire acondicionado, \"salamandra\" y puertas ventanas hacia la galería con asador. A la derecha del ingreso cocina separada con muebles sobre y bajo mesada, espacio para heladera y lavaropas.\nPor pasillo toilette de uso social y dormitorio/escritorio (No tiene placard).\nPor escalera en Planta Alta 2 dormitorios con placares e interiores de buenas dimensiones, y un baño completo con ducha y sanitarios en buen estado.\nEl ingreso a la propiedad es por pasillo privado con ingreso con luz y cochera semicubierta.\nLas aberturas son de aluminio con rejas, la carpinteria interior en madera y los pisos de porcelanato. El gas es Envasado (No tiene tubo).\nEscritura. Apto crédito.\nOrientación Este.\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\nHable con propiedad, hable con Juárez Beltrán.San Lorenzo 25 - 3er piso. B° Nueva Córdoba.                \r\n\r\n            \n",
+   "operacion": "Venta",
+   "precio": 110000,
+   "moneda": "USD",
+   "muestra_precio": true,
+   "tipo": "Casa",
+   "direccion": "General Belgrano al 400",
+   "barrio": "Unquillo",
+   "ubicacion_completa": "Argentina | Cordoba | Colon | Unquillo",
+   "ambientes": 4,
+   "dormitorios": 3,
+   "banos": 2,
+   "cocheras": 1,
+   "sup_cubierta": "103.80",
+   "sup_total": "145.39",
+   "antiguedad": 12,
+   "apto_credito": null,
+   "lat": "-31.2219959",
+   "lng": "-64.32586359999999",
+   "fotos": [
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_80018791008548177478054239949603598451727047539980720770540239868060133093241.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_80018791008548177478054239949603598451727047539980720770540239868060133093241_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_59825324915617990164774800108236730832575970741236431909964474231009876248254.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_59825324915617990164774800108236730832575970741236431909964474231009876248254_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_56602602619617267441070272367239553094088270685546198591523420385639766455155.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_56602602619617267441070272367239553094088270685546198591523420385639766455155_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_12848285896214223536821012618246393471640371430583958871685411562692573958202.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_12848285896214223536821012618246393471640371430583958871685411562692573958202_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_53973885218988872121526829813221606885542498998603651338938096133606274003205.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_53973885218988872121526829813221606885542498998603651338938096133606274003205_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_24481933551173078828763314221508401419318983779527961225777283814334315216109.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_24481933551173078828763314221508401419318983779527961225777283814334315216109_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_67105964372255843479948452155921257541243621293940355726521265387432401274393.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_67105964372255843479948452155921257541243621293940355726521265387432401274393_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_74737103609999157568046688166252654167873560858967814096978338379185422769227.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_74737103609999157568046688166252654167873560858967814096978338379185422769227_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_106886195929369932401226553105135739670792816359923570467329811014681151822787.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_106886195929369932401226553105135739670792816359923570467329811014681151822787_t.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_107534057316995192632623897794405173751758839648419165439229105191610280214592.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_107534057316995192632623897794405173751758839648419165439229105191610280214592_t.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_79782007317398735705327872739814365322840138186971517742448065517296434080682.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_79782007317398735705327872739814365322840138186971517742448065517296434080682_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_49045383706778491487200265199268270951943681608591455289845625160182105406147.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_49045383706778491487200265199268270951943681608591455289845625160182105406147_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_27483051421059499661257148556352261671122737497168245343231958938943072588912.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_27483051421059499661257148556352261671122737497168245343231958938943072588912_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_76832066753643103433446874637423157965987446022355208986639621288532674151370.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_76832066753643103433446874637423157965987446022355208986639621288532674151370_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_110141850061324111459840990803313010893260000932173531916145705668409722225225.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_110141850061324111459840990803313010893260000932173531916145705668409722225225_t.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_79103328315626557079747247509105231629841629267781821069583170472787439508976.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_79103328315626557079747247509105231629841629267781821069583170472787439508976_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_101227806449673155306418192985329338910391295243966059663120799574951097022507.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_101227806449673155306418192985329338910391295243966059663120799574951097022507_t.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_10341978282758465781798705203058179727493450932702591676386337267676409295013.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_10341978282758465781798705203058179727493450932702591676386337267676409295013_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_14509366546705589789020430768114318124004972950851713317379489268801043136304.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_14509366546705589789020430768114318124004972950851713317379489268801043136304_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_59593221644641518749601993590589222865044323751467710305389602836876566200515.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_59593221644641518749601993590589222865044323751467710305389602836876566200515_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_10212634728039608656520442023253209470471533706631120967585517122467242293171.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_10212634728039608656520442023253209470471533706631120967585517122467242293171_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_60761646932939449914991264059997343253283363489598244196219386097910789347925.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_60761646932939449914991264059997343253283363489598244196219386097910789347925_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_22994930509036566680183648313808111487710309775331214420184104920460160804480.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_22994930509036566680183648313808111487710309775331214420184104920460160804480_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_104385112165601359611975493525566149842489073796182671363058192687423244969494.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_104385112165601359611975493525566149842489073796182671363058192687423244969494_t.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_54889726376732347089089998394192799142311674359631108993636194750123540954994.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_54889726376732347089089998394192799142311674359631108993636194750123540954994_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_30215576822186315497685660526471566692073693807494826227941849639227749589477.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_30215576822186315497685660526471566692073693807494826227941849639227749589477_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_29798945898856531963371091169658064437580135680542097438773332463578413947859.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_29798945898856531963371091169658064437580135680542097438773332463578413947859_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_5635645425873437361955994092826517030494826371471083517137388341670103346590.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_5635645425873437361955994092826517030494826371471083517137388341670103346590_thu.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_39239565777031921591631825831425985150051066174812639527899119968404925504473.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_39239565777031921591631825831425985150051066174812639527899119968404925504473_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_83316261887081874407385666181730731272751580072515032298710329668787665937083.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_83316261887081874407385666181730731272751580072515032298710329668787665937083_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_79878586680598658665892742955930308092299451848694292989922422887072000809768.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_79878586680598658665892742955930308092299451848694292989922422887072000809768_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_42410765667054625013752951075200535581749192708091566732173632521218035814309.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_42410765667054625013752951075200535581749192708091566732173632521218035814309_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_10525907809825684461451311590270272797351715864379786171364637804387893018029.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_10525907809825684461451311590270272797351715864379786171364637804387893018029_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_36722984477419593899870943904909955249617995416160060584095900039570286548817.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_36722984477419593899870943904909955249617995416160060584095900039570286548817_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_26406906418381727532883589802481999338713069418787718959012062654291615751086.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_26406906418381727532883589802481999338713069418787718959012062654291615751086_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_28688823689090819796733841550053688801038238224031177392145082830655641152660.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_28688823689090819796733841550053688801038238224031177392145082830655641152660_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_12834444204074106900698557917949427600610017087149393990677808658723446686789.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_12834444204074106900698557917949427600610017087149393990677808658723446686789_th.jpg"
+    },
+    {
+     "url": "https://static.tokkobroker.com/w_pics/12431471_62806502125252903938693907749361162439064431804452893021290365065501814014610.jpg",
+     "thumb": "https://static.tokkobroker.com/thumbs/12431471_62806502125252903938693907749361162439064431804452893021290365065501814014610_th.jpg"
+    }
+   ],
+   "video": null,
+   "destacada": false,
+   "creada": "2026-10-22T14:54:44",
+   "actualizada": "2026-10-22T15:10:14"
   }
  ]
 }
