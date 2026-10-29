@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-29T02:03:37.345745+00:00",
+ "generado": "2026-10-29T17:17:24.301042+00:00",
  "total": 203,
  "propiedades": [
   {
@@ -21509,8 +21509,8 @@
    "dormitorios": 0,
    "banos": 1,
    "cocheras": 0,
-   "sup_cubierta": "0.00",
-   "sup_total": "0.00",
+   "sup_cubierta": "50.00",
+   "sup_total": "50.00",
    "antiguedad": 10,
    "apto_credito": null,
    "lat": "-31.2941973",
@@ -21540,7 +21540,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-08-10T15:18:02",
-   "actualizada": "2026-09-21T17:53:26"
+   "actualizada": "2026-10-29T14:15:01"
   },
   {
    "id": 8638506,
@@ -27207,7 +27207,7 @@
   {
    "id": 12840381,
    "referencia": "JAP12840381",
-   "titulo": "ALQUILER - Departamento de dos dormitorios",
+   "titulo": "ALQUILER - Departamento de tres dormitorios",
    "descripcion": "Ubicado en Mariano Fragueiro, Córdoba Capital, este departamento en Bv Los Andes 167 ofrece una excelente oportunidad de inversión. Con 40 años de antigüedad, presenta tres dormitorios y un baño completo. La seguridad nocturna garantiza tranquilidad, y aunque no cuenta con cochera propia, existe la posibilidad de alquilar una en el edificio. El departamento, situado en el segundo piso con disposición al frente, dispone de 63 m2 cubiertos. Servicios de agua corriente, gas natural y electricidad están incluidos. Además, el edificio cuenta con cuatro ascensores para mayor comodidad. Los pisos de parquet y la calefacción por gas añaden confort al espacio. Ideal para familias o profesionales, se encuentra a poca distancia del centro, facilitando el acceso a comercios y servicios.\nIMPORTANTE: La presente publicación está sujeta a disponibilidad. La información es meramente referencial. Los datos no constituyen oferta alguna y se encuentran sujetos a la confirmación del propietario, por lo que los términos no resultan vinculantes entre las partes. La operación que se desea llevar a cabo se encuentra sujeta a disponibilidad de contacto con la inmobiliaria.\n\nVILLA ALLENDE – Rio de Janeiro 1725. Torre 1. Of. 11 – Clyde Herreros 351 3792881\n",
    "operacion": "Alquiler",
    "precio": 1100000,
@@ -27300,7 +27300,7 @@
    "video": null,
    "destacada": false,
    "creada": "2026-10-27T16:09:40",
-   "actualizada": "2026-10-29T00:30:04"
+   "actualizada": "2026-10-29T12:24:20"
   },
   {
    "id": 13112806,
